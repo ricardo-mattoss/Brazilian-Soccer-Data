@@ -4,7 +4,7 @@ author: "Ricardo Mattos"
 date: "28/06/2020"
 output:
   html_document:
-    # html_notebook:
+    html_notebook:
     df_print: paged
     toc: yes
     code_folding: hide
@@ -17,7 +17,7 @@ output:
 # Introdução
 
 
-Este paper visa fazer uma rápida introdução e exemplificação de web scraping(coleta de dados da internet), resolvendo um problema para muitos estatísticos e/ou aspirantes a data science amantes do principal esporte nacional, o futebol. É comum ver no início da faculdade, jovens dando os primeiros passos em análise de dados e/ou modelagem buscando por dados de futebol(eu sou o exemplo vivo rs). Assim sendo, focaremos em buscar e estruturar dados de jogos do campeonato brasileiro de 2012 à 2019. que ficará disponível nesse repostirório no meu **github<>**
+Este paper visa fazer uma rápida introdução e exemplificação de web scraping(coleta de dados da internet), resolvendo um problema para muitos estatísticos e/ou aspirantes a data science amantes do principal esporte nacional, o futebol. É comum ver no início da faculdade, jovens dando os primeiros passos em análise de dados e/ou modelagem buscando por dados de futebol(eu sou o exemplo vivo rs), perdi muito tempo googlando atrás de uma base de jogos estruturadas no início da faculdade. Assim sendo, o objetivo desse paper é ensinar a buscar e estruturar dados de jogos do campeonato brasileiro de 2012 à 2019. que ficará disponível nesse repostirório no meu **[github](https://github.com/ricardomattos05/Scraping_Brasileirao)**
 
 # Site da CBF
 
@@ -42,7 +42,6 @@ O que queremos são as informações do quadro a direita da tabela de classifica
 <br>
 Dessa forma conseguimos encontrar padrões e observar a principal classe de interesse **aside-rodadas**, classe a qual engloba todos os dados com informações sobre as rodadas do Brasileirão. Com isso em mente, vamos para o R!
 </br>
-
 
 # Indo para o R
 
@@ -119,14 +118,12 @@ df %>%
 
 E voìla! Temos um um dataframe dos jogos do brasileirão, extraído diretamente do site da CBF.
 
-
 <br>![](https://media.tenor.com/images/e51f4b0cfdef4203774fff000f98b818/tenor.gif)</br>
 
 
 <br> Porém, isso não é tudo, lembra que falei para guardar a informação da mudança no link ao selecionar o ano do campeonato? Então, agora é a hora de utilizar essa informação! </br>
 
 Faremos um loop utilizando o auxílio do pacote glue para alterar o ano da url e faremos um incremento dos dados na tabela final para termos os dados de todos os jogos dos campeonatos desde 2012.
-library(glue)
 
 
 ```{r, message=FALSE}
@@ -188,20 +185,3 @@ summary(df) %>%
 
 
 E dessa forma temos o nosso df estruturado com os jogos dos Brasileirões de 2012 a 2019. Até a próxima!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

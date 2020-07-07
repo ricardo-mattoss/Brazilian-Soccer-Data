@@ -4,6 +4,7 @@ author: "Ricardo Mattos"
 date: "28/06/2020"
 output:
   html_document:
+    # html_notebook:
     df_print: paged
     toc: yes
     code_folding: hide
@@ -42,7 +43,6 @@ O que queremos são as informações do quadro a direita da tabela de classifica
 Dessa forma conseguimos encontrar padrões e observar a principal classe de interesse **aside-rodadas**, classe a qual engloba todos os dados com informações sobre as rodadas do Brasileirão. Com isso em mente, vamos para o R!
 </br>
 
-<br>![](https://media.tenor.com/images/e51f4b0cfdef4203774fff000f98b818/tenor.gif)</br>
 
 # Indo para o R
 
@@ -119,7 +119,8 @@ df %>%
 
 E voìla! Temos um um dataframe dos jogos do brasileirão, extraído diretamente do site da CBF.
 
-<!-- <br> ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.pt%2Fpin%2F815292338784365139%2F&psig=AOvVaw3CxCI3C1UGlA_aO1jWtgQT&ust=1594222814642000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDzuvi8u-oCFQAAAAAdAAAAABAS)</br> -->
+
+<br>![](https://media.tenor.com/images/e51f4b0cfdef4203774fff000f98b818/tenor.gif)</br>
 
 
 <br> Porém, isso não é tudo, lembra que falei para guardar a informação da mudança no link ao selecionar o ano do campeonato? Então, agora é a hora de utilizar essa informação! </br>

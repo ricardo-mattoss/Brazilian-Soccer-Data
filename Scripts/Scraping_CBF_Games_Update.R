@@ -7,9 +7,7 @@ library(lubridate)
 
 
 df_atual <-
-  read_csv(
-    "Brasileirao_Matches.csv"
-  )
+  read_csv("Data/Brasileirao_Matches.csv")
 
 max_ano <- df_atual %>%
   summarise(max(ano)) %>% as.numeric()

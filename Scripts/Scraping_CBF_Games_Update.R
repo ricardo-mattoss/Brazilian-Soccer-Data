@@ -5,19 +5,20 @@ library(dplyr)
 library(readr)
 library(lubridate)
 
-
+# Reading the DF
 df_atual <-
   read_csv("Data/Brasileirao_Matches.csv")
 
+# Getting the last year on the DF
 max_ano <- df_atual %>%
   summarise(max(ano)) %>% as.numeric()
 
 
-
+# Scraping function
 for (i in (max_ano + 1):year(Sys.Date())) {
   if (max_ano == year(Sys.Date()))
   {
-    print("The data frame is already updated")
+    stop("The data frame is already updated")
   }
   else {
     url <-

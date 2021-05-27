@@ -1,3 +1,4 @@
+devtools::load_all()
 source("Docs/Scraping_Brasileirao_function.R")
 
 # Creating df with historical data

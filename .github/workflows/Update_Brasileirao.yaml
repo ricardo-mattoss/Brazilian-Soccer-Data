@@ -8,7 +8,7 @@ name: Update Brasileirao
 # events but only for the master branch
 on:
   schedule:
-  - cron: "0 1 * * *"
+  - cron: "30 23 * 5-12 3"
   workflow_dispatch:
 
 jobs:

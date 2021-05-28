@@ -2,9 +2,8 @@ library(stringr)
 library(rvest)
 library(glue)
 library(dplyr)
-library(readr)
 library(lubridate)
-
+library(xml2)
 
 scraper_libertadores_group <- function(season) {
   url <-
@@ -20,11 +19,6 @@ scraper_libertadores_group <- function(season) {
     results <- url %>%
       read_html() %>%
       html_nodes(".rodadas")
-    
-    # Getting rounds of group phase
-    # rodadas <- results %>%
-    #   html_nodes(".pg-color4") %>%
-    #   html_text()
     
     # Getting datetime of matches
     data <- results %>%

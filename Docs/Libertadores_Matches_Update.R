@@ -1,4 +1,4 @@
-source("Docs/Scraping_Libertadores_Groups.R")
+source("Docs/Scraping_Libertadores_function.R")
 
 # Creating df with historical data
 # Libertadores_Matches <-

@@ -3,6 +3,7 @@ library(rvest)
 library(stringr)
 library(dplyr)
 library(lubridate)
+library(xml2)
 
 scraping_brasileirao <- function(season) {
   url <-
@@ -12,7 +13,7 @@ scraping_brasileirao <- function(season) {
   
   # Getting node with table matches
   resultados <- url %>%
-    html() %>%
+    xml2::read_html() %>%
     html_nodes(".aside-rodadas")
   
   # Getting and convert in datetime

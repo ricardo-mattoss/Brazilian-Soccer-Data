@@ -1,3 +1,5 @@
+[![Update Brasileirao](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Brasileirao.yaml/badge.svg)](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Brasileirao.yaml)
+
 # Brazilian Soccer Data
 
 This repository consists of collecting the history and current data of all the most important competitions that Brazilian teams compete, the principal competitions are:

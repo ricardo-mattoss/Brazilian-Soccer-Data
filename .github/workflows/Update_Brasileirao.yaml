@@ -39,21 +39,24 @@ jobs:
           sudo apt install libjq-dev
           sudo add-apt-repository ppa:cran/libgit2
           sudo apt-get install libgit2-dev
-      - name: Cache packages
-        uses: actions/cache@v1
+      
+      - name: Cache R packages
+        id: cache
+        uses: actions/cache@v2
         with:
-          path: ${{ env.RENV_PATHS_ROOT }}
-          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-shinydoc
           restore-keys: |
-            ${{ runner.os }}-renv-
-      - name: Install packages
-         ### vv new line
+            ${{ runner.os }}-
+            
+      - name: Install dependencies
+        ### vv new line
          if: steps.cache.outputs.cache-hit != 'true'
          ### ^^ new line
          run: |
           install.packages(c("glue", "dplyr", "rvest", "stringr", "lubridate",
                               "tidyr"))
-         shell: Rscript {0}
+         shell: Rscript {0}                            
       - name: Scrape and update
         run: |
           Rscript Docs/Brasileirao_Matches_Update.R

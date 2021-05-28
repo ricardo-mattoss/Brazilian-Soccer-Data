@@ -50,9 +50,7 @@ jobs:
             ${{ runner.os }}-
             
       - name: Install dependencies
-        ### vv new line
          if: steps.cache.outputs.cache-hit != 'true'
-         ### ^^ new line
          run: |
           install.packages(c("glue", "dplyr", "rvest", "stringr", "lubridate",
                               "tidyr"))

@@ -1,7 +1,7 @@
 library(glue)
 library(rvest)
 library(stringr)
-library(tidyverse)
+library(dplyr)
 library(lubridate)
 
 scraping_brasileirao <- function(season) {

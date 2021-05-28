@@ -51,7 +51,8 @@ jobs:
          if: steps.cache.outputs.cache-hit != 'true'
          ### ^^ new line
          run: |
-          install.packages(c("glue", "dplyr", "rvest", "stringr", "lubridate"))
+          install.packages(c("glue", "dplyr", "rvest", "stringr", "lubridate",
+                              "tidyr"))
          shell: Rscript {0}
       - name: Scrape and update
         run: |

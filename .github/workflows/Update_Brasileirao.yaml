@@ -50,10 +50,11 @@ jobs:
             ${{ runner.os }}-
             
       - name: Install dependencies
+        shell: Rscript {0}  
          run: |
           install.packages(c("glue", "dplyr", "rvest", "stringr", "lubridate",
                               "tidyr"))
-         shell: Rscript {0}                            
+                                   
       - name: Scrape and update
         run: |
           Rscript Docs/Brasileirao_Matches_Update.R

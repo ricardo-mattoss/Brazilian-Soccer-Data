@@ -48,13 +48,14 @@ jobs:
           key: ${{ runner.os }}-shinydoc
           restore-keys: |
             ${{ runner.os }}-
+      - name: Install packages
+        shell: Rscript {0}
+        run: |
+          install.packages(c("glue", "dplyr",
+          "rvest", "stringr", "lubridate", "tidyr"))
+          if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
+          renv::restore(repos = "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest")
             
-      - name: Install dependencies
-        shell: Rscript {0}  
-         run: |
-          install.packages(c("glue", "dplyr", "rvest", "stringr", "lubridate",
-                              "tidyr"))
-                                   
       - name: Scrape and update
         run: |
           Rscript Docs/Brasileirao_Matches_Update.R

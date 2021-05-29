@@ -1,4 +1,4 @@
-[![Update Brasileirao](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Brasileirao.yaml/badge.svg)](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Brasileirao.yaml)
+[![Brasileirao](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Brasileirao.yaml/badge.svg)](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Brasileirao.yaml)      [![Libertadores](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Libertadores.yaml/badge.svg)](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Libertadores.yaml)
 
 # Brazilian Soccer Data
 
@@ -10,5 +10,10 @@ This repository consists of collecting the history and current data of all the m
 * Copa do Brasil(Brazilian Cup)
 
 you can download data [here](https://github.com/ricardomattos05/Scraping_Brasileirao/tree/master/Data) or in the [kaggle dataset](https://www.kaggle.com/ricardomattos05/jogos-do-campeonato-brasileiro)
+
+Next Steps:
+- structure the collection of the games of the sudamericana and copa do brasil
+- Gather data from the main state championships(SP, RJ, MG, RS)
+- Gather more data from these championships, such as match statistics
 
 Any questions or suggestions are welcome.

@@ -37,6 +37,5 @@ jobs:
           title: "Brazilian Soccer Database"
           subtitle: "Matches of the main competitions in which Brazilian soccer teams participate"
           description: "# Brazilian Soccer Data This repository consists of collecting the history and current data of all the most important competitions that Brazilian teams compete, the principal competitions are: * Brasileirão(Brazilian soccer league) * Libertatodes(Principal South america Competition) * Sudamericana(South American secondary competition) * Copa do Brasil(Brazilian Cup)"
-          files:  *.csv
           is_public: true
 

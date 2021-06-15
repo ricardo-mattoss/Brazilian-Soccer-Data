@@ -15,7 +15,7 @@ Brasileirao_Matches <- read.csv("Data/Brasileirao_Matches.csv",
   as_tibble() %>%
   mutate(datetime = datetime %>% as_datetime())
 
-# Count of matches without data in currente df
+# Count of matches without data in current df
 rows_df_na <- Brasileirao_Matches %>%
   filter(season == year(Sys.Date()) &
            is.na(home_goal)) %>%

@@ -1,9 +1,17 @@
-library(glue)
-library(rvest)
-library(stringr)
-library(dplyr)
-library(lubridate)
-library(xml2)
+## specify the packages of interest
+packages = c("rvest", "stringr", "glue", "dplyr", "lubridate", "xml2")
+
+
+## Now load or install&load all
+package.check <- lapply(
+  packages,
+  FUN = function(x) {
+    if (!require(x, character.only = TRUE)) {
+      install.packages(x, dependencies = TRUE)
+      library(x, character.only = TRUE)
+    }
+  }
+)
 
 scraping_brasileirao <- function(season) {
   url <-
@@ -11,8 +19,17 @@ scraping_brasileirao <- function(season) {
       "https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/{season}"
     )
   
+  for (i in 1:100) {
+    con <- url %>% httr::GET()
+    if (con$status_code == 200) {
+      break
+    }
+    print(paste0("Tentativa de conexão ", i))
+    
+  }
+  
   # Getting node with table matches
-  resultados <- url %>%
+  resultados <- con %>%
     xml2::read_html() %>%
     html_nodes(".aside-rodadas")
   
@@ -56,12 +73,12 @@ scraping_brasileirao <- function(season) {
   
   # Getting home team goals
   home_goal <- placar %>%
-    str_sub(1, 1) %>% 
+    str_sub(1, 1) %>%
     as.integer()
   
   # Getting away team goals
   away_goal <- placar %>%
-    str_sub(5, 5) %>% 
+    str_sub(5, 5) %>%
     as.integer()
   
   # Getting round of league
@@ -79,6 +96,6 @@ scraping_brasileirao <- function(season) {
     season = rep(season, length(round)),
     round = round
   )
-
+  
   
 }

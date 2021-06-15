@@ -1,9 +1,17 @@
-library(stringr)
-library(rvest)
-library(glue)
-library(dplyr)
-library(lubridate)
-library(xml2)
+## specify the packages of interest
+packages = c("rvest", "stringr", "glue", "dplyr", "lubridate", "xml2")
+
+
+## Now load or install&load all
+package.check <- lapply(
+  packages,
+  FUN = function(x) {
+    if (!require(x, character.only = TRUE)) {
+      install.packages(x, dependencies = TRUE)
+      library(x, character.only = TRUE)
+    }
+  }
+)
 
 scraper_libertadores_group <- function(season) {
   url <-

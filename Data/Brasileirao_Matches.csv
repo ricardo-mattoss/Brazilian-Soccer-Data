@@ -3440,53 +3440,53 @@ NA,"Grêmio","RS","Flamengo","RJ",NA,NA,2021,2
 2021-06-06 18:15:00,"Palmeiras","SP","Chapecoense","SC",3,1,2021,2
 2021-06-06 20:30:00,"Sport","PE","Atlético Mineiro","MG",0,1,2021,2
 NA,"Cuiabá","MT","Atlético","GO",NA,NA,2021,3
-2021-06-12 19:00:00,"Palmeiras","SP","Corinthians","SP",NA,NA,2021,3
-2021-06-12 19:00:00,"Santos","SP","Juventude","RS",NA,NA,2021,3
-2021-06-13 16:00:00,"Flamengo","RJ","America","MG",NA,NA,2021,3
-2021-06-13 16:00:00,"Atlético Mineiro","MG","São Paulo","SP",NA,NA,2021,3
-2021-06-13 16:00:00,"Grêmio","RS","Athletico Paranaense","PR",NA,NA,2021,3
-2021-06-13 20:30:00,"Red Bull Bragantino","SP","Fluminense","RJ",NA,NA,2021,3
-2021-06-13 20:30:00,"Chapecoense","SC","Ceará","CE",NA,NA,2021,3
-2021-06-13 20:30:00,"Bahia","BA","Internacional","RS",NA,NA,2021,3
-2021-06-13 20:30:00,"Fortaleza","CE","Sport","PE",NA,NA,2021,3
+2021-06-12 19:00:00,"Palmeiras","SP","Corinthians","SP",1,1,2021,3
+2021-06-12 19:00:00,"Santos","SP","Juventude","RS",0,0,2021,3
+2021-06-13 16:00:00,"Flamengo","RJ","America","MG",2,0,2021,3
+2021-06-13 16:00:00,"Atlético Mineiro","MG","São Paulo","SP",1,0,2021,3
+2021-06-13 16:00:00,"Grêmio","RS","Athletico Paranaense","PR",0,1,2021,3
+2021-06-13 20:30:00,"Chapecoense","SC","Ceará","CE",0,0,2021,3
+2021-06-13 20:30:00,"Red Bull Bragantino","SP","Fluminense","RJ",2,2,2021,3
+2021-06-13 20:30:00,"Bahia","BA","Internacional","RS",0,1,2021,3
+2021-06-13 20:30:00,"Fortaleza","CE","Sport","PE",1,0,2021,3
 NA,"Athletico Paranaense","PR","Flamengo","RJ",NA,NA,2021,4
 2021-06-16 19:00:00,"São Paulo","SP","Chapecoense","SC",NA,NA,2021,4
 2021-06-16 19:00:00,"Internacional","RS","Atlético Mineiro","MG",NA,NA,2021,4
 2021-06-16 20:30:00,"Corinthians","SP","Red Bull Bragantino","SP",NA,NA,2021,4
 2021-06-16 21:30:00,"Juventude","RS","Palmeiras","SP",NA,NA,2021,4
 2021-06-17 16:00:00,"America","MG","Cuiabá","MT",NA,NA,2021,4
+2021-06-17 16:00:00,"Ceará","CE","Bahia","BA",NA,NA,2021,4
 2021-06-17 19:00:00,"Fluminense","RJ","Santos","SP",NA,NA,2021,4
-2021-06-17 19:00:00,"Ceará","CE","Bahia","BA",NA,NA,2021,4
+2021-06-17 19:00:00,"Sport","PE","Grêmio","RS",NA,NA,2021,4
 2021-06-17 19:00:00,"Atlético","GO","Fortaleza","CE",NA,NA,2021,4
-2021-06-17 21:00:00,"Sport","PE","Grêmio","RS",NA,NA,2021,4
-2021-06-19 20:00:00,"Flamengo","RJ","Red Bull Bragantino","SP",NA,NA,2021,5
+2021-06-19 21:00:00,"Flamengo","RJ","Red Bull Bragantino","SP",NA,NA,2021,5
 2021-06-20 11:00:00,"Palmeiras","SP","America","MG",NA,NA,2021,5
 2021-06-20 16:00:00,"Bahia","BA","Corinthians","SP",NA,NA,2021,5
+2021-06-20 16:00:00,"Cuiabá","MT","Grêmio","RS",NA,NA,2021,5
 2021-06-20 16:00:00,"Internacional","RS","Ceará","CE",NA,NA,2021,5
+2021-06-20 18:15:00,"Fortaleza","CE","Fluminense","RJ",NA,NA,2021,5
 2021-06-20 18:15:00,"Santos","SP","São Paulo","SP",NA,NA,2021,5
 2021-06-20 18:15:00,"Athletico Paranaense","PR","Atlético","GO",NA,NA,2021,5
-2021-06-20 18:15:00,"Fortaleza","CE","Fluminense","RJ",NA,NA,2021,5
 2021-06-20 20:30:00,"Juventude","RS","Sport","PE",NA,NA,2021,5
-2021-06-20 20:30:00,"Cuiabá","MT","Grêmio","RS",NA,NA,2021,5
 2021-06-21 20:00:00,"Atlético Mineiro","MG","Chapecoense","SC",NA,NA,2021,5
 2021-06-23 19:00:00,"Atlético","GO","Fluminense","RJ",NA,NA,2021,6
+2021-06-23 19:00:00,"São Paulo","SP","Cuiabá","MT",NA,NA,2021,6
 2021-06-23 19:00:00,"Flamengo","RJ","Fortaleza","CE",NA,NA,2021,6
-2021-06-23 20:30:00,"Grêmio","RS","Santos","SP",NA,NA,2021,6
-2021-06-23 20:30:00,"Red Bull Bragantino","SP","Palmeiras","SP",NA,NA,2021,6
-2021-06-23 21:30:00,"Bahia","BA","Athletico Paranaense","PR",NA,NA,2021,6
-2021-06-23 21:30:00,"São Paulo","SP","Cuiabá","MT",NA,NA,2021,6
+2021-06-23 19:00:00,"Red Bull Bragantino","SP","Palmeiras","SP",NA,NA,2021,6
 2021-06-24 16:00:00,"America","MG","Juventude","RS",NA,NA,2021,6
 2021-06-24 19:00:00,"Ceará","CE","Atlético Mineiro","MG",NA,NA,2021,6
+2021-06-24 19:00:00,"Chapecoense","SC","Internacional","RS",NA,NA,2021,6
 2021-06-24 19:00:00,"Corinthians","SP","Sport","PE",NA,NA,2021,6
-2021-06-24 21:00:00,"Chapecoense","SC","Internacional","RS",NA,NA,2021,6
-2021-06-26 16:30:00,"Grêmio","RS","Fortaleza","CE",NA,NA,2021,7
-2021-06-26 19:00:00,"Palmeiras","SP","Bahia","BA",NA,NA,2021,7
+2021-06-24 21:30:00,"Bahia","BA","Athletico Paranaense","PR",NA,NA,2021,6
+2021-06-24 21:30:00,"Grêmio","RS","Santos","SP",NA,NA,2021,6
 2021-06-27 11:00:00,"Juventude","RS","Flamengo","RJ",NA,NA,2021,7
 2021-06-27 16:00:00,"Fluminense","RJ","Corinthians","SP",NA,NA,2021,7
-2021-06-27 16:00:00,"Santos","SP","Atlético Mineiro","MG",NA,NA,2021,7
-2021-06-27 18:15:00,"Ceará","CE","São Paulo","SP",NA,NA,2021,7
-2021-06-27 18:15:00,"Athletico Paranaense","PR","Chapecoense","SC",NA,NA,2021,7
+2021-06-27 20:00:00,"Palmeiras","SP","Bahia","BA",NA,NA,2021,7
+2021-06-27 20:00:00,"Grêmio","RS","Fortaleza","CE",NA,NA,2021,7
+2021-06-27 20:00:00,"Athletico Paranaense","PR","Chapecoense","SC",NA,NA,2021,7
 2021-06-27 20:30:00,"America","MG","Internacional","RS",NA,NA,2021,7
+2021-06-27 20:30:00,"Santos","SP","Atlético Mineiro","MG",NA,NA,2021,7
+2021-06-27 20:30:00,"Ceará","CE","São Paulo","SP",NA,NA,2021,7
 2021-06-27 20:30:00,"Sport","PE","Cuiabá","MT",NA,NA,2021,7
 2021-06-28 20:00:00,"Atlético","GO","Red Bull Bragantino","SP",NA,NA,2021,7
 2021-06-30 16:00:00,"Fortaleza","CE","Chapecoense","SC",NA,NA,2021,8

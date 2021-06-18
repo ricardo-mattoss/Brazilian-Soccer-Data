@@ -3450,12 +3450,12 @@ NA,"Cuiabá","MT","Atlético","GO",NA,NA,2021,3
 2021-06-13 20:30:00,"Bahia","BA","Internacional","RS",0,1,2021,3
 2021-06-13 20:30:00,"Fortaleza","CE","Sport","PE",1,0,2021,3
 NA,"Athletico Paranaense","PR","Flamengo","RJ",NA,NA,2021,4
-2021-06-16 19:00:00,"São Paulo","SP","Chapecoense","SC",NA,NA,2021,4
-2021-06-16 19:00:00,"Internacional","RS","Atlético Mineiro","MG",NA,NA,2021,4
-2021-06-16 20:30:00,"Corinthians","SP","Red Bull Bragantino","SP",NA,NA,2021,4
-2021-06-16 21:30:00,"Juventude","RS","Palmeiras","SP",NA,NA,2021,4
-2021-06-17 16:00:00,"America","MG","Cuiabá","MT",NA,NA,2021,4
-2021-06-17 16:00:00,"Ceará","CE","Bahia","BA",NA,NA,2021,4
+2021-06-16 19:00:00,"São Paulo","SP","Chapecoense","SC",1,1,2021,4
+2021-06-16 19:00:00,"Internacional","RS","Atlético Mineiro","MG",0,1,2021,4
+2021-06-16 20:30:00,"Corinthians","SP","Red Bull Bragantino","SP",1,2,2021,4
+2021-06-16 21:30:00,"Juventude","RS","Palmeiras","SP",0,3,2021,4
+2021-06-17 16:00:00,"America","MG","Cuiabá","MT",0,0,2021,4
+2021-06-17 16:00:00,"Ceará","CE","Bahia","BA",1,2,2021,4
 2021-06-17 19:00:00,"Fluminense","RJ","Santos","SP",NA,NA,2021,4
 2021-06-17 19:00:00,"Sport","PE","Grêmio","RS",NA,NA,2021,4
 2021-06-17 19:00:00,"Atlético","GO","Fortaleza","CE",NA,NA,2021,4

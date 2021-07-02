@@ -1,4 +1,6 @@
-[![Brasileirao](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Brasileirao.yaml/badge.svg)](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Brasileirao.yaml)      [![Libertadores](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Libertadores.yaml/badge.svg)](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Libertadores.yaml)
+[![Brasileirao](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Brasileirao.yaml/badge.svg)](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Brasileirao.yaml)      
+[![Libertadores](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Libertadores.yaml/badge.svg)](https://github.com/ricardomattos05/Scraping_Brasileirao/actions/workflows/Update_Libertadores.yaml)  
+[![Update Copa do Brasil](https://github.com/ricardomattos05/Brazilian-Soccer-Data/actions/workflows/Update_Copa_Brasil.yaml/badge.svg)](https://github.com/ricardomattos05/Brazilian-Soccer-Data/actions/workflows/Update_Copa_Brasil.yaml)
 
 # Brazilian Soccer Data
 

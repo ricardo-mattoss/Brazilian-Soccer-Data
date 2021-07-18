@@ -3529,8 +3529,8 @@ NA,"Cuiabá","MT","Grêmio","RS",NA,NA,2021,5
 2021-07-11 18:15:00,"Cuiabá","MT","Ceará","CE",2,2,2021,11
 2021-07-11 18:15:00,"Flamengo","RJ","Chapecoense","SC",2,1,2021,11
 2021-07-11 20:30:00,"Fortaleza","CE","Corinthians","SP",1,0,2021,11
-2021-07-17 17:00:00,"São Paulo","SP","Fortaleza","CE",NA,NA,2021,12
-2021-07-17 17:00:00,"Ceará","CE","Athletico Paranaense","PR",NA,NA,2021,12
+2021-07-17 17:00:00,"São Paulo","SP","Fortaleza","CE",0,1,2021,12
+2021-07-17 17:00:00,"Ceará","CE","Athletico Paranaense","PR",1,0,2021,12
 2021-07-17 19:00:00,"Corinthians","SP","Atlético Mineiro","MG",NA,NA,2021,12
 2021-07-17 21:00:00,"Fluminense","RJ","Grêmio","RS",NA,NA,2021,12
 2021-07-18 11:00:00,"Chapecoense","SC","Cuiabá","MT",NA,NA,2021,12
@@ -3541,9 +3541,9 @@ NA,"Cuiabá","MT","Grêmio","RS",NA,NA,2021,5
 2021-07-19 20:00:00,"America","MG","Sport","PE",NA,NA,2021,12
 2021-07-24 17:00:00,"Grêmio","RS","America","MG",NA,NA,2021,13
 2021-07-24 19:00:00,"Palmeiras","SP","Fluminense","RJ",NA,NA,2021,13
-2021-07-24 21:00:00,"Fortaleza","CE","Red Bull Bragantino","SP",NA,NA,2021,13
 2021-07-25 11:00:00,"Atlético Mineiro","MG","Bahia","BA",NA,NA,2021,13
 2021-07-25 16:00:00,"Flamengo","RJ","São Paulo","SP",NA,NA,2021,13
+2021-07-25 16:00:00,"Fortaleza","CE","Red Bull Bragantino","SP",NA,NA,2021,13
 2021-07-25 18:15:00,"Santos","SP","Atlético","GO",NA,NA,2021,13
 2021-07-25 18:15:00,"Athletico Paranaense","PR","Internacional","RS",NA,NA,2021,13
 2021-07-25 20:30:00,"Sport","PE","Ceará","CE",NA,NA,2021,13
@@ -3554,7 +3554,7 @@ NA,"Cuiabá","MT","Grêmio","RS",NA,NA,2021,5
 2021-07-31 20:00:00,"Internacional","RS","Cuiabá","MT",NA,NA,2021,14
 2021-07-31 21:00:00,"Red Bull Bragantino","SP","Grêmio","RS",NA,NA,2021,14
 2021-08-01 16:00:00,"Corinthians","SP","Flamengo","RJ",NA,NA,2021,14
-2021-08-01 18:15:00,"Atlético Mineiro","MG","Athletico Paranaense","PR",NA,NA,2021,14
+2021-08-01 16:00:00,"Atlético Mineiro","MG","Athletico Paranaense","PR",NA,NA,2021,14
 2021-08-01 18:15:00,"Bahia","BA","Sport","PE",NA,NA,2021,14
 2021-08-01 18:15:00,"Chapecoense","SC","Santos","SP",NA,NA,2021,14
 2021-08-01 20:30:00,"Atlético","GO","America","MG",NA,NA,2021,14
@@ -3563,11 +3563,11 @@ NA,"Cuiabá","MT","Grêmio","RS",NA,NA,2021,5
 2021-08-07 21:00:00,"Cuiabá","MT","Bahia","BA",NA,NA,2021,15
 2021-08-08 11:00:00,"Grêmio","RS","Chapecoense","SC",NA,NA,2021,15
 2021-08-08 16:00:00,"Palmeiras","SP","Fortaleza","CE",NA,NA,2021,15
+2021-08-08 16:00:00,"America","MG","Fluminense","RJ",NA,NA,2021,15
 2021-08-08 16:00:00,"Juventude","RS","Atlético Mineiro","MG",NA,NA,2021,15
 2021-08-08 18:15:00,"Flamengo","RJ","Internacional","RS",NA,NA,2021,15
 2021-08-08 18:15:00,"Ceará","CE","Atlético","GO",NA,NA,2021,15
 2021-08-08 18:15:00,"Athletico Paranaense","PR","São Paulo","SP",NA,NA,2021,15
-2021-08-08 20:30:00,"America","MG","Fluminense","RJ",NA,NA,2021,15
 2021-08-09 20:00:00,"Sport","PE","Red Bull Bragantino","SP",NA,NA,2021,15
 NA,"Red Bull Bragantino","SP","Juventude","RS",NA,NA,2021,16
 NA,"Cuiabá","MT","Athletico Paranaense","PR",NA,NA,2021,16

@@ -3423,10 +3423,10 @@
 2021-05-29 20:00:00,"Bahia","BA","Santos","SP",3,0,2021,1
 2021-05-29 21:00:00,"São Paulo","SP","Fluminense","RJ",0,0,2021,1
 2021-05-30 11:00:00,"Atlético Mineiro","MG","Fortaleza","CE",1,2,2021,1
-2021-05-30 16:00:00,"Ceará","CE","Grêmio","RS",3,2,2021,1
 2021-05-30 16:00:00,"Flamengo","RJ","Palmeiras","SP",1,0,2021,1
-2021-05-30 18:15:00,"Chapecoense","SC","Red Bull Bragantino","SP",0,3,2021,1
+2021-05-30 16:00:00,"Ceará","CE","Grêmio","RS",3,2,2021,1
 2021-05-30 18:15:00,"Athletico Paranaense","PR","America","MG",1,0,2021,1
+2021-05-30 18:15:00,"Chapecoense","SC","Red Bull Bragantino","SP",0,3,2021,1
 2021-05-30 18:15:00,"Corinthians","SP","Atlético","GO",0,1,2021,1
 2021-05-30 20:30:00,"Internacional","RS","Sport","PE",2,2,2021,1
 NA,"Grêmio","RS","Flamengo","RJ",NA,NA,2021,2
@@ -3434,31 +3434,31 @@ NA,"Grêmio","RS","Flamengo","RJ",NA,NA,2021,2
 2021-06-05 21:00:00,"Santos","SP","Ceará","CE",3,1,2021,2
 2021-06-05 21:00:00,"Red Bull Bragantino","SP","Bahia","BA",3,3,2021,2
 2021-06-06 11:00:00,"Fluminense","RJ","Cuiabá","MT",1,0,2021,2
-2021-06-06 16:00:00,"America","MG","Corinthians","SP",0,1,2021,2
 2021-06-06 16:00:00,"Fortaleza","CE","Internacional","RS",5,1,2021,2
+2021-06-06 16:00:00,"America","MG","Corinthians","SP",0,1,2021,2
 2021-06-06 18:15:00,"Palmeiras","SP","Chapecoense","SC",3,1,2021,2
 2021-06-06 18:15:00,"Juventude","RS","Athletico Paranaense","PR",0,3,2021,2
 2021-06-06 20:30:00,"Sport","PE","Atlético Mineiro","MG",0,1,2021,2
 2021-06-12 19:00:00,"Palmeiras","SP","Corinthians","SP",1,1,2021,3
 2021-06-12 19:00:00,"Santos","SP","Juventude","RS",0,0,2021,3
 2021-06-13 16:00:00,"Atlético Mineiro","MG","São Paulo","SP",1,0,2021,3
-2021-06-13 16:00:00,"Flamengo","RJ","America","MG",2,0,2021,3
 2021-06-13 16:00:00,"Grêmio","RS","Athletico Paranaense","PR",0,1,2021,3
-2021-06-13 20:30:00,"Chapecoense","SC","Ceará","CE",0,0,2021,3
-2021-06-13 20:30:00,"Bahia","BA","Internacional","RS",0,1,2021,3
-2021-06-13 20:30:00,"Red Bull Bragantino","SP","Fluminense","RJ",2,2,2021,3
+2021-06-13 16:00:00,"Flamengo","RJ","America","MG",2,0,2021,3
 2021-06-13 20:30:00,"Fortaleza","CE","Sport","PE",1,0,2021,3
+2021-06-13 20:30:00,"Chapecoense","SC","Ceará","CE",0,0,2021,3
+2021-06-13 20:30:00,"Red Bull Bragantino","SP","Fluminense","RJ",2,2,2021,3
+2021-06-13 20:30:00,"Bahia","BA","Internacional","RS",0,1,2021,3
 2021-07-21 19:00:00,"Cuiabá","MT","Atlético","GO",2,1,2021,3
 NA,"Athletico Paranaense","PR","Flamengo","RJ",NA,NA,2021,4
-2021-06-16 19:00:00,"Internacional","RS","Atlético Mineiro","MG",0,1,2021,4
 2021-06-16 19:00:00,"São Paulo","SP","Chapecoense","SC",1,1,2021,4
+2021-06-16 19:00:00,"Internacional","RS","Atlético Mineiro","MG",0,1,2021,4
 2021-06-16 20:30:00,"Corinthians","SP","Red Bull Bragantino","SP",1,2,2021,4
 2021-06-16 21:30:00,"Juventude","RS","Palmeiras","SP",0,3,2021,4
-2021-06-17 16:00:00,"Ceará","CE","Bahia","BA",1,2,2021,4
 2021-06-17 16:00:00,"America","MG","Cuiabá","MT",0,0,2021,4
-2021-06-17 19:00:00,"Fluminense","RJ","Santos","SP",1,0,2021,4
+2021-06-17 16:00:00,"Ceará","CE","Bahia","BA",1,2,2021,4
 2021-06-17 19:00:00,"Sport","PE","Grêmio","RS",1,0,2021,4
 2021-06-17 19:00:00,"Atlético","GO","Fortaleza","CE",0,0,2021,4
+2021-06-17 19:00:00,"Fluminense","RJ","Santos","SP",1,0,2021,4
 NA,"Cuiabá","MT","Grêmio","RS",NA,NA,2021,5
 2021-06-19 21:00:00,"Flamengo","RJ","Red Bull Bragantino","SP",2,3,2021,5
 2021-06-20 11:00:00,"Palmeiras","SP","America","MG",2,1,2021,5
@@ -3469,14 +3469,14 @@ NA,"Cuiabá","MT","Grêmio","RS",NA,NA,2021,5
 2021-06-20 18:15:00,"Athletico Paranaense","PR","Atlético","GO",2,1,2021,5
 2021-06-20 20:30:00,"Juventude","RS","Sport","PE",1,0,2021,5
 2021-06-21 20:00:00,"Atlético Mineiro","MG","Chapecoense","SC",1,1,2021,5
-2021-06-23 19:00:00,"São Paulo","SP","Cuiabá","MT",2,2,2021,6
-2021-06-23 19:00:00,"Flamengo","RJ","Fortaleza","CE",2,1,2021,6
-2021-06-23 19:00:00,"Red Bull Bragantino","SP","Palmeiras","SP",3,1,2021,6
 2021-06-23 19:00:00,"Atlético","GO","Fluminense","RJ",1,0,2021,6
+2021-06-23 19:00:00,"Red Bull Bragantino","SP","Palmeiras","SP",3,1,2021,6
+2021-06-23 19:00:00,"Flamengo","RJ","Fortaleza","CE",2,1,2021,6
+2021-06-23 19:00:00,"São Paulo","SP","Cuiabá","MT",2,2,2021,6
 2021-06-24 16:00:00,"America","MG","Juventude","RS",1,1,2021,6
 2021-06-24 19:00:00,"Corinthians","SP","Sport","PE",2,1,2021,6
-2021-06-24 19:00:00,"Chapecoense","SC","Internacional","RS",1,2,2021,6
 2021-06-24 19:00:00,"Ceará","CE","Atlético Mineiro","MG",2,1,2021,6
+2021-06-24 19:00:00,"Chapecoense","SC","Internacional","RS",1,2,2021,6
 2021-06-24 21:30:00,"Grêmio","RS","Santos","SP",2,2,2021,6
 2021-06-24 21:30:00,"Bahia","BA","Athletico Paranaense","PR",2,1,2021,6
 2021-06-27 11:00:00,"Juventude","RS","Flamengo","RJ",1,0,2021,7
@@ -3484,15 +3484,15 @@ NA,"Cuiabá","MT","Grêmio","RS",NA,NA,2021,5
 2021-06-27 20:00:00,"Palmeiras","SP","Bahia","BA",3,2,2021,7
 2021-06-27 20:00:00,"Grêmio","RS","Fortaleza","CE",0,0,2021,7
 2021-06-27 20:00:00,"Athletico Paranaense","PR","Chapecoense","SC",2,2,2021,7
-2021-06-27 20:30:00,"Santos","SP","Atlético Mineiro","MG",2,0,2021,7
-2021-06-27 20:30:00,"America","MG","Internacional","RS",1,1,2021,7
-2021-06-27 20:30:00,"Ceará","CE","São Paulo","SP",1,1,2021,7
 2021-06-27 20:30:00,"Sport","PE","Cuiabá","MT",0,0,2021,7
+2021-06-27 20:30:00,"Ceará","CE","São Paulo","SP",1,1,2021,7
+2021-06-27 20:30:00,"America","MG","Internacional","RS",1,1,2021,7
+2021-06-27 20:30:00,"Santos","SP","Atlético Mineiro","MG",2,0,2021,7
 2021-06-28 20:00:00,"Atlético","GO","Red Bull Bragantino","SP",0,1,2021,7
-2021-06-30 16:00:00,"Fluminense","RJ","Athletico Paranaense","PR",1,4,2021,8
 2021-06-30 16:00:00,"Fortaleza","CE","Chapecoense","SC",3,2,2021,8
-2021-06-30 19:00:00,"Bahia","BA","America","MG",3,4,2021,8
+2021-06-30 16:00:00,"Fluminense","RJ","Athletico Paranaense","PR",1,4,2021,8
 2021-06-30 19:00:00,"Internacional","RS","Palmeiras","SP",1,2,2021,8
+2021-06-30 19:00:00,"Bahia","BA","America","MG",3,4,2021,8
 2021-06-30 20:30:00,"Santos","SP","Sport","PE",0,0,2021,8
 2021-06-30 21:30:00,"Corinthians","SP","São Paulo","SP",0,0,2021,8
 2021-06-30 21:30:00,"Juventude","RS","Grêmio","RS",2,0,2021,8
@@ -3503,165 +3503,165 @@ NA,"Cuiabá","MT","Grêmio","RS",NA,NA,2021,5
 2021-07-03 19:00:00,"America","MG","Santos","SP",2,0,2021,9
 2021-07-03 21:00:00,"Corinthians","SP","Internacional","RS",1,1,2021,9
 2021-07-04 11:00:00,"Chapecoense","SC","Bahia","BA",0,2,2021,9
-2021-07-04 16:00:00,"Flamengo","RJ","Fluminense","RJ",0,1,2021,9
 2021-07-04 16:00:00,"Sport","PE","Palmeiras","SP",0,1,2021,9
-2021-07-04 18:15:00,"São Paulo","SP","Red Bull Bragantino","SP",1,2,2021,9
-2021-07-04 18:15:00,"Cuiabá","MT","Atlético Mineiro","MG",0,1,2021,9
+2021-07-04 16:00:00,"Flamengo","RJ","Fluminense","RJ",0,1,2021,9
 2021-07-04 18:15:00,"Ceará","CE","Juventude","RS",2,0,2021,9
+2021-07-04 18:15:00,"Cuiabá","MT","Atlético Mineiro","MG",0,1,2021,9
+2021-07-04 18:15:00,"São Paulo","SP","Red Bull Bragantino","SP",1,2,2021,9
 2021-07-04 20:30:00,"Grêmio","RS","Atlético","GO",0,1,2021,9
 2021-07-06 19:30:00,"Santos","SP","Athletico Paranaense","PR",2,1,2021,10
 2021-07-07 18:00:00,"Fortaleza","CE","America","MG",4,0,2021,10
-2021-07-07 18:00:00,"Bahia","BA","Juventude","RS",1,0,2021,10
 2021-07-07 18:00:00,"Red Bull Bragantino","SP","Cuiabá","MT",1,1,2021,10
-2021-07-07 19:00:00,"Palmeiras","SP","Grêmio","RS",2,0,2021,10
+2021-07-07 18:00:00,"Bahia","BA","Juventude","RS",1,0,2021,10
 2021-07-07 19:00:00,"Atlético Mineiro","MG","Flamengo","RJ",2,1,2021,10
+2021-07-07 19:00:00,"Palmeiras","SP","Grêmio","RS",2,0,2021,10
 2021-07-07 19:15:00,"Atlético","GO","Sport","PE",1,1,2021,10
 2021-07-07 21:30:00,"Internacional","RS","São Paulo","SP",0,2,2021,10
 2021-07-07 21:30:00,"Fluminense","RJ","Ceará","CE",0,0,2021,10
 2021-07-08 21:00:00,"Chapecoense","SC","Corinthians","SP",0,1,2021,10
-2021-07-10 16:30:00,"Grêmio","RS","Internacional","RS",0,0,2021,11
 2021-07-10 16:30:00,"Palmeiras","SP","Santos","SP",3,2,2021,11
+2021-07-10 16:30:00,"Grêmio","RS","Internacional","RS",0,0,2021,11
 2021-07-10 17:30:00,"Athletico Paranaense","PR","Red Bull Bragantino","SP",2,2,2021,11
-2021-07-10 19:00:00,"America","MG","Atlético Mineiro","MG",0,1,2021,11
 2021-07-10 19:00:00,"São Paulo","SP","Bahia","BA",1,0,2021,11
+2021-07-10 19:00:00,"America","MG","Atlético Mineiro","MG",0,1,2021,11
 2021-07-10 19:00:00,"Sport","PE","Fluminense","RJ",1,2,2021,11
 2021-07-11 11:00:00,"Juventude","RS","Atlético","GO",1,1,2021,11
-2021-07-11 18:15:00,"Cuiabá","MT","Ceará","CE",2,2,2021,11
 2021-07-11 18:15:00,"Flamengo","RJ","Chapecoense","SC",2,1,2021,11
+2021-07-11 18:15:00,"Cuiabá","MT","Ceará","CE",2,2,2021,11
 2021-07-11 20:30:00,"Fortaleza","CE","Corinthians","SP",1,0,2021,11
-2021-07-17 17:00:00,"São Paulo","SP","Fortaleza","CE",0,1,2021,12
 2021-07-17 17:00:00,"Ceará","CE","Athletico Paranaense","PR",1,0,2021,12
+2021-07-17 17:00:00,"São Paulo","SP","Fortaleza","CE",0,1,2021,12
 2021-07-17 19:00:00,"Corinthians","SP","Atlético Mineiro","MG",1,2,2021,12
 2021-07-17 21:00:00,"Fluminense","RJ","Grêmio","RS",0,1,2021,12
 2021-07-18 11:00:00,"Chapecoense","SC","Cuiabá","MT",2,3,2021,12
 2021-07-18 16:00:00,"Atlético","GO","Palmeiras","SP",0,3,2021,12
 2021-07-18 18:15:00,"Bahia","BA","Flamengo","RJ",0,5,2021,12
-2021-07-18 20:30:00,"Red Bull Bragantino","SP","Santos","SP",2,2,2021,12
 2021-07-18 20:30:00,"Internacional","RS","Juventude","RS",1,0,2021,12
+2021-07-18 20:30:00,"Red Bull Bragantino","SP","Santos","SP",2,2,2021,12
 2021-07-19 20:00:00,"America","MG","Sport","PE",0,1,2021,12
 2021-07-24 17:00:00,"Grêmio","RS","America","MG",1,1,2021,13
 2021-07-24 19:00:00,"Palmeiras","SP","Fluminense","RJ",1,0,2021,13
 2021-07-25 11:00:00,"Atlético Mineiro","MG","Bahia","BA",3,0,2021,13
-2021-07-25 16:00:00,"Flamengo","RJ","São Paulo","SP",5,1,2021,13
 2021-07-25 16:00:00,"Fortaleza","CE","Red Bull Bragantino","SP",1,0,2021,13
+2021-07-25 16:00:00,"Flamengo","RJ","São Paulo","SP",5,1,2021,13
 2021-07-25 18:15:00,"Santos","SP","Atlético","GO",0,1,2021,13
 2021-07-25 18:15:00,"Athletico Paranaense","PR","Internacional","RS",2,1,2021,13
 2021-07-25 20:30:00,"Sport","PE","Ceará","CE",0,0,2021,13
 2021-07-26 18:00:00,"Juventude","RS","Chapecoense","SC",1,0,2021,13
-2021-07-26 20:00:00,"Cuiabá","MT","Corinthians","SP",NA,NA,2021,13
+2021-07-26 20:00:00,"Cuiabá","MT","Corinthians","SP",1,2,2021,13
 NA,"Fluminense","RJ","Juventude","RS",NA,NA,2021,14
 2021-07-31 19:00:00,"São Paulo","SP","Palmeiras","SP",NA,NA,2021,14
 2021-07-31 20:00:00,"Internacional","RS","Cuiabá","MT",NA,NA,2021,14
 2021-07-31 21:00:00,"Red Bull Bragantino","SP","Grêmio","RS",NA,NA,2021,14
-2021-08-01 16:00:00,"Corinthians","SP","Flamengo","RJ",NA,NA,2021,14
 2021-08-01 16:00:00,"Atlético Mineiro","MG","Athletico Paranaense","PR",NA,NA,2021,14
-2021-08-01 18:15:00,"Chapecoense","SC","Santos","SP",NA,NA,2021,14
+2021-08-01 16:00:00,"Corinthians","SP","Flamengo","RJ",NA,NA,2021,14
 2021-08-01 18:15:00,"Bahia","BA","Sport","PE",NA,NA,2021,14
-2021-08-01 20:30:00,"Atlético","GO","America","MG",NA,NA,2021,14
+2021-08-01 18:15:00,"Chapecoense","SC","Santos","SP",NA,NA,2021,14
 2021-08-01 20:30:00,"Ceará","CE","Fortaleza","CE",NA,NA,2021,14
+2021-08-01 20:30:00,"Atlético","GO","America","MG",NA,NA,2021,14
 2021-08-06 19:00:00,"Sport","PE","Red Bull Bragantino","SP",NA,NA,2021,15
 2021-08-07 18:00:00,"Athletico Paranaense","PR","São Paulo","SP",NA,NA,2021,15
 2021-08-07 21:00:00,"Palmeiras","SP","Fortaleza","CE",NA,NA,2021,15
 2021-08-07 21:00:00,"Cuiabá","MT","Bahia","BA",NA,NA,2021,15
+2021-08-08 16:00:00,"Juventude","RS","Atlético Mineiro","MG",NA,NA,2021,15
 2021-08-08 16:00:00,"Santos","SP","Corinthians","SP",NA,NA,2021,15
 2021-08-08 16:00:00,"America","MG","Fluminense","RJ",NA,NA,2021,15
-2021-08-08 16:00:00,"Juventude","RS","Atlético Mineiro","MG",NA,NA,2021,15
-2021-08-08 18:15:00,"Flamengo","RJ","Internacional","RS",NA,NA,2021,15
 2021-08-08 18:15:00,"Ceará","CE","Atlético","GO",NA,NA,2021,15
+2021-08-08 18:15:00,"Flamengo","RJ","Internacional","RS",NA,NA,2021,15
 2021-08-09 20:00:00,"Grêmio","RS","Chapecoense","SC",NA,NA,2021,15
-NA,"Red Bull Bragantino","SP","Juventude","RS",NA,NA,2021,16
-NA,"Cuiabá","MT","Athletico Paranaense","PR",NA,NA,2021,16
-NA,"Chapecoense","SC","America","MG",NA,NA,2021,16
-NA,"Bahia","BA","Atlético","GO",NA,NA,2021,16
-NA,"Fortaleza","CE","Santos","SP",NA,NA,2021,16
-NA,"Internacional","RS","Fluminense","RJ",NA,NA,2021,16
-NA,"Atlético Mineiro","MG","Palmeiras","SP",NA,NA,2021,16
-NA,"São Paulo","SP","Grêmio","RS",NA,NA,2021,16
-NA,"Corinthians","SP","Ceará","CE",NA,NA,2021,16
-NA,"Flamengo","RJ","Sport","PE",NA,NA,2021,16
-NA,"Ceará","CE","Flamengo","RJ",NA,NA,2021,17
-NA,"America","MG","Red Bull Bragantino","SP",NA,NA,2021,17
-NA,"Santos","SP","Internacional","RS",NA,NA,2021,17
-NA,"Palmeiras","SP","Cuiabá","MT",NA,NA,2021,17
-NA,"Fluminense","RJ","Atlético Mineiro","MG",NA,NA,2021,17
-NA,"Athletico Paranaense","PR","Corinthians","SP",NA,NA,2021,17
-NA,"Sport","PE","São Paulo","SP",NA,NA,2021,17
-NA,"Grêmio","RS","Bahia","BA",NA,NA,2021,17
-NA,"Juventude","RS","Fortaleza","CE",NA,NA,2021,17
-NA,"Atlético","GO","Chapecoense","SC",NA,NA,2021,17
-NA,"Atlético","GO","Internacional","RS",NA,NA,2021,18
-NA,"Santos","SP","Flamengo","RJ",NA,NA,2021,18
-NA,"Red Bull Bragantino","SP","Atlético Mineiro","MG",NA,NA,2021,18
-NA,"Sport","PE","Chapecoense","SC",NA,NA,2021,18
-NA,"Fortaleza","CE","Cuiabá","MT",NA,NA,2021,18
-NA,"Grêmio","RS","Corinthians","SP",NA,NA,2021,18
-NA,"America","MG","Ceará","CE",NA,NA,2021,18
-NA,"Juventude","RS","São Paulo","SP",NA,NA,2021,18
-NA,"Fluminense","RJ","Bahia","BA",NA,NA,2021,18
-NA,"Palmeiras","SP","Athletico Paranaense","PR",NA,NA,2021,18
-NA,"Cuiabá","MT","Santos","SP",NA,NA,2021,19
-NA,"Flamengo","RJ","Atlético","GO",NA,NA,2021,19
-NA,"Chapecoense","SC","Fluminense","RJ",NA,NA,2021,19
-NA,"Athletico Paranaense","PR","Sport","PE",NA,NA,2021,19
-NA,"Bahia","BA","Fortaleza","CE",NA,NA,2021,19
-NA,"Ceará","CE","Palmeiras","SP",NA,NA,2021,19
-NA,"Internacional","RS","Red Bull Bragantino","SP",NA,NA,2021,19
-NA,"Atlético Mineiro","MG","Grêmio","RS",NA,NA,2021,19
-NA,"Corinthians","SP","Juventude","RS",NA,NA,2021,19
-NA,"São Paulo","SP","America","MG",NA,NA,2021,19
-NA,"Atlético","GO","Corinthians","SP",NA,NA,2021,20
-NA,"Juventude","RS","Cuiabá","MT",NA,NA,2021,20
-NA,"Red Bull Bragantino","SP","Chapecoense","SC",NA,NA,2021,20
-NA,"Sport","PE","Internacional","RS",NA,NA,2021,20
-NA,"Fortaleza","CE","Atlético Mineiro","MG",NA,NA,2021,20
-NA,"Grêmio","RS","Ceará","CE",NA,NA,2021,20
-NA,"America","MG","Athletico Paranaense","PR",NA,NA,2021,20
-NA,"Palmeiras","SP","Flamengo","RJ",NA,NA,2021,20
-NA,"Santos","SP","Bahia","BA",NA,NA,2021,20
-NA,"Fluminense","RJ","São Paulo","SP",NA,NA,2021,20
-NA,"Atlético Mineiro","MG","Sport","PE",NA,NA,2021,21
+2021-08-14 17:00:00,"Red Bull Bragantino","SP","Juventude","RS",NA,NA,2021,16
+2021-08-14 19:00:00,"Atlético Mineiro","MG","Palmeiras","SP",NA,NA,2021,16
+2021-08-14 21:00:00,"São Paulo","SP","Grêmio","RS",NA,NA,2021,16
+2021-08-15 16:00:00,"Corinthians","SP","Ceará","CE",NA,NA,2021,16
+2021-08-15 16:00:00,"Flamengo","RJ","Sport","PE",NA,NA,2021,16
+2021-08-15 18:15:00,"Fortaleza","CE","Santos","SP",NA,NA,2021,16
+2021-08-15 18:15:00,"Bahia","BA","Atlético","GO",NA,NA,2021,16
+2021-08-15 18:15:00,"Cuiabá","MT","Athletico Paranaense","PR",NA,NA,2021,16
+2021-08-15 20:30:00,"Internacional","RS","Fluminense","RJ",NA,NA,2021,16
+2021-08-16 20:00:00,"Chapecoense","SC","America","MG",NA,NA,2021,16
+2021-08-21 17:00:00,"Atlético","GO","Chapecoense","SC",NA,NA,2021,17
+2021-08-21 19:00:00,"Grêmio","RS","Bahia","BA",NA,NA,2021,17
+2021-08-21 21:00:00,"Juventude","RS","Fortaleza","CE",NA,NA,2021,17
+2021-08-21 21:00:00,"Ceará","CE","Flamengo","RJ",NA,NA,2021,17
+2021-08-22 11:00:00,"Palmeiras","SP","Cuiabá","MT",NA,NA,2021,17
+2021-08-22 16:00:00,"Athletico Paranaense","PR","Corinthians","SP",NA,NA,2021,17
+2021-08-22 16:00:00,"Fluminense","RJ","Atlético Mineiro","MG",NA,NA,2021,17
+2021-08-22 18:15:00,"Santos","SP","Internacional","RS",NA,NA,2021,17
+2021-08-22 20:30:00,"Sport","PE","São Paulo","SP",NA,NA,2021,17
+2021-08-23 20:00:00,"America","MG","Red Bull Bragantino","SP",NA,NA,2021,17
+2021-08-28 11:00:00,"America","MG","Ceará","CE",NA,NA,2021,18
+2021-08-28 17:00:00,"Sport","PE","Chapecoense","SC",NA,NA,2021,18
+2021-08-28 19:00:00,"Fortaleza","CE","Cuiabá","MT",NA,NA,2021,18
+2021-08-28 21:00:00,"Palmeiras","SP","Athletico Paranaense","PR",NA,NA,2021,18
+2021-08-28 21:00:00,"Grêmio","RS","Corinthians","SP",NA,NA,2021,18
+2021-08-29 11:00:00,"Juventude","RS","São Paulo","SP",NA,NA,2021,18
+2021-08-29 16:00:00,"Santos","SP","Flamengo","RJ",NA,NA,2021,18
+2021-08-29 18:15:00,"Fluminense","RJ","Bahia","BA",NA,NA,2021,18
+2021-08-29 20:30:00,"Red Bull Bragantino","SP","Atlético Mineiro","MG",NA,NA,2021,18
+2021-08-30 20:00:00,"Atlético","GO","Internacional","RS",NA,NA,2021,18
+2021-09-04 19:00:00,"São Paulo","SP","America","MG",NA,NA,2021,19
+2021-09-04 21:00:00,"Cuiabá","MT","Santos","SP",NA,NA,2021,19
+2021-09-04 21:00:00,"Bahia","BA","Fortaleza","CE",NA,NA,2021,19
+2021-09-05 11:00:00,"Corinthians","SP","Juventude","RS",NA,NA,2021,19
+2021-09-05 16:00:00,"Internacional","RS","Red Bull Bragantino","SP",NA,NA,2021,19
+2021-09-05 16:00:00,"Ceará","CE","Palmeiras","SP",NA,NA,2021,19
+2021-09-05 16:00:00,"Chapecoense","SC","Fluminense","RJ",NA,NA,2021,19
+2021-09-05 18:15:00,"Flamengo","RJ","Atlético","GO",NA,NA,2021,19
+2021-09-05 18:15:00,"Athletico Paranaense","PR","Sport","PE",NA,NA,2021,19
+2021-09-05 20:30:00,"Atlético Mineiro","MG","Grêmio","RS",NA,NA,2021,19
+2021-09-11 17:00:00,"Juventude","RS","Cuiabá","MT",NA,NA,2021,20
+2021-09-11 19:00:00,"Palmeiras","SP","Flamengo","RJ",NA,NA,2021,20
+2021-09-11 21:00:00,"Santos","SP","Bahia","BA",NA,NA,2021,20
+2021-09-12 11:00:00,"Grêmio","RS","Ceará","CE",NA,NA,2021,20
+2021-09-12 16:00:00,"Fortaleza","CE","Atlético Mineiro","MG",NA,NA,2021,20
+2021-09-12 16:00:00,"America","MG","Athletico Paranaense","PR",NA,NA,2021,20
+2021-09-12 16:00:00,"Fluminense","RJ","São Paulo","SP",NA,NA,2021,20
+2021-09-12 18:15:00,"Atlético","GO","Corinthians","SP",NA,NA,2021,20
+2021-09-12 20:30:00,"Red Bull Bragantino","SP","Chapecoense","SC",NA,NA,2021,20
+2021-09-13 20:00:00,"Sport","PE","Internacional","RS",NA,NA,2021,20
 NA,"Cuiabá","MT","Fluminense","RJ",NA,NA,2021,21
 NA,"Chapecoense","SC","Palmeiras","SP",NA,NA,2021,21
 NA,"Athletico Paranaense","PR","Juventude","RS",NA,NA,2021,21
 NA,"Bahia","BA","Red Bull Bragantino","SP",NA,NA,2021,21
 NA,"Ceará","CE","Santos","SP",NA,NA,2021,21
 NA,"Internacional","RS","Fortaleza","CE",NA,NA,2021,21
+NA,"Atlético Mineiro","MG","Sport","PE",NA,NA,2021,21
 NA,"São Paulo","SP","Atlético","GO",NA,NA,2021,21
-NA,"Corinthians","SP","America","MG",NA,NA,2021,21
 NA,"Flamengo","RJ","Grêmio","RS",NA,NA,2021,21
+NA,"Corinthians","SP","America","MG",NA,NA,2021,21
 NA,"São Paulo","SP","Atlético Mineiro","MG",NA,NA,2021,22
-NA,"Corinthians","SP","Palmeiras","SP",NA,NA,2021,22
-NA,"Fluminense","RJ","Red Bull Bragantino","SP",NA,NA,2021,22
-NA,"Internacional","RS","Bahia","BA",NA,NA,2021,22
-NA,"America","MG","Flamengo","RJ",NA,NA,2021,22
-NA,"Ceará","CE","Chapecoense","SC",NA,NA,2021,22
-NA,"Sport","PE","Fortaleza","CE",NA,NA,2021,22
 NA,"Atlético","GO","Cuiabá","MT",NA,NA,2021,22
 NA,"Juventude","RS","Santos","SP",NA,NA,2021,22
 NA,"Athletico Paranaense","PR","Grêmio","RS",NA,NA,2021,22
-NA,"Red Bull Bragantino","SP","Corinthians","SP",NA,NA,2021,23
-NA,"Cuiabá","MT","America","MG",NA,NA,2021,23
-NA,"Chapecoense","SC","São Paulo","SP",NA,NA,2021,23
-NA,"Bahia","BA","Ceará","CE",NA,NA,2021,23
-NA,"Fortaleza","CE","Atlético","GO",NA,NA,2021,23
-NA,"Grêmio","RS","Sport","PE",NA,NA,2021,23
-NA,"Atlético Mineiro","MG","Internacional","RS",NA,NA,2021,23
+NA,"Sport","PE","Fortaleza","CE",NA,NA,2021,22
+NA,"Ceará","CE","Chapecoense","SC",NA,NA,2021,22
+NA,"Internacional","RS","Bahia","BA",NA,NA,2021,22
+NA,"America","MG","Flamengo","RJ",NA,NA,2021,22
+NA,"Corinthians","SP","Palmeiras","SP",NA,NA,2021,22
+NA,"Fluminense","RJ","Red Bull Bragantino","SP",NA,NA,2021,22
+NA,"Flamengo","RJ","Athletico Paranaense","PR",NA,NA,2021,23
 NA,"Santos","SP","Fluminense","RJ",NA,NA,2021,23
 NA,"Palmeiras","SP","Juventude","RS",NA,NA,2021,23
-NA,"Flamengo","RJ","Athletico Paranaense","PR",NA,NA,2021,23
+NA,"Atlético Mineiro","MG","Internacional","RS",NA,NA,2021,23
+NA,"Grêmio","RS","Sport","PE",NA,NA,2021,23
+NA,"Cuiabá","MT","America","MG",NA,NA,2021,23
+NA,"Chapecoense","SC","São Paulo","SP",NA,NA,2021,23
+NA,"Red Bull Bragantino","SP","Corinthians","SP",NA,NA,2021,23
+NA,"Bahia","BA","Ceará","CE",NA,NA,2021,23
+NA,"Fortaleza","CE","Atlético","GO",NA,NA,2021,23
+NA,"Ceará","CE","Internacional","RS",NA,NA,2021,24
 NA,"Atlético","GO","Athletico Paranaense","PR",NA,NA,2021,24
 NA,"Chapecoense","SC","Atlético Mineiro","MG",NA,NA,2021,24
 NA,"Red Bull Bragantino","SP","Flamengo","RJ",NA,NA,2021,24
 NA,"Sport","PE","Juventude","RS",NA,NA,2021,24
-NA,"Ceará","CE","Internacional","RS",NA,NA,2021,24
 NA,"Grêmio","RS","Cuiabá","MT",NA,NA,2021,24
 NA,"America","MG","Palmeiras","SP",NA,NA,2021,24
 NA,"São Paulo","SP","Santos","SP",NA,NA,2021,24
 NA,"Corinthians","SP","Bahia","BA",NA,NA,2021,24
 NA,"Fluminense","RJ","Fortaleza","CE",NA,NA,2021,24
 NA,"Cuiabá","MT","São Paulo","SP",NA,NA,2021,25
-NA,"Juventude","RS","America","MG",NA,NA,2021,25
 NA,"Athletico Paranaense","PR","Bahia","BA",NA,NA,2021,25
+NA,"Juventude","RS","America","MG",NA,NA,2021,25
 NA,"Sport","PE","Corinthians","SP",NA,NA,2021,25
 NA,"Fortaleza","CE","Flamengo","RJ",NA,NA,2021,25
 NA,"Internacional","RS","Chapecoense","SC",NA,NA,2021,25
@@ -3669,116 +3669,117 @@ NA,"Atlético Mineiro","MG","Ceará","CE",NA,NA,2021,25
 NA,"Santos","SP","Grêmio","RS",NA,NA,2021,25
 NA,"Palmeiras","SP","Red Bull Bragantino","SP",NA,NA,2021,25
 NA,"Fluminense","RJ","Atlético","GO",NA,NA,2021,25
-NA,"Corinthians","SP","Fluminense","RJ",NA,NA,2021,26
-NA,"Cuiabá","MT","Sport","PE",NA,NA,2021,26
 NA,"Chapecoense","SC","Athletico Paranaense","PR",NA,NA,2021,26
+NA,"Cuiabá","MT","Sport","PE",NA,NA,2021,26
 NA,"Red Bull Bragantino","SP","Atlético","GO",NA,NA,2021,26
 NA,"Bahia","BA","Palmeiras","SP",NA,NA,2021,26
 NA,"Fortaleza","CE","Grêmio","RS",NA,NA,2021,26
 NA,"Internacional","RS","America","MG",NA,NA,2021,26
 NA,"Atlético Mineiro","MG","Santos","SP",NA,NA,2021,26
 NA,"São Paulo","SP","Ceará","CE",NA,NA,2021,26
+NA,"Corinthians","SP","Fluminense","RJ",NA,NA,2021,26
 NA,"Flamengo","RJ","Juventude","RS",NA,NA,2021,26
-NA,"Palmeiras","SP","Internacional","RS",NA,NA,2021,27
-NA,"Flamengo","RJ","Cuiabá","MT",NA,NA,2021,27
-NA,"São Paulo","SP","Corinthians","SP",NA,NA,2021,27
-NA,"America","MG","Bahia","BA",NA,NA,2021,27
-NA,"Atlético","GO","Atlético Mineiro","MG",NA,NA,2021,27
-NA,"Chapecoense","SC","Fortaleza","CE",NA,NA,2021,27
-NA,"Athletico Paranaense","PR","Fluminense","RJ",NA,NA,2021,27
 NA,"Sport","PE","Santos","SP",NA,NA,2021,27
 NA,"Ceará","CE","Red Bull Bragantino","SP",NA,NA,2021,27
 NA,"Grêmio","RS","Juventude","RS",NA,NA,2021,27
-NA,"Internacional","RS","Corinthians","SP",NA,NA,2021,28
+NA,"America","MG","Bahia","BA",NA,NA,2021,27
+NA,"São Paulo","SP","Corinthians","SP",NA,NA,2021,27
+NA,"Palmeiras","SP","Internacional","RS",NA,NA,2021,27
+NA,"Flamengo","RJ","Cuiabá","MT",NA,NA,2021,27
+NA,"Chapecoense","SC","Fortaleza","CE",NA,NA,2021,27
+NA,"Athletico Paranaense","PR","Fluminense","RJ",NA,NA,2021,27
+NA,"Atlético","GO","Atlético Mineiro","MG",NA,NA,2021,27
+NA,"Fluminense","RJ","Flamengo","RJ",NA,NA,2021,28
 NA,"Atlético","GO","Grêmio","RS",NA,NA,2021,28
 NA,"Juventude","RS","Ceará","CE",NA,NA,2021,28
 NA,"Red Bull Bragantino","SP","São Paulo","SP",NA,NA,2021,28
 NA,"Bahia","BA","Chapecoense","SC",NA,NA,2021,28
 NA,"Fortaleza","CE","Athletico Paranaense","PR",NA,NA,2021,28
+NA,"Internacional","RS","Corinthians","SP",NA,NA,2021,28
 NA,"Atlético Mineiro","MG","Cuiabá","MT",NA,NA,2021,28
 NA,"Santos","SP","America","MG",NA,NA,2021,28
 NA,"Palmeiras","SP","Sport","PE",NA,NA,2021,28
-NA,"Fluminense","RJ","Flamengo","RJ",NA,NA,2021,28
-NA,"America","MG","Fortaleza","CE",NA,NA,2021,29
-NA,"São Paulo","SP","Internacional","RS",NA,NA,2021,29
 NA,"Corinthians","SP","Chapecoense","SC",NA,NA,2021,29
-NA,"Flamengo","RJ","Atlético Mineiro","MG",NA,NA,2021,29
-NA,"Ceará","CE","Fluminense","RJ",NA,NA,2021,29
-NA,"Grêmio","RS","Palmeiras","SP",NA,NA,2021,29
-NA,"Sport","PE","Atlético","GO",NA,NA,2021,29
-NA,"Athletico Paranaense","PR","Santos","SP",NA,NA,2021,29
 NA,"Cuiabá","MT","Red Bull Bragantino","SP",NA,NA,2021,29
 NA,"Juventude","RS","Bahia","BA",NA,NA,2021,29
-NA,"Chapecoense","SC","Flamengo","RJ",NA,NA,2021,30
+NA,"Athletico Paranaense","PR","Santos","SP",NA,NA,2021,29
+NA,"Sport","PE","Atlético","GO",NA,NA,2021,29
+NA,"Ceará","CE","Fluminense","RJ",NA,NA,2021,29
+NA,"Grêmio","RS","Palmeiras","SP",NA,NA,2021,29
+NA,"America","MG","Fortaleza","CE",NA,NA,2021,29
+NA,"São Paulo","SP","Internacional","RS",NA,NA,2021,29
+NA,"Flamengo","RJ","Atlético Mineiro","MG",NA,NA,2021,29
+NA,"Fluminense","RJ","Sport","PE",NA,NA,2021,30
+NA,"Santos","SP","Palmeiras","SP",NA,NA,2021,30
+NA,"Corinthians","SP","Fortaleza","CE",NA,NA,2021,30
+NA,"Atlético Mineiro","MG","America","MG",NA,NA,2021,30
+NA,"Internacional","RS","Grêmio","RS",NA,NA,2021,30
 NA,"Atlético","GO","Juventude","RS",NA,NA,2021,30
+NA,"Chapecoense","SC","Flamengo","RJ",NA,NA,2021,30
 NA,"Red Bull Bragantino","SP","Athletico Paranaense","PR",NA,NA,2021,30
 NA,"Bahia","BA","São Paulo","SP",NA,NA,2021,30
 NA,"Ceará","CE","Cuiabá","MT",NA,NA,2021,30
-NA,"Internacional","RS","Grêmio","RS",NA,NA,2021,30
-NA,"Atlético Mineiro","MG","America","MG",NA,NA,2021,30
-NA,"Santos","SP","Palmeiras","SP",NA,NA,2021,30
-NA,"Corinthians","SP","Fortaleza","CE",NA,NA,2021,30
-NA,"Fluminense","RJ","Sport","PE",NA,NA,2021,30
+NA,"Fortaleza","CE","São Paulo","SP",NA,NA,2021,31
+NA,"Cuiabá","MT","Chapecoense","SC",NA,NA,2021,31
+NA,"Juventude","RS","Internacional","RS",NA,NA,2021,31
 NA,"Athletico Paranaense","PR","Ceará","CE",NA,NA,2021,31
 NA,"Sport","PE","America","MG",NA,NA,2021,31
-NA,"Fortaleza","CE","São Paulo","SP",NA,NA,2021,31
 NA,"Grêmio","RS","Fluminense","RJ",NA,NA,2021,31
 NA,"Atlético Mineiro","MG","Corinthians","SP",NA,NA,2021,31
 NA,"Santos","SP","Red Bull Bragantino","SP",NA,NA,2021,31
 NA,"Palmeiras","SP","Atlético","GO",NA,NA,2021,31
 NA,"Flamengo","RJ","Bahia","BA",NA,NA,2021,31
-NA,"Cuiabá","MT","Chapecoense","SC",NA,NA,2021,31
-NA,"Juventude","RS","Internacional","RS",NA,NA,2021,31
-NA,"Fluminense","RJ","Palmeiras","SP",NA,NA,2021,32
-NA,"Corinthians","SP","Cuiabá","MT",NA,NA,2021,32
-NA,"Atlético","GO","Santos","SP",NA,NA,2021,32
-NA,"Chapecoense","SC","Juventude","RS",NA,NA,2021,32
-NA,"Red Bull Bragantino","SP","Fortaleza","CE",NA,NA,2021,32
-NA,"Bahia","BA","Atlético Mineiro","MG",NA,NA,2021,32
-NA,"Ceará","CE","Sport","PE",NA,NA,2021,32
-NA,"Internacional","RS","Athletico Paranaense","PR",NA,NA,2021,32
 NA,"America","MG","Grêmio","RS",NA,NA,2021,32
 NA,"São Paulo","SP","Flamengo","RJ",NA,NA,2021,32
-NA,"Santos","SP","Chapecoense","SC",NA,NA,2021,33
-NA,"Cuiabá","MT","Internacional","RS",NA,NA,2021,33
+NA,"Corinthians","SP","Cuiabá","MT",NA,NA,2021,32
+NA,"Fluminense","RJ","Palmeiras","SP",NA,NA,2021,32
+NA,"Ceará","CE","Sport","PE",NA,NA,2021,32
+NA,"Internacional","RS","Athletico Paranaense","PR",NA,NA,2021,32
+NA,"Bahia","BA","Atlético Mineiro","MG",NA,NA,2021,32
+NA,"Red Bull Bragantino","SP","Fortaleza","CE",NA,NA,2021,32
+NA,"Atlético","GO","Santos","SP",NA,NA,2021,32
+NA,"Chapecoense","SC","Juventude","RS",NA,NA,2021,32
 NA,"Juventude","RS","Fluminense","RJ",NA,NA,2021,33
+NA,"Cuiabá","MT","Internacional","RS",NA,NA,2021,33
 NA,"Athletico Paranaense","PR","Atlético Mineiro","MG",NA,NA,2021,33
 NA,"Sport","PE","Bahia","BA",NA,NA,2021,33
 NA,"Fortaleza","CE","Ceará","CE",NA,NA,2021,33
 NA,"Grêmio","RS","Red Bull Bragantino","SP",NA,NA,2021,33
 NA,"America","MG","Atlético","GO",NA,NA,2021,33
+NA,"Santos","SP","Chapecoense","SC",NA,NA,2021,33
 NA,"Palmeiras","SP","São Paulo","SP",NA,NA,2021,33
 NA,"Flamengo","RJ","Corinthians","SP",NA,NA,2021,33
-NA,"Atlético","GO","Ceará","CE",NA,NA,2021,34
 NA,"Chapecoense","SC","Grêmio","RS",NA,NA,2021,34
+NA,"Atlético","GO","Ceará","CE",NA,NA,2021,34
 NA,"Red Bull Bragantino","SP","Sport","PE",NA,NA,2021,34
 NA,"Bahia","BA","Cuiabá","MT",NA,NA,2021,34
-NA,"Internacional","RS","Flamengo","RJ",NA,NA,2021,34
 NA,"Fortaleza","CE","Palmeiras","SP",NA,NA,2021,34
+NA,"Internacional","RS","Flamengo","RJ",NA,NA,2021,34
 NA,"Atlético Mineiro","MG","Juventude","RS",NA,NA,2021,34
 NA,"São Paulo","SP","Athletico Paranaense","PR",NA,NA,2021,34
 NA,"Corinthians","SP","Santos","SP",NA,NA,2021,34
 NA,"Fluminense","RJ","America","MG",NA,NA,2021,34
-NA,"Sport","PE","Flamengo","RJ",NA,NA,2021,35
 NA,"Atlético","GO","Bahia","BA",NA,NA,2021,35
 NA,"Juventude","RS","Red Bull Bragantino","SP",NA,NA,2021,35
 NA,"Athletico Paranaense","PR","Cuiabá","MT",NA,NA,2021,35
+NA,"Sport","PE","Flamengo","RJ",NA,NA,2021,35
 NA,"Ceará","CE","Corinthians","SP",NA,NA,2021,35
 NA,"Grêmio","RS","São Paulo","SP",NA,NA,2021,35
 NA,"America","MG","Chapecoense","SC",NA,NA,2021,35
 NA,"Santos","SP","Fortaleza","CE",NA,NA,2021,35
 NA,"Palmeiras","SP","Atlético Mineiro","MG",NA,NA,2021,35
 NA,"Fluminense","RJ","Internacional","RS",NA,NA,2021,35
+NA,"Bahia","BA","Grêmio","RS",NA,NA,2021,36
+NA,"Fortaleza","CE","Juventude","RS",NA,NA,2021,36
 NA,"Internacional","RS","Santos","SP",NA,NA,2021,36
 NA,"Atlético Mineiro","MG","Fluminense","RJ",NA,NA,2021,36
 NA,"São Paulo","SP","Sport","PE",NA,NA,2021,36
 NA,"Corinthians","SP","Athletico Paranaense","PR",NA,NA,2021,36
 NA,"Flamengo","RJ","Ceará","CE",NA,NA,2021,36
-NA,"Bahia","BA","Grêmio","RS",NA,NA,2021,36
-NA,"Fortaleza","CE","Juventude","RS",NA,NA,2021,36
-NA,"Red Bull Bragantino","SP","America","MG",NA,NA,2021,36
 NA,"Chapecoense","SC","Atlético","GO",NA,NA,2021,36
+NA,"Red Bull Bragantino","SP","America","MG",NA,NA,2021,36
 NA,"Cuiabá","MT","Palmeiras","SP",NA,NA,2021,36
+NA,"Flamengo","RJ","Santos","SP",NA,NA,2021,37
 NA,"Cuiabá","MT","Fortaleza","CE",NA,NA,2021,37
 NA,"Chapecoense","SC","Sport","PE",NA,NA,2021,37
 NA,"Athletico Paranaense","PR","Palmeiras","SP",NA,NA,2021,37
@@ -3788,7 +3789,6 @@ NA,"Internacional","RS","Atlético","GO",NA,NA,2021,37
 NA,"Atlético Mineiro","MG","Red Bull Bragantino","SP",NA,NA,2021,37
 NA,"São Paulo","SP","Juventude","RS",NA,NA,2021,37
 NA,"Corinthians","SP","Grêmio","RS",NA,NA,2021,37
-NA,"Flamengo","RJ","Santos","SP",NA,NA,2021,37
 NA,"Atlético","GO","Flamengo","RJ",NA,NA,2021,38
 NA,"Juventude","RS","Corinthians","SP",NA,NA,2021,38
 NA,"Red Bull Bragantino","SP","Internacional","RS",NA,NA,2021,38

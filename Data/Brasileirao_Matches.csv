@@ -3558,7 +3558,7 @@ NA,"Athletico Paranaense","PR","Flamengo","RJ",NA,NA,2021,4
 2021-08-01 18:15:00,"Bahia","BA","Sport","PE",0,1,2021,14
 2021-08-01 20:30:00,"Ceará","CE","Fortaleza","CE",3,1,2021,14
 2021-08-01 20:30:00,"Atlético","GO","America","MG",1,1,2021,14
-2021-09-02 19:00:00,"Fluminense","RJ","Juventude","RS",NA,NA,2021,14
+2021-09-02 19:00:00,"Fluminense","RJ","Juventude","RS",1,1,2021,14
 2021-08-06 19:00:00,"Sport","PE","Red Bull Bragantino","SP",0,0,2021,15
 2021-08-07 18:00:00,"Athletico Paranaense","PR","São Paulo","SP",1,2,2021,15
 2021-08-07 21:00:00,"Palmeiras","SP","Fortaleza","CE",2,3,2021,15
@@ -3604,9 +3604,9 @@ NA,"Internacional","RS","Red Bull Bragantino","SP",NA,NA,2021,19
 NA,"Atlético Mineiro","MG","Grêmio","RS",NA,NA,2021,19
 NA,"Flamengo","RJ","Atlético","GO",NA,NA,2021,19
 NA,"São Paulo","SP","America","MG",NA,NA,2021,19
-2021-09-04 21:00:00,"Bahia","BA","Fortaleza","CE",NA,NA,2021,19
-2021-09-04 21:00:00,"Cuiabá","MT","Santos","SP",NA,NA,2021,19
-2021-09-05 18:15:00,"Athletico Paranaense","PR","Sport","PE",NA,NA,2021,19
+2021-09-04 21:00:00,"Bahia","BA","Fortaleza","CE",4,2,2021,19
+2021-09-04 21:00:00,"Cuiabá","MT","Santos","SP",2,1,2021,19
+2021-09-05 18:15:00,"Athletico Paranaense","PR","Sport","PE",0,0,2021,19
 2021-09-07 21:30:00,"Corinthians","SP","Juventude","RS",NA,NA,2021,19
 2021-09-07 21:30:00,"Chapecoense","SC","Fluminense","RJ",NA,NA,2021,19
 2021-09-11 16:00:00,"America","MG","Athletico Paranaense","PR",NA,NA,2021,20
@@ -3663,11 +3663,11 @@ NA,"São Paulo","SP","America","MG",NA,NA,2021,19
 2021-10-09 19:00:00,"Fortaleza","CE","Flamengo","RJ",NA,NA,2021,25
 2021-10-09 19:00:00,"Athletico Paranaense","PR","Bahia","BA",NA,NA,2021,25
 2021-10-09 21:00:00,"Palmeiras","SP","Red Bull Bragantino","SP",NA,NA,2021,25
-2021-10-10 15:15:00,"Juventude","RS","America","MG",NA,NA,2021,25
 2021-10-10 16:00:00,"Fluminense","RJ","Atlético","GO",NA,NA,2021,25
 2021-10-10 16:00:00,"Atlético Mineiro","MG","Ceará","CE",NA,NA,2021,25
 2021-10-10 16:00:00,"Sport","PE","Corinthians","SP",NA,NA,2021,25
 2021-10-10 18:15:00,"Santos","SP","Grêmio","RS",NA,NA,2021,25
+2021-10-10 18:15:00,"Juventude","RS","America","MG",NA,NA,2021,25
 2021-10-10 20:30:00,"Cuiabá","MT","São Paulo","SP",NA,NA,2021,25
 NA,"Internacional","RS","America","MG",NA,NA,2021,26
 NA,"Cuiabá","MT","Sport","PE",NA,NA,2021,26

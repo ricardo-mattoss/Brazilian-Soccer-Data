@@ -3662,15 +3662,15 @@ NA,"Grêmio","RS","Flamengo","RJ",NA,NA,2021,2
 2021-10-09 16:30:00,"Atlético Mineiro","MG","Ceará","CE",3,1,2021,25
 2021-10-09 16:30:00,"Fluminense","RJ","Atlético","GO",0,0,2021,25
 2021-10-09 16:30:00,"Sport","PE","Corinthians","SP",1,0,2021,25
-2021-10-09 19:00:00,"Athletico Paranaense","PR","Bahia","BA",NA,NA,2021,25
-2021-10-09 19:00:00,"Fortaleza","CE","Flamengo","RJ",NA,NA,2021,25
-2021-10-09 21:00:00,"Juventude","RS","America","MG",NA,NA,2021,25
-2021-10-09 21:00:00,"Palmeiras","SP","Red Bull Bragantino","SP",NA,NA,2021,25
-2021-10-10 11:00:00,"Internacional","RS","Chapecoense","SC",NA,NA,2021,25
-2021-10-10 16:00:00,"Santos","SP","Grêmio","RS",NA,NA,2021,25
-2021-10-11 20:00:00,"Cuiabá","MT","São Paulo","SP",NA,NA,2021,25
-2021-10-12 19:00:00,"Red Bull Bragantino","SP","Atlético","GO",NA,NA,2021,26
-2021-10-12 21:30:00,"Bahia","BA","Palmeiras","SP",NA,NA,2021,26
+2021-10-09 19:00:00,"Athletico Paranaense","PR","Bahia","BA",0,2,2021,25
+2021-10-09 19:00:00,"Fortaleza","CE","Flamengo","RJ",0,3,2021,25
+2021-10-09 21:00:00,"Juventude","RS","America","MG",1,1,2021,25
+2021-10-09 21:00:00,"Palmeiras","SP","Red Bull Bragantino","SP",2,4,2021,25
+2021-10-10 11:00:00,"Internacional","RS","Chapecoense","SC",5,2,2021,25
+2021-10-10 16:00:00,"Santos","SP","Grêmio","RS",1,0,2021,25
+2021-10-11 20:00:00,"Cuiabá","MT","São Paulo","SP",0,0,2021,25
+2021-10-12 19:00:00,"Red Bull Bragantino","SP","Atlético","GO",1,0,2021,26
+2021-10-12 21:30:00,"Bahia","BA","Palmeiras","SP",0,0,2021,26
 2021-10-13 19:00:00,"Atlético Mineiro","MG","Santos","SP",NA,NA,2021,26
 2021-10-13 19:00:00,"Flamengo","RJ","Juventude","RS",NA,NA,2021,26
 2021-10-13 19:00:00,"Chapecoense","SC","Athletico Paranaense","PR",NA,NA,2021,26
@@ -3694,8 +3694,8 @@ NA,"Grêmio","RS","Flamengo","RJ",NA,NA,2021,2
 2021-10-23 19:00:00,"Fluminense","RJ","Flamengo","RJ",NA,NA,2021,28
 2021-10-23 19:15:00,"Fortaleza","CE","Athletico Paranaense","PR",NA,NA,2021,28
 2021-10-23 21:00:00,"Palmeiras","SP","Sport","PE",NA,NA,2021,28
+2021-10-24 16:00:00,"Atlético Mineiro","MG","Cuiabá","MT",NA,NA,2021,28
 2021-10-24 16:00:00,"Internacional","RS","Corinthians","SP",NA,NA,2021,28
-2021-10-24 18:00:00,"Atlético Mineiro","MG","Cuiabá","MT",NA,NA,2021,28
 2021-10-24 18:15:00,"Red Bull Bragantino","SP","São Paulo","SP",NA,NA,2021,28
 2021-10-24 20:30:00,"Bahia","BA","Chapecoense","SC",NA,NA,2021,28
 2021-10-25 20:00:00,"Atlético","GO","Grêmio","RS",NA,NA,2021,28
@@ -3704,17 +3704,17 @@ NA,"Grêmio","RS","Flamengo","RJ",NA,NA,2021,2
 2021-10-30 19:00:00,"Flamengo","RJ","Atlético Mineiro","MG",NA,NA,2021,29
 2021-10-30 19:15:00,"Juventude","RS","Bahia","BA",NA,NA,2021,29
 2021-10-30 21:00:00,"America","MG","Fortaleza","CE",NA,NA,2021,29
-2021-10-31 16:00:00,"Ceará","CE","Fluminense","RJ",NA,NA,2021,29
 2021-10-31 16:00:00,"Grêmio","RS","Palmeiras","SP",NA,NA,2021,29
+2021-10-31 16:00:00,"Ceará","CE","Fluminense","RJ",NA,NA,2021,29
 2021-10-31 18:15:00,"São Paulo","SP","Internacional","RS",NA,NA,2021,29
 2021-10-31 20:30:00,"Sport","PE","Atlético","GO",NA,NA,2021,29
 2021-11-01 20:00:00,"Cuiabá","MT","Red Bull Bragantino","SP",NA,NA,2021,29
 2021-11-06 17:00:00,"Ceará","CE","Cuiabá","MT",NA,NA,2021,30
 2021-11-06 19:00:00,"Internacional","RS","Grêmio","RS",NA,NA,2021,30
 2021-11-06 21:00:00,"Corinthians","SP","Fortaleza","CE",NA,NA,2021,30
+2021-11-07 16:00:00,"Red Bull Bragantino","SP","Athletico Paranaense","PR",NA,NA,2021,30
 2021-11-07 16:00:00,"Santos","SP","Palmeiras","SP",NA,NA,2021,30
 2021-11-07 16:00:00,"Atlético Mineiro","MG","America","MG",NA,NA,2021,30
-2021-11-07 16:00:00,"Red Bull Bragantino","SP","Athletico Paranaense","PR",NA,NA,2021,30
 2021-11-07 18:15:00,"Bahia","BA","São Paulo","SP",NA,NA,2021,30
 2021-11-07 20:30:00,"Fluminense","RJ","Sport","PE",NA,NA,2021,30
 2021-11-08 19:00:00,"Atlético","GO","Juventude","RS",NA,NA,2021,30

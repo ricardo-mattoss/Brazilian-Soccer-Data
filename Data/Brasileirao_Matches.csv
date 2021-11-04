@@ -3458,7 +3458,7 @@ NA,"Grêmio","RS","Flamengo","RJ",NA,NA,2021,2
 2021-06-17 19:00:00,"Sport","PE","Grêmio","RS",1,0,2021,4
 2021-06-17 19:00:00,"Fluminense","RJ","Santos","SP",1,0,2021,4
 2021-06-17 19:00:00,"Atlético","GO","Fortaleza","CE",0,0,2021,4
-2021-11-02 16:00:00,"Athletico Paranaense","PR","Flamengo","RJ",NA,NA,2021,4
+2021-11-02 16:00:00,"Athletico Paranaense","PR","Flamengo","RJ",2,2,2021,4
 2021-06-19 21:00:00,"Flamengo","RJ","Red Bull Bragantino","SP",2,3,2021,5
 2021-06-20 11:00:00,"Palmeiras","SP","America","MG",2,1,2021,5
 2021-06-20 16:00:00,"Bahia","BA","Corinthians","SP",0,0,2021,5
@@ -3707,8 +3707,8 @@ NA,"Grêmio","RS","Flamengo","RJ",NA,NA,2021,2
 2021-10-31 16:00:00,"Ceará","CE","Fluminense","RJ",1,0,2021,29
 2021-10-31 18:15:00,"São Paulo","SP","Internacional","RS",1,0,2021,29
 2021-10-31 20:30:00,"Sport","PE","Atlético","GO",2,0,2021,29
-2021-11-01 20:00:00,"Cuiabá","MT","Red Bull Bragantino","SP",NA,NA,2021,29
-2021-11-01 21:30:00,"Corinthians","SP","Chapecoense","SC",NA,NA,2021,29
+2021-11-01 20:00:00,"Cuiabá","MT","Red Bull Bragantino","SP",1,0,2021,29
+2021-11-01 21:30:00,"Corinthians","SP","Chapecoense","SC",1,0,2021,29
 2021-11-06 17:00:00,"Corinthians","SP","Fortaleza","CE",NA,NA,2021,30
 2021-11-06 19:00:00,"Internacional","RS","Grêmio","RS",NA,NA,2021,30
 2021-11-06 21:00:00,"Fluminense","RJ","Sport","PE",NA,NA,2021,30

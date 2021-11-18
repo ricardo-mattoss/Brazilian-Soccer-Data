@@ -3739,8 +3739,8 @@
 2021-11-14 19:00:00,"Ceará","CE","Sport","PE",2,1,2021,32
 2021-11-14 19:00:00,"Chapecoense","SC","Juventude","RS",0,2,2021,32
 2021-12-02 19:00:00,"Bahia","BA","Atlético Mineiro","MG",NA,NA,2021,32
-2021-11-16 16:00:00,"Athletico Paranaense","PR","Atlético Mineiro","MG",NA,NA,2021,33
-2021-11-16 18:00:00,"Grêmio","RS","Red Bull Bragantino","SP",NA,NA,2021,33
+2021-11-16 16:00:00,"Athletico Paranaense","PR","Atlético Mineiro","MG",0,1,2021,33
+2021-11-16 18:00:00,"Grêmio","RS","Red Bull Bragantino","SP",3,0,2021,33
 2021-11-17 19:00:00,"Cuiabá","MT","Internacional","RS",NA,NA,2021,33
 2021-11-17 19:00:00,"Santos","SP","Chapecoense","SC",NA,NA,2021,33
 2021-11-17 19:00:00,"America","MG","Atlético","GO",NA,NA,2021,33
@@ -3756,7 +3756,7 @@
 2021-11-20 21:00:00,"Atlético","GO","Ceará","CE",NA,NA,2021,34
 2021-11-20 21:30:00,"Internacional","RS","Flamengo","RJ",NA,NA,2021,34
 2021-11-21 16:00:00,"Corinthians","SP","Santos","SP",NA,NA,2021,34
-2021-11-21 16:00:00,"Fluminense","RJ","America","MG",NA,NA,2021,34
+2021-11-21 17:00:00,"Fluminense","RJ","America","MG",NA,NA,2021,34
 2021-11-21 19:00:00,"Bahia","BA","Cuiabá","MT",NA,NA,2021,34
 2021-11-24 21:30:00,"São Paulo","SP","Athletico Paranaense","PR",NA,NA,2021,34
 2021-11-23 19:00:00,"Palmeiras","SP","Atlético Mineiro","MG",NA,NA,2021,35

@@ -3741,13 +3741,13 @@
 2021-12-02 19:00:00,"Bahia","BA","Atlético Mineiro","MG",NA,NA,2021,32
 2021-11-16 16:00:00,"Athletico Paranaense","PR","Atlético Mineiro","MG",0,1,2021,33
 2021-11-16 18:00:00,"Grêmio","RS","Red Bull Bragantino","SP",3,0,2021,33
-2021-11-17 19:00:00,"Cuiabá","MT","Internacional","RS",NA,NA,2021,33
-2021-11-17 19:00:00,"Santos","SP","Chapecoense","SC",NA,NA,2021,33
-2021-11-17 19:00:00,"America","MG","Atlético","GO",NA,NA,2021,33
-2021-11-17 20:00:00,"Fortaleza","CE","Ceará","CE",NA,NA,2021,33
-2021-11-17 20:30:00,"Palmeiras","SP","São Paulo","SP",NA,NA,2021,33
-2021-11-17 20:30:00,"Juventude","RS","Fluminense","RJ",NA,NA,2021,33
-2021-11-17 21:30:00,"Flamengo","RJ","Corinthians","SP",NA,NA,2021,33
+2021-11-17 19:00:00,"Cuiabá","MT","Internacional","RS",1,0,2021,33
+2021-11-17 19:00:00,"Santos","SP","Chapecoense","SC",2,0,2021,33
+2021-11-17 19:00:00,"America","MG","Atlético","GO",0,0,2021,33
+2021-11-17 20:00:00,"Fortaleza","CE","Ceará","CE",0,4,2021,33
+2021-11-17 20:30:00,"Palmeiras","SP","São Paulo","SP",0,2,2021,33
+2021-11-17 20:30:00,"Juventude","RS","Fluminense","RJ",1,0,2021,33
+2021-11-17 21:30:00,"Flamengo","RJ","Corinthians","SP",1,0,2021,33
 2021-11-18 21:00:00,"Sport","PE","Bahia","BA",NA,NA,2021,33
 2021-10-28 19:00:00,"Red Bull Bragantino","SP","Sport","PE",3,0,2021,34
 2021-11-20 19:00:00,"Atlético Mineiro","MG","Juventude","RS",NA,NA,2021,34

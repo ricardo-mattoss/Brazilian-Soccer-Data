@@ -1,0 +1,5 @@
+^renv$
+^renv\.lock$
+^Brasileiraoscrap\.Rproj$
+^\.Rproj\.user$
+^data-raw$

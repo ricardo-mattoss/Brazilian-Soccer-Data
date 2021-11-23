@@ -6,7 +6,7 @@ fix_names <- function(df) {
       dplyr::vars(home_team, away_team),
       ~ stringi::stri_trans_general(., 'Latin-ASCII')
     ) %>%
-    mutate(
+    dplyr::mutate(
       home_team = paste0(home_team, "-", home_team_state),
 
       away_team = paste0(away_team, "-", away_team_state)

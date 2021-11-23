@@ -14,7 +14,7 @@ on:
 jobs:
   deploy:
     name: Update Brasileirao
-    runs-on: ubuntu-18.04
+    runs-on: windows-latest
 
     env:
       RENV_PATHS_ROOT: ~/.local/share/renv
@@ -39,26 +39,24 @@ jobs:
           sudo apt install libjq-dev
           sudo add-apt-repository ppa:cran/libgit2
           sudo apt-get install libgit2-dev
-      
-      - name: Cache R packages
-        id: cache
-        uses: actions/cache@v2
+
+      - name: Cache packages
+        uses: actions/cache@v1
         with:
-          path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-shinydoc
+          path: ${{ env.RENV_PATHS_ROOT }}
+          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
           restore-keys: |
-            ${{ runner.os }}-
-      - name: Install packages
+            ${{ runner.os }}-renv-
+
+      - name: Restore packages
         shell: Rscript {0}
         run: |
-          install.packages(c("glue", "dplyr",
-          "rvest", "stringr", "lubridate", "tidyr"))
           if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
-          renv::restore(repos = "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest")
-            
+          renv::restore()
+
       - name: Scrape and update
         run: |
-          Rscript Docs/Brasileirao_Matches_Update.R
+          Rscript data-raw/Update_Brasileirao.R
       - name: Commit
         run: |
           git config --local user.email "actions@github.com"

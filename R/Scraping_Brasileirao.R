@@ -72,7 +72,7 @@ scraping_brasileirao <- function(season) {
   round <- 0:(length(placar) - 1) %/% 10 + 1
 
   # bind cols
-  df <-  bind_cols(
+  df <-  dplyr::bind_cols(
     datetime = datetime,
     home_team = home_team,
     home_team_state = home_team_state,

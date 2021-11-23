@@ -7,7 +7,7 @@ devtools::load_all()
 rows_df_na <- brasileirao_matches %>%
   dplyr::filter(season == lubridate::year(Sys.Date()) &
                   is.na(home_goal)) %>%
-  dplyr::summarise(n()) %>%
+  dplyr::summarise(dplyr::n()) %>%
   as.numeric()
 
 # Getting data of actual season

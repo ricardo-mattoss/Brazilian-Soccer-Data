@@ -1,4 +1,4 @@
-Package: Brazilian_soccer_scrap
+Package: BraSoccerData
 Title: Collecting soccer data from Brazilian teams
 Version: 0.0.0.9000
 Authors@R: 
@@ -21,7 +21,8 @@ Imports:
     dplyr,
     lubridate,
     xml2,
-    httr
+    httr,
+    magrittr
 Depends: 
     R (>= 2.10)
 URL: https://github.com/ricardomattos05/Brazilian_soccer_scrap

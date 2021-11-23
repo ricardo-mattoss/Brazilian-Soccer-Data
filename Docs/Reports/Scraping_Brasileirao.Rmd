@@ -1,0 +1,187 @@
+---
+title: "Web Scrapping - Dados de jogos do Brasileirão"
+author: "Ricardo Mattos"
+date: "28/06/2020"
+output:
+  html_document:
+    html_notebook:
+    df_print: paged
+    toc: yes
+    code_folding: hide
+    message: no
+    warning: no
+    number_sections: yes
+    toc_float: yes
+---
+
+# Introdução
+
+
+Este paper visa fazer uma rápida introdução e exemplificação de web scraping(coleta de dados da internet), resolvendo um problema para muitos estatísticos e/ou aspirantes a data science amantes do principal esporte nacional, o futebol. É comum ver no início da faculdade, jovens dando os primeiros passos em análise de dados e/ou modelagem buscando por dados de futebol(eu sou o exemplo vivo rs), perdi muito tempo googlando atrás de uma base de jogos estruturadas no início da faculdade. Assim sendo, o objetivo desse paper é ensinar a buscar e estruturar dados de jogos do campeonato brasileiro de 2012 à 2019. que ficará disponível nesse repostirório no meu **[github](https://github.com/ricardomattos05/Scraping_Brasileirao)**
+
+# Site da CBF
+
+O site da [CBF](https://www.cbf.com.br) é bem simples e intuitivo, os dados de jogos e os respectivos resultados do campeonato brasileiro podem ser obtidos nesse link <https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2019>. Observe que no final do link aparece o `2019` que redireciona para a página do campeonato de 2019. 
+
+<center>
+<br>![](Imgs/site_CBF_bra2019.png)
+<small></br>Fonte: <https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2019></small>
+</br>
+</center>
+
+<br>
+É possível ver que temos disponíveis as tabelas de 2012 à 2020(que ainda não iniciou), e que ao selecionar cada um dos anos disponíveis, a alteração feita na url é somente no último termo como destacado no link da foto, ao qual está com 2019 como valor atual, o que nos leva a página do campeonato de 2019. Temos aqui o primeiro padrão observado. Vamos guardar essa informação mais para frente.
+</br>
+
+<br>
+O que queremos são as informações do quadro a direita da tabela de classificação, onde temos as informações das rodadas e resultado dos jogos. A questão aqui é o que estamos buscando. O primeiro passo é inspecionar o html, que a primeira vista parece algo de outro mundo, mas que se olharmos com calma pode ser feito sem muito conhecimento sobre o assunto, eu mesmo não sou especialista no assunto(muito longe disso rs). Para quem quiser entender mais afundo sobre html, existem muitos papers e livros sobre o assunto, um que indico e me ajudou bastante a entender a estrutura foi um tutorial da [w3schools.com](https://www.w3schools.com/html/html_intro.asp). Vamos então avaliar a estrutura do quadro que contém os dados de interesse:
+</br>
+
+<br>![](https://www.fulljoin.com.br/images/html_scraping.gif)</br>
+
+<br>
+Dessa forma conseguimos encontrar padrões e observar a principal classe de interesse **aside-rodadas**, classe a qual engloba todos os dados com informações sobre as rodadas do Brasileirão. Com isso em mente, vamos para o R!
+</br>
+
+# Indo para o R
+
+Para essa extração, os pacotes necessários são os seguintes: `rvest`, `xml2`, `stringr` e `glue`.
+
+```{r, message=FALSE, warningFALSE}
+library(stringr)
+library(rvest)
+library(glue)
+
+```
+
+
+<!-- Lembra do termo `2019` que mencionei? Agora é hora de utilizar essa informação. Como destacado esse termo se altera para cada ano do campeonato selecionado, então precisaremos fazer um loop para consultar todos os anos de interesse(2012-2019). -->
+## Buscando e Extraindo os dados
+
+Como mencionado, é possível notar que a classe **aside-rodadas** engloba todos os dados da tabela de jogos, vamos então fazer a leitura desses dados utilizando os pacotes `rvest` e `xml2`:
+
+```{r}
+url <- glue("https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2019")
+
+resultados <- url %>% 
+  read_html() %>% 
+  html_nodes(".aside-rodadas")
+
+head(resultados)
+```
+
+Dessa forma, temos a estrutura html da tabela de resultados dos jogos atribuído a lista `resultados`. precisamos agora extrair as informações que são pertinentes da tabela e estrutura-la para análises posteriores. Os campos que estamos buscando são:
+
+> * **Time Casa**: é possível notar na estrutura que as classes que englobam as siglas dos times da casa são `pull-left` e `time-sigla`; 
+> * **Time Fora**: para o time de fora, as classes são `pull-right` e `time-sigla`
+> * **Placar**: por último, mas não menos importante, o placar, que é agrupado pela classe `partida-horario`.
+
+Sendo assim, conseguimos extrair a partir da estrutura html que atribuímos a `resultados`, com as classes identificadas, as informações de interesse e estruturar nosso dataframe.
+
+## Estruturando Dataframe
+```{r}
+
+#Extraindo informações de time da casa
+casa <- resultados %>% 
+  html_nodes(".pull-left .time-sigla") %>% 
+  html_text()
+
+#Extraindo informações de time de fora
+fora <- resultados %>% 
+  html_nodes(".pull-right .time-sigla") %>% 
+  html_text()
+
+#Extraindo informações de time do placar
+placar <-  resultados %>% 
+            html_nodes(".partida-horario") %>%
+             html_text() %>%
+               str_extract("[0-9]{1}\ x\ [0-9]{1}")
+
+#Gerando valores de rodadas    
+rodada <- 0:(length(placar)-1) %/% 10 + 1
+
+#Estruturando dados coletados em dataframe
+df <- data.frame(cbind(rodada = rodada,
+                    casa = casa,
+                    placar = placar,
+                    fora = fora,
+                    ano = rep(2019,length(rodada) ) ) )
+
+df %>% 
+  head() %>%
+  knitr::kable() %>% 
+  kableExtra::kable_styling() 
+
+
+```
+
+
+E voìla! Temos um um dataframe dos jogos do brasileirão, extraído diretamente do site da CBF.
+
+<br>![](https://media.tenor.com/images/e51f4b0cfdef4203774fff000f98b818/tenor.gif)</br>
+
+
+<br> Porém, isso não é tudo, lembra que falei para guardar a informação da mudança no link ao selecionar o ano do campeonato? Então, agora é a hora de utilizar essa informação! </br>
+
+Faremos um loop utilizando o auxílio do pacote glue para alterar o ano da url e faremos um incremento dos dados na tabela final para termos os dados de todos os jogos dos campeonatos desde 2012.
+
+
+```{r, message=FALSE}
+
+for(i in 2012:2019) {
+  
+url <- glue("https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/{i}")
+
+
+resultados <- url %>% 
+  read_html() %>% 
+  html_nodes(".aside-rodadas")
+
+casa <- resultados %>% 
+  html_nodes(".pull-left .time-sigla") %>% 
+  html_text()
+
+
+fora <- resultados %>% 
+  html_nodes(".pull-right .time-sigla") %>% 
+  html_text()
+
+
+placar <-  resultados %>% 
+            html_nodes(".partida-horario") %>%
+             html_text() %>%
+               str_extract("[0-9]{1}\ x\ [0-9]{1}")
+    
+rodada <- 0:(length(placar)-1) %/% 10 + 1
+
+df <- if( i == 2012)
+          { 
+       
+              data.frame(cbind(rodada = rodada,
+                  casa = casa,
+                  placar = placar,
+                  fora = fora,
+                  ano = rep(i,length(rodada) ) ) ) }
+          else{
+
+              data.frame(rbind(df, cbind(rodada = rodada,
+                  casa = casa,
+                  placar = placar,
+                  fora = fora,
+                  ano = rep(i,length(rodada) ) ) ))
+}
+ 
+
+}
+
+# write.csv(df, "Brasileirao_Jogos_2012_2019.csv") #salvando df
+
+
+summary(df) %>% 
+  knitr::kable() %>% 
+  kableExtra::kable_styling() 
+
+```
+
+
+E dessa forma temos o nosso df estruturado com os jogos dos Brasileirões de 2012 a 2019. Até a próxima!

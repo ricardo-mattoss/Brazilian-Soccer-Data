@@ -15,7 +15,7 @@ fix_names <- function(df) {
     dplyr::mutate_at(
       dplyr::vars(home_team, away_team),
 
-      ~ case_when(
+      ~ dplyr::case_when(
         stringr::str_detect(., "Athl|Atletico Para")
         ~ "Atletico-PR",
 

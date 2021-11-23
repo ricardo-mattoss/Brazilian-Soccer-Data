@@ -31,15 +31,6 @@ jobs:
 
       - uses: r-lib/actions/setup-pandoc@v1
 
-      - name: Instalando libs de sistema
-        run: |
-          sudo apt update
-          sudo apt install libudunits2-dev libgdal-dev
-          sudo apt install libprotobuf-dev protobuf-compiler
-          sudo apt install libjq-dev
-          sudo add-apt-repository ppa:cran/libgit2
-          sudo apt-get install libgit2-dev
-
       - name: Cache packages
         uses: actions/cache@v1
         with:

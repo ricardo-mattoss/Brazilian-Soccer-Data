@@ -1,5 +1,5 @@
-Package: Brasileiraoscrap
-Title: What the Package Does (One Line, Title Case)
+Package: Brazilian_soccer_scrap
+Title: Collecting soccer data from Brazilian teams
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Ricardo",
@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "ricardomattos0512@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: This package collects and makes available data from main competitions that Brazilian teams play.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8

@@ -3438,7 +3438,7 @@ datetime,home_team,home_team_state,away_team,away_team_state,home_goal,away_goal
 2021-06-06T18:15:00Z,Palmeiras-SP,SP,Chapecoense-SC,SC,3,1,2021,2
 2021-06-06T18:15:00Z,Juventude-RS,RS,Atletico-PR,PR,0,3,2021,2
 2021-06-06T20:30:00Z,Sport-PE,PE,Atletico Mineiro-MG,MG,0,1,2021,2
-2021-11-23T21:00:00Z,Gremio-RS,RS,Flamengo-RJ,RJ,NA,NA,2021,2
+2021-11-23T21:00:00Z,Gremio-RS,RS,Flamengo-RJ,RJ,2,2,2021,2
 2021-06-12T19:00:00Z,Palmeiras-SP,SP,Corinthians-SP,SP,1,1,2021,3
 2021-06-12T19:00:00Z,Santos-SP,SP,Juventude-RS,RS,0,0,2021,3
 2021-06-13T16:00:00Z,Flamengo-RJ,RJ,America-MG,MG,2,0,2021,3
@@ -3718,7 +3718,7 @@ datetime,home_team,home_team_state,away_team,away_team_state,home_goal,away_goal
 2021-11-07T18:15:00Z,Bahia-BA,BA,Sao Paulo-SP,SP,1,0,2021,30
 2021-11-07T20:30:00Z,Ceara-CE,CE,Cuiaba-MT,MT,1,0,2021,30
 2021-11-08T20:00:00Z,Chapecoense-SC,SC,Flamengo-RJ,RJ,2,2,2021,30
-2021-11-23T19:00:00Z,Atletico-GO,GO,Juventude-RS,RS,NA,NA,2021,30
+2021-11-23T19:00:00Z,Atletico-GO,GO,Juventude-RS,RS,1,1,2021,30
 2021-11-04T21:00:00Z,Cuiaba-MT,MT,Chapecoense-SC,SC,0,0,2021,31
 2021-11-09T21:30:00Z,Gremio-RS,RS,Fluminense-RJ,RJ,1,0,2021,31
 2021-11-10T18:30:00Z,Atletico-PR,PR,Ceara-CE,CE,2,1,2021,31
@@ -3759,7 +3759,7 @@ datetime,home_team,home_team_state,away_team,away_team_state,home_goal,away_goal
 2021-11-21T17:00:00Z,Fluminense-RJ,RJ,America-MG,MG,2,0,2021,34
 2021-11-21T19:00:00Z,Bahia-BA,BA,Cuiaba-MT,MT,0,0,2021,34
 2021-11-24T21:30:00Z,Sao Paulo-SP,SP,Atletico-PR,PR,NA,NA,2021,34
-2021-11-23T21:30:00Z,Palmeiras-SP,SP,Atletico Mineiro-MG,MG,NA,NA,2021,35
+2021-11-23T21:30:00Z,Palmeiras-SP,SP,Atletico Mineiro-MG,MG,2,2,2021,35
 2021-11-24T21:30:00Z,Fluminense-RJ,RJ,Internacional-RS,RS,NA,NA,2021,35
 2021-11-25T19:00:00Z,Santos-SP,SP,Fortaleza-CE,CE,NA,NA,2021,35
 2021-11-25T20:00:00Z,Ceara-CE,CE,Corinthians-SP,SP,NA,NA,2021,35
@@ -3784,11 +3784,11 @@ datetime,home_team,home_team_state,away_team,away_team_state,home_goal,away_goal
 2021-12-05T16:00:00Z,Bahia-BA,BA,Fluminense-RJ,RJ,NA,NA,2021,37
 2021-12-05T19:00:00Z,Internacional-RS,RS,Atletico-GO,GO,NA,NA,2021,37
 2021-12-05T19:00:00Z,Ceara-CE,CE,America-MG,MG,NA,NA,2021,37
-2021-12-06T19:00:00Z,Atletico-PR,PR,Palmeiras-SP,SP,NA,NA,2021,37
 2021-12-06T19:00:00Z,Sao Paulo-SP,SP,Juventude-RS,RS,NA,NA,2021,37
+2021-12-06T19:00:00Z,Atletico-PR,PR,Palmeiras-SP,SP,NA,NA,2021,37
+2021-12-06T20:00:00Z,Cuiaba-MT,MT,Fortaleza-CE,CE,NA,NA,2021,37
 2021-12-06T20:00:00Z,Flamengo-RJ,RJ,Santos-SP,SP,NA,NA,2021,37
 2021-12-06T21:00:00Z,Chapecoense-SC,SC,Sport-PE,PE,NA,NA,2021,37
-2021-12-06T22:00:00Z,Cuiaba-MT,MT,Fortaleza-CE,CE,NA,NA,2021,37
 2021-12-09T21:30:00Z,Fluminense-RJ,RJ,Chapecoense-SC,SC,NA,NA,2021,38
 2021-12-09T21:30:00Z,Palmeiras-SP,SP,Ceara-CE,CE,NA,NA,2021,38
 2021-12-09T21:30:00Z,Santos-SP,SP,Cuiaba-MT,MT,NA,NA,2021,38

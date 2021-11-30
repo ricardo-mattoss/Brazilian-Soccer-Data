@@ -3738,7 +3738,7 @@ datetime,home_team,home_team_state,away_team,away_team_state,home_goal,away_goal
 2021-11-14T18:15:00Z,Fluminense-RJ,RJ,Palmeiras-SP,SP,2,1,2021,32
 2021-11-14T19:00:00Z,Ceara-CE,CE,Sport-PE,PE,2,1,2021,32
 2021-11-14T19:00:00Z,Chapecoense-SC,SC,Juventude-RS,RS,0,2,2021,32
-2021-12-02T19:00:00Z,Bahia-BA,BA,Atletico Mineiro-MG,MG,NA,NA,2021,32
+2021-12-02T18:00:00Z,Bahia-BA,BA,Atletico Mineiro-MG,MG,NA,NA,2021,32
 2021-11-16T16:00:00Z,Atletico-PR,PR,Atletico Mineiro-MG,MG,0,1,2021,33
 2021-11-16T18:00:00Z,Gremio-RS,RS,Red Bull Bragantino-SP,SP,3,0,2021,33
 2021-11-17T19:00:00Z,Cuiaba-MT,MT,Internacional-RS,RS,1,0,2021,33
@@ -3770,15 +3770,15 @@ datetime,home_team,home_team_state,away_team,away_team_state,home_goal,away_goal
 2021-12-03T19:00:00Z,Atletico-PR,PR,Cuiaba-MT,MT,NA,NA,2021,35
 2021-12-03T20:00:00Z,Sport-PE,PE,Flamengo-RJ,RJ,NA,NA,2021,35
 2021-11-26T19:00:00Z,Bahia-BA,BA,Gremio-RS,RS,3,1,2021,36
-2021-11-27T19:30:00Z,Red Bull Bragantino-SP,SP,America-MG,MG,NA,NA,2021,36
-2021-11-27T21:30:00Z,Sao Paulo-SP,SP,Sport-PE,PE,NA,NA,2021,36
-2021-11-28T16:00:00Z,Corinthians-SP,SP,Atletico-PR,PR,NA,NA,2021,36
-2021-11-28T16:00:00Z,Atletico Mineiro-MG,MG,Fluminense-RJ,RJ,NA,NA,2021,36
-2021-11-28T19:00:00Z,Internacional-RS,RS,Santos-SP,SP,NA,NA,2021,36
+2021-11-27T19:30:00Z,Red Bull Bragantino-SP,SP,America-MG,MG,1,1,2021,36
+2021-11-27T21:30:00Z,Sao Paulo-SP,SP,Sport-PE,PE,2,0,2021,36
+2021-11-28T16:00:00Z,Corinthians-SP,SP,Atletico-PR,PR,1,0,2021,36
+2021-11-28T16:00:00Z,Atletico Mineiro-MG,MG,Fluminense-RJ,RJ,2,1,2021,36
+2021-11-28T19:00:00Z,Internacional-RS,RS,Santos-SP,SP,1,1,2021,36
 2021-11-30T20:00:00Z,Flamengo-RJ,RJ,Ceara-CE,CE,NA,NA,2021,36
 2021-11-30T22:00:00Z,Cuiaba-MT,MT,Palmeiras-SP,SP,NA,NA,2021,36
-2021-12-03T19:00:00Z,Fortaleza-CE,CE,Juventude-RS,RS,NA,NA,2021,36
 2021-12-03T20:00:00Z,Chapecoense-SC,SC,Atletico-GO,GO,NA,NA,2021,36
+2021-12-03T21:00:00Z,Fortaleza-CE,CE,Juventude-RS,RS,NA,NA,2021,36
 2021-12-05T16:00:00Z,Corinthians-SP,SP,Gremio-RS,RS,NA,NA,2021,37
 2021-12-05T16:00:00Z,Atletico Mineiro-MG,MG,Red Bull Bragantino-SP,SP,NA,NA,2021,37
 2021-12-05T16:00:00Z,Bahia-BA,BA,Fluminense-RJ,RJ,NA,NA,2021,37

@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 ^renv$
 ^renv\.lock$
+=======
+<<<<<<< HEAD
+^renv$
+^renv\.lock$
+^Brasileiraoscrap\.Rproj$
+^\.Rproj\.user$
+^data-raw$
+=======
+>>>>>>> c4d24b207db10149ff29f56a3ffc482aeef83448
 ^\.github$
+>>>>>>> de875d10733acc365617cc23cd729329a95a62d2

@@ -3799,3 +3799,383 @@
 2021-12-09 21:30:00,"Red Bull Bragantino","SP","Internacional","RS",NA,NA,2021,38
 2021-12-09 21:30:00,"Juventude","RS","Corinthians","SP",NA,NA,2021,38
 2021-12-09 21:30:00,"Atlético","GO","Flamengo","RJ",NA,NA,2021,38
+2022-04-09 16:30:00,"Fluminense","RJ","Santos","SP",0,0,2022,1
+2022-04-09 19:00:00,"Atlético","GO","Flamengo","RJ",1,1,2022,1
+2022-04-09 21:00:00,"Palmeiras","SP","Ceará","CE",2,3,2022,1
+2022-04-10 11:00:00,"Coritiba","PR","Goiás","GO",3,0,2022,1
+2022-04-10 16:00:00,"Botafogo","RJ","Corinthians","SP",1,3,2022,1
+2022-04-10 16:00:00,"Atlético Mineiro","MG","Internacional","RS",2,0,2022,1
+2022-04-10 18:00:00,"Fortaleza","CE","Cuiabá Saf","MT",0,1,2022,1
+2022-04-10 19:00:00,"São Paulo","SP","Athletico Paranaense","PR",4,0,2022,1
+2022-04-10 19:00:00,"Avaí","SC","América Fc Saf","MG",1,0,2022,1
+2022-04-11 20:00:00,"Juventude","RS","Red Bull Bragantino","SP",2,2,2022,1
+2022-04-16 16:30:00,"Goiás","GO","Palmeiras","SP",1,1,2022,2
+2022-04-16 19:00:00,"América Fc Saf","MG","Juventude","RS",4,1,2022,2
+2022-04-16 19:00:00,"Corinthians","SP","Avaí","SC",3,0,2022,2
+2022-04-16 21:00:00,"Cuiabá Saf","MT","Fluminense","RJ",0,1,2022,2
+2022-04-17 11:00:00,"Santos","SP","Coritiba","PR",2,1,2022,2
+2022-04-17 16:00:00,"Flamengo","RJ","São Paulo","SP",3,1,2022,2
+2022-04-17 18:00:00,"Athletico Paranaense","PR","Atlético Mineiro","MG",0,1,2022,2
+2022-04-17 18:00:00,"Internacional","RS","Fortaleza","CE",2,1,2022,2
+2022-04-17 18:00:00,"Red Bull Bragantino","SP","Atlético","GO",4,0,2022,2
+2022-04-17 19:00:00,"Ceará","CE","Botafogo","RJ",1,3,2022,2
+2022-04-23 16:30:00,"Athletico Paranaense","PR","Flamengo","RJ",1,0,2022,3
+2022-04-23 16:30:00,"Red Bull Bragantino","SP","São Paulo","SP",1,1,2022,3
+2022-04-23 19:00:00,"Fluminense","RJ","Internacional","RS",0,1,2022,3
+2022-04-23 19:00:00,"Palmeiras","SP","Corinthians","SP",3,0,2022,3
+2022-04-23 21:00:00,"Atlético Mineiro","MG","Coritiba","PR",2,2,2022,3
+2022-04-24 16:00:00,"Santos","SP","América Fc Saf","MG",3,0,2022,3
+2022-04-24 18:00:00,"Juventude","RS","Cuiabá Saf","MT",0,1,2022,3
+2022-04-24 18:30:00,"Atlético","GO","Botafogo","RJ",1,1,2022,3
+2022-04-25 20:00:00,"Avaí","SC","Goiás","GO",3,2,2022,3
+2022-06-01 20:30:00,"Fortaleza","CE","Ceará","CE",NA,NA,2022,3
+2022-04-20 19:30:00,"Flamengo","RJ","Palmeiras","SP",0,0,2022,4
+2022-04-30 16:30:00,"América Fc Saf","MG","Athletico Paranaense","PR",1,0,2022,4
+2022-04-30 16:30:00,"Ceará","CE","Red Bull Bragantino","SP",0,1,2022,4
+2022-04-30 18:30:00,"Goiás","GO","Atlético Mineiro","MG",2,2,2022,4
+2022-04-30 19:00:00,"Cuiabá Saf","MT","Atlético","GO",1,1,2022,4
+2022-05-01 11:00:00,"Botafogo","RJ","Juventude","RS",1,1,2022,4
+2022-05-01 16:00:00,"Coritiba","PR","Fluminense","RJ",3,2,2022,4
+2022-05-01 16:00:00,"Corinthians","SP","Fortaleza","CE",1,0,2022,4
+2022-05-01 19:00:00,"Internacional","RS","Avaí","SC",0,0,2022,4
+2022-05-02 20:00:00,"São Paulo","SP","Santos","SP",2,1,2022,4
+2022-05-07 16:30:00,"Atlético Mineiro","MG","América Fc Saf","MG",1,2,2022,5
+2022-05-07 20:30:00,"Athletico Paranaense","PR","Ceará","CE",1,0,2022,5
+2022-05-08 11:00:00,"Flamengo","RJ","Botafogo","RJ",0,1,2022,5
+2022-05-08 16:00:00,"Atlético","GO","Goiás","GO",0,1,2022,5
+2022-05-08 16:00:00,"Palmeiras","SP","Fluminense","RJ",1,1,2022,5
+2022-05-08 18:00:00,"Santos","SP","Cuiabá Saf","MT",4,1,2022,5
+2022-05-08 18:00:00,"Red Bull Bragantino","SP","Corinthians","SP",0,1,2022,5
+2022-05-08 19:00:00,"Fortaleza","CE","São Paulo","SP",1,1,2022,5
+2022-05-08 19:00:00,"Juventude","RS","Internacional","RS",1,1,2022,5
+2022-05-09 20:00:00,"Avaí","SC","Coritiba","PR",2,1,2022,5
+2022-05-14 16:30:00,"Ceará","CE","Flamengo","RJ",2,2,2022,6
+2022-05-14 16:30:00,"Palmeiras","SP","Red Bull Bragantino","SP",2,0,2022,6
+2022-05-14 19:00:00,"Internacional","RS","Corinthians","SP",2,2,2022,6
+2022-05-14 19:00:00,"Atlético Mineiro","MG","Atlético","GO",2,0,2022,6
+2022-05-14 21:00:00,"Fluminense","RJ","Athletico Paranaense","PR",2,1,2022,6
+2022-05-15 16:00:00,"São Paulo","SP","Cuiabá Saf","MT",2,1,2022,6
+2022-05-15 17:30:00,"Coritiba","PR","América Fc Saf","MG",1,0,2022,6
+2022-05-15 18:00:00,"Botafogo","RJ","Fortaleza","CE",3,1,2022,6
+2022-05-15 18:00:00,"Avaí","SC","Juventude","RS",1,2,2022,6
+2022-05-15 19:00:00,"Goiás","GO","Santos","SP",1,0,2022,6
+2022-05-11 20:30:00,"Red Bull Bragantino","SP","Atlético Mineiro","MG",1,1,2022,7
+2022-05-21 16:30:00,"Flamengo","RJ","Goiás","GO",NA,NA,2022,7
+2022-05-21 16:30:00,"Atlético","GO","Coritiba","PR",NA,NA,2022,7
+2022-05-21 18:30:00,"Santos","SP","Ceará","CE",NA,NA,2022,7
+2022-05-21 19:00:00,"Juventude","RS","Palmeiras","SP",NA,NA,2022,7
+2022-05-21 21:00:00,"Cuiabá Saf","MT","Internacional","RS",NA,NA,2022,7
+2022-05-21 21:00:00,"América Fc Saf","MG","Botafogo","RJ",NA,NA,2022,7
+2022-05-22 16:00:00,"Fortaleza","CE","Fluminense","RJ",NA,NA,2022,7
+2022-05-22 16:00:00,"Corinthians","SP","São Paulo","SP",NA,NA,2022,7
+2022-05-22 19:00:00,"Athletico Paranaense","PR","Avaí","SC",NA,NA,2022,7
+2022-05-28 16:30:00,"Goiás","GO","Red Bull Bragantino","SP",NA,NA,2022,8
+2022-05-28 19:00:00,"São Paulo","SP","Ceará","CE",NA,NA,2022,8
+2022-05-28 20:30:00,"Fortaleza","CE","Juventude","RS",NA,NA,2022,8
+2022-05-29 16:00:00,"Coritiba","PR","Botafogo","RJ",NA,NA,2022,8
+2022-05-29 16:00:00,"Santos","SP","Palmeiras","SP",NA,NA,2022,8
+2022-05-29 18:00:00,"Cuiabá Saf","MT","Athletico Paranaense","PR",NA,NA,2022,8
+2022-05-29 18:00:00,"Corinthians","SP","América Fc Saf","MG",NA,NA,2022,8
+2022-05-29 18:00:00,"Fluminense","RJ","Flamengo","RJ",NA,NA,2022,8
+2022-05-29 19:00:00,"Atlético Mineiro","MG","Avaí","SC",NA,NA,2022,8
+2022-05-30 20:00:00,"Internacional","RS","Atlético","GO",NA,NA,2022,8
+2022-06-04 16:30:00,"América Fc Saf","MG","Cuiabá Saf","MT",NA,NA,2022,9
+2022-06-04 19:00:00,"Avaí","SC","São Paulo","SP",NA,NA,2022,9
+2022-06-04 19:00:00,"Athletico Paranaense","PR","Santos","SP",NA,NA,2022,9
+2022-06-04 19:00:00,"Ceará","CE","Coritiba","PR",NA,NA,2022,9
+2022-06-04 20:30:00,"Atlético","GO","Corinthians","SP",NA,NA,2022,9
+2022-06-05 11:00:00,"Juventude","RS","Fluminense","RJ",NA,NA,2022,9
+2022-06-05 16:00:00,"Palmeiras","SP","Atlético Mineiro","MG",NA,NA,2022,9
+2022-06-05 16:00:00,"Flamengo","RJ","Fortaleza","CE",NA,NA,2022,9
+2022-06-05 19:00:00,"Red Bull Bragantino","SP","Internacional","RS",NA,NA,2022,9
+2022-06-06 20:00:00,"Botafogo","RJ","Goiás","GO",NA,NA,2022,9
+2022-06-07 21:30:00,"Cuiabá Saf","MT","Corinthians","SP",NA,NA,2022,10
+2022-06-08 19:00:00,"Juventude","RS","Athletico Paranaense","PR",NA,NA,2022,10
+2022-06-08 19:00:00,"América Fc Saf","MG","Ceará","CE",NA,NA,2022,10
+2022-06-08 20:30:00,"Red Bull Bragantino","SP","Flamengo","RJ",NA,NA,2022,10
+2022-06-08 20:30:00,"Atlético","GO","Avaí","SC",NA,NA,2022,10
+2022-06-08 21:30:00,"Fluminense","RJ","Atlético Mineiro","MG",NA,NA,2022,10
+2022-06-08 21:30:00,"Santos","SP","Internacional","RS",NA,NA,2022,10
+2022-06-09 19:00:00,"Palmeiras","SP","Botafogo","RJ",NA,NA,2022,10
+2022-06-09 20:00:00,"Coritiba","PR","São Paulo","SP",NA,NA,2022,10
+2022-06-09 20:00:00,"Fortaleza","CE","Goiás","GO",NA,NA,2022,10
+2022-06-11 16:30:00,"Corinthians","SP","Juventude","RS",NA,NA,2022,11
+2022-06-11 19:00:00,"Cuiabá Saf","MT","Red Bull Bragantino","SP",NA,NA,2022,11
+2022-06-11 19:00:00,"Atlético Mineiro","MG","Santos","SP",NA,NA,2022,11
+2022-06-11 19:00:00,"Fluminense","RJ","Atlético","GO",NA,NA,2022,11
+2022-06-11 21:00:00,"Internacional","RS","Flamengo","RJ",NA,NA,2022,11
+2022-06-12 16:00:00,"São Paulo","SP","América Fc Saf","MG",NA,NA,2022,11
+2022-06-12 16:00:00,"Goiás","GO","Ceará","CE",NA,NA,2022,11
+2022-06-12 18:00:00,"Coritiba","PR","Palmeiras","SP",NA,NA,2022,11
+2022-06-12 19:00:00,"Fortaleza","CE","Athletico Paranaense","PR",NA,NA,2022,11
+2022-06-13 19:00:00,"Botafogo","RJ","Avaí","SC",NA,NA,2022,11
+2022-06-14 21:30:00,"Juventude","RS","Santos","SP",NA,NA,2022,12
+2022-06-15 19:00:00,"Ceará","CE","Atlético Mineiro","MG",NA,NA,2022,12
+2022-06-15 19:00:00,"Red Bull Bragantino","SP","Coritiba","PR",NA,NA,2022,12
+2022-06-15 20:30:00,"Goiás","GO","Internacional","RS",NA,NA,2022,12
+2022-06-15 20:30:00,"Flamengo","RJ","Cuiabá Saf","MT",NA,NA,2022,12
+2022-06-15 20:30:00,"Palmeiras","SP","Atlético","GO",NA,NA,2022,12
+2022-06-15 21:30:00,"Athletico Paranaense","PR","Corinthians","SP",NA,NA,2022,12
+2022-06-15 21:30:00,"América Fc Saf","MG","Fluminense","RJ",NA,NA,2022,12
+2022-06-16 16:00:00,"Botafogo","RJ","São Paulo","SP",NA,NA,2022,12
+2022-06-16 19:00:00,"Avaí","SC","Fortaleza","CE",NA,NA,2022,12
+2022-06-18 16:30:00,"Atlético","GO","Juventude","RS",NA,NA,2022,13
+2022-06-18 19:00:00,"Cuiabá Saf","MT","Ceará","CE",NA,NA,2022,13
+2022-06-18 21:00:00,"Santos","SP","Red Bull Bragantino","SP",NA,NA,2022,13
+2022-06-19 16:00:00,"Coritiba","PR","Athletico Paranaense","PR",NA,NA,2022,13
+2022-06-19 16:00:00,"Atlético Mineiro","MG","Flamengo","RJ",NA,NA,2022,13
+2022-06-19 16:00:00,"Corinthians","SP","Goiás","GO",NA,NA,2022,13
+2022-06-19 18:00:00,"Fortaleza","CE","América Fc Saf","MG",NA,NA,2022,13
+2022-06-19 18:00:00,"Internacional","RS","Botafogo","RJ",NA,NA,2022,13
+2022-06-19 19:00:00,"Fluminense","RJ","Avaí","SC",NA,NA,2022,13
+2022-06-20 20:00:00,"São Paulo","SP","Palmeiras","SP",NA,NA,2022,13
+2022-06-25 16:30:00,"Ceará","CE","Atlético","GO",NA,NA,2022,14
+2022-06-25 16:30:00,"Goiás","GO","Cuiabá Saf","MT",NA,NA,2022,14
+2022-06-25 19:00:00,"Corinthians","SP","Santos","SP",NA,NA,2022,14
+2022-06-25 20:30:00,"Flamengo","RJ","América Fc Saf","MG",NA,NA,2022,14
+2022-06-26 16:00:00,"Avaí","SC","Palmeiras","SP",NA,NA,2022,14
+2022-06-26 16:00:00,"Botafogo","RJ","Fluminense","RJ",NA,NA,2022,14
+2022-06-26 18:00:00,"São Paulo","SP","Juventude","RS",NA,NA,2022,14
+2022-06-26 19:00:00,"Athletico Paranaense","PR","Red Bull Bragantino","SP",NA,NA,2022,14
+2022-06-26 19:00:00,"Atlético Mineiro","MG","Fortaleza","CE",NA,NA,2022,14
+2022-06-27 20:00:00,"Internacional","RS","Coritiba","PR",NA,NA,2022,14
+2022-07-02 16:30:00,"Fluminense","RJ","Corinthians","SP",NA,NA,2022,15
+2022-07-02 16:30:00,"América Fc Saf","MG","Goiás","GO",NA,NA,2022,15
+2022-07-02 19:00:00,"Santos","SP","Flamengo","RJ",NA,NA,2022,15
+2022-07-02 20:30:00,"Juventude","RS","Atlético Mineiro","MG",NA,NA,2022,15
+2022-07-03 11:00:00,"Avaí","SC","Cuiabá Saf","MT",NA,NA,2022,15
+2022-07-03 16:00:00,"Atlético","GO","São Paulo","SP",NA,NA,2022,15
+2022-07-03 18:00:00,"Ceará","CE","Internacional","RS",NA,NA,2022,15
+2022-07-03 18:00:00,"Coritiba","PR","Fortaleza","CE",NA,NA,2022,15
+2022-07-03 19:00:00,"Palmeiras","SP","Athletico Paranaense","PR",NA,NA,2022,15
+2022-07-04 20:00:00,"Red Bull Bragantino","SP","Botafogo","RJ",NA,NA,2022,15
+NA,"Coritiba","PR","Juventude","RS",NA,NA,2022,16
+NA,"Cuiabá Saf","MT","Botafogo","RJ",NA,NA,2022,16
+NA,"Goiás","GO","Athletico Paranaense","PR",NA,NA,2022,16
+NA,"Fortaleza","CE","Palmeiras","SP",NA,NA,2022,16
+NA,"Internacional","RS","América Fc Saf","MG",NA,NA,2022,16
+NA,"Santos","SP","Atlético","GO",NA,NA,2022,16
+NA,"Corinthians","SP","Flamengo","RJ",NA,NA,2022,16
+NA,"Red Bull Bragantino","SP","Avaí","SC",NA,NA,2022,16
+NA,"Atlético Mineiro","MG","São Paulo","SP",NA,NA,2022,16
+NA,"Fluminense","RJ","Ceará","CE",NA,NA,2022,16
+NA,"Avaí","SC","Santos","SP",NA,NA,2022,17
+NA,"América Fc Saf","MG","Red Bull Bragantino","SP",NA,NA,2022,17
+NA,"Atlético","GO","Fortaleza","CE",NA,NA,2022,17
+NA,"Ceará","CE","Corinthians","SP",NA,NA,2022,17
+NA,"Juventude","RS","Goiás","GO",NA,NA,2022,17
+NA,"Botafogo","RJ","Atlético Mineiro","MG",NA,NA,2022,17
+NA,"Palmeiras","SP","Cuiabá Saf","MT",NA,NA,2022,17
+NA,"São Paulo","SP","Fluminense","RJ",NA,NA,2022,17
+NA,"Flamengo","RJ","Coritiba","PR",NA,NA,2022,17
+NA,"Athletico Paranaense","PR","Internacional","RS",NA,NA,2022,17
+NA,"América Fc Saf","MG","Palmeiras","SP",NA,NA,2022,18
+NA,"Flamengo","RJ","Juventude","RS",NA,NA,2022,18
+NA,"Athletico Paranaense","PR","Atlético","GO",NA,NA,2022,18
+NA,"Cuiabá Saf","MT","Atlético Mineiro","MG",NA,NA,2022,18
+NA,"Goiás","GO","Fluminense","RJ",NA,NA,2022,18
+NA,"Ceará","CE","Avaí","SC",NA,NA,2022,18
+NA,"Internacional","RS","São Paulo","SP",NA,NA,2022,18
+NA,"Santos","SP","Botafogo","RJ",NA,NA,2022,18
+NA,"Corinthians","SP","Coritiba","PR",NA,NA,2022,18
+NA,"Red Bull Bragantino","SP","Fortaleza","CE",NA,NA,2022,18
+NA,"Coritiba","PR","Cuiabá Saf","MT",NA,NA,2022,19
+NA,"Fluminense","RJ","Red Bull Bragantino","SP",NA,NA,2022,19
+NA,"Avaí","SC","Flamengo","RJ",NA,NA,2022,19
+NA,"Atlético","GO","América Fc Saf","MG",NA,NA,2022,19
+NA,"Fortaleza","CE","Santos","SP",NA,NA,2022,19
+NA,"Juventude","RS","Ceará","CE",NA,NA,2022,19
+NA,"Botafogo","RJ","Athletico Paranaense","PR",NA,NA,2022,19
+NA,"Palmeiras","SP","Internacional","RS",NA,NA,2022,19
+NA,"São Paulo","SP","Goiás","GO",NA,NA,2022,19
+NA,"Atlético Mineiro","MG","Corinthians","SP",NA,NA,2022,19
+NA,"Athletico Paranaense","PR","São Paulo","SP",NA,NA,2022,20
+NA,"Cuiabá Saf","MT","Fortaleza","CE",NA,NA,2022,20
+NA,"Goiás","GO","Coritiba","PR",NA,NA,2022,20
+NA,"Ceará","CE","Palmeiras","SP",NA,NA,2022,20
+NA,"Internacional","RS","Atlético Mineiro","MG",NA,NA,2022,20
+NA,"Santos","SP","Fluminense","RJ",NA,NA,2022,20
+NA,"Corinthians","SP","Botafogo","RJ",NA,NA,2022,20
+NA,"Flamengo","RJ","Atlético","GO",NA,NA,2022,20
+NA,"Red Bull Bragantino","SP","Juventude","RS",NA,NA,2022,20
+NA,"América Fc Saf","MG","Avaí","SC",NA,NA,2022,20
+NA,"Palmeiras","SP","Goiás","GO",NA,NA,2022,21
+NA,"Coritiba","PR","Santos","SP",NA,NA,2022,21
+NA,"Avaí","SC","Corinthians","SP",NA,NA,2022,21
+NA,"Atlético","GO","Red Bull Bragantino","SP",NA,NA,2022,21
+NA,"Fortaleza","CE","Internacional","RS",NA,NA,2022,21
+NA,"Juventude","RS","América Fc Saf","MG",NA,NA,2022,21
+NA,"Botafogo","RJ","Ceará","CE",NA,NA,2022,21
+NA,"São Paulo","SP","Flamengo","RJ",NA,NA,2022,21
+NA,"Fluminense","RJ","Cuiabá Saf","MT",NA,NA,2022,21
+NA,"Atlético Mineiro","MG","Athletico Paranaense","PR",NA,NA,2022,21
+NA,"São Paulo","SP","Red Bull Bragantino","SP",NA,NA,2022,22
+NA,"Flamengo","RJ","Athletico Paranaense","PR",NA,NA,2022,22
+NA,"América Fc Saf","MG","Santos","SP",NA,NA,2022,22
+NA,"Botafogo","RJ","Atlético","GO",NA,NA,2022,22
+NA,"Corinthians","SP","Palmeiras","SP",NA,NA,2022,22
+NA,"Internacional","RS","Fluminense","RJ",NA,NA,2022,22
+NA,"Ceará","CE","Fortaleza","CE",NA,NA,2022,22
+NA,"Coritiba","PR","Atlético Mineiro","MG",NA,NA,2022,22
+NA,"Cuiabá Saf","MT","Juventude","RS",NA,NA,2022,22
+NA,"Goiás","GO","Avaí","SC",NA,NA,2022,22
+NA,"Atlético","GO","Cuiabá Saf","MT",NA,NA,2022,23
+NA,"Athletico Paranaense","PR","América Fc Saf","MG",NA,NA,2022,23
+NA,"Avaí","SC","Internacional","RS",NA,NA,2022,23
+NA,"Fortaleza","CE","Corinthians","SP",NA,NA,2022,23
+NA,"Juventude","RS","Botafogo","RJ",NA,NA,2022,23
+NA,"Santos","SP","São Paulo","SP",NA,NA,2022,23
+NA,"Palmeiras","SP","Flamengo","RJ",NA,NA,2022,23
+NA,"Red Bull Bragantino","SP","Ceará","CE",NA,NA,2022,23
+NA,"Fluminense","RJ","Coritiba","PR",NA,NA,2022,23
+NA,"Atlético Mineiro","MG","Goiás","GO",NA,NA,2022,23
+NA,"Coritiba","PR","Avaí","SC",NA,NA,2022,24
+NA,"Cuiabá Saf","MT","Santos","SP",NA,NA,2022,24
+NA,"Goiás","GO","Atlético","GO",NA,NA,2022,24
+NA,"Ceará","CE","Athletico Paranaense","PR",NA,NA,2022,24
+NA,"Internacional","RS","Juventude","RS",NA,NA,2022,24
+NA,"Botafogo","RJ","Flamengo","RJ",NA,NA,2022,24
+NA,"Corinthians","SP","Red Bull Bragantino","SP",NA,NA,2022,24
+NA,"São Paulo","SP","Fortaleza","CE",NA,NA,2022,24
+NA,"Fluminense","RJ","Palmeiras","SP",NA,NA,2022,24
+NA,"América Fc Saf","MG","Atlético Mineiro","MG",NA,NA,2022,24
+NA,"Athletico Paranaense","PR","Fluminense","RJ",NA,NA,2022,25
+NA,"Cuiabá Saf","MT","São Paulo","SP",NA,NA,2022,25
+NA,"Atlético","GO","Atlético Mineiro","MG",NA,NA,2022,25
+NA,"Fortaleza","CE","Botafogo","RJ",NA,NA,2022,25
+NA,"Juventude","RS","Avaí","SC",NA,NA,2022,25
+NA,"Santos","SP","Goiás","GO",NA,NA,2022,25
+NA,"Corinthians","SP","Internacional","RS",NA,NA,2022,25
+NA,"Red Bull Bragantino","SP","Palmeiras","SP",NA,NA,2022,25
+NA,"Flamengo","RJ","Ceará","CE",NA,NA,2022,25
+NA,"América Fc Saf","MG","Coritiba","PR",NA,NA,2022,25
+NA,"Fluminense","RJ","Fortaleza","CE",NA,NA,2022,26
+NA,"Coritiba","PR","Atlético","GO",NA,NA,2022,26
+NA,"Avaí","SC","Athletico Paranaense","PR",NA,NA,2022,26
+NA,"Goiás","GO","Flamengo","RJ",NA,NA,2022,26
+NA,"Ceará","CE","Santos","SP",NA,NA,2022,26
+NA,"Internacional","RS","Cuiabá Saf","MT",NA,NA,2022,26
+NA,"Botafogo","RJ","América Fc Saf","MG",NA,NA,2022,26
+NA,"Palmeiras","SP","Juventude","RS",NA,NA,2022,26
+NA,"São Paulo","SP","Corinthians","SP",NA,NA,2022,26
+NA,"Atlético Mineiro","MG","Red Bull Bragantino","SP",NA,NA,2022,26
+NA,"Flamengo","RJ","Fluminense","RJ",NA,NA,2022,27
+NA,"América Fc Saf","MG","Corinthians","SP",NA,NA,2022,27
+NA,"Red Bull Bragantino","SP","Goiás","GO",NA,NA,2022,27
+NA,"Palmeiras","SP","Santos","SP",NA,NA,2022,27
+NA,"Athletico Paranaense","PR","Cuiabá Saf","MT",NA,NA,2022,27
+NA,"Avaí","SC","Atlético Mineiro","MG",NA,NA,2022,27
+NA,"Atlético","GO","Internacional","RS",NA,NA,2022,27
+NA,"Ceará","CE","São Paulo","SP",NA,NA,2022,27
+NA,"Juventude","RS","Fortaleza","CE",NA,NA,2022,27
+NA,"Botafogo","RJ","Coritiba","PR",NA,NA,2022,27
+NA,"Santos","SP","Athletico Paranaense","PR",NA,NA,2022,28
+NA,"Coritiba","PR","Ceará","CE",NA,NA,2022,28
+NA,"Cuiabá Saf","MT","América Fc Saf","MG",NA,NA,2022,28
+NA,"Goiás","GO","Botafogo","RJ",NA,NA,2022,28
+NA,"Fortaleza","CE","Flamengo","RJ",NA,NA,2022,28
+NA,"Internacional","RS","Red Bull Bragantino","SP",NA,NA,2022,28
+NA,"Corinthians","SP","Atlético","GO",NA,NA,2022,28
+NA,"São Paulo","SP","Avaí","SC",NA,NA,2022,28
+NA,"Fluminense","RJ","Juventude","RS",NA,NA,2022,28
+NA,"Atlético Mineiro","MG","Palmeiras","SP",NA,NA,2022,28
+NA,"Corinthians","SP","Cuiabá Saf","MT",NA,NA,2022,29
+NA,"São Paulo","SP","Coritiba","PR",NA,NA,2022,29
+NA,"Flamengo","RJ","Red Bull Bragantino","SP",NA,NA,2022,29
+NA,"Atlético Mineiro","MG","Fluminense","RJ",NA,NA,2022,29
+NA,"Internacional","RS","Santos","SP",NA,NA,2022,29
+NA,"Botafogo","RJ","Palmeiras","SP",NA,NA,2022,29
+NA,"Ceará","CE","América Fc Saf","MG",NA,NA,2022,29
+NA,"Goiás","GO","Fortaleza","CE",NA,NA,2022,29
+NA,"Athletico Paranaense","PR","Juventude","RS",NA,NA,2022,29
+NA,"Avaí","SC","Atlético","GO",NA,NA,2022,29
+NA,"Avaí","SC","Botafogo","RJ",NA,NA,2022,30
+NA,"Athletico Paranaense","PR","Fortaleza","CE",NA,NA,2022,30
+NA,"Atlético","GO","Fluminense","RJ",NA,NA,2022,30
+NA,"Ceará","CE","Goiás","GO",NA,NA,2022,30
+NA,"Juventude","RS","Corinthians","SP",NA,NA,2022,30
+NA,"Santos","SP","Atlético Mineiro","MG",NA,NA,2022,30
+NA,"Palmeiras","SP","Coritiba","PR",NA,NA,2022,30
+NA,"Red Bull Bragantino","SP","Cuiabá Saf","MT",NA,NA,2022,30
+NA,"Flamengo","RJ","Internacional","RS",NA,NA,2022,30
+NA,"América Fc Saf","MG","São Paulo","SP",NA,NA,2022,30
+NA,"Atlético","GO","Palmeiras","SP",NA,NA,2022,31
+NA,"Fortaleza","CE","Avaí","SC",NA,NA,2022,31
+NA,"Internacional","RS","Goiás","GO",NA,NA,2022,31
+NA,"Santos","SP","Juventude","RS",NA,NA,2022,31
+NA,"Corinthians","SP","Athletico Paranaense","PR",NA,NA,2022,31
+NA,"São Paulo","SP","Botafogo","RJ",NA,NA,2022,31
+NA,"Fluminense","RJ","América Fc Saf","MG",NA,NA,2022,31
+NA,"Atlético Mineiro","MG","Ceará","CE",NA,NA,2022,31
+NA,"Coritiba","PR","Red Bull Bragantino","SP",NA,NA,2022,31
+NA,"Cuiabá Saf","MT","Flamengo","RJ",NA,NA,2022,31
+NA,"América Fc Saf","MG","Fortaleza","CE",NA,NA,2022,32
+NA,"Flamengo","RJ","Atlético Mineiro","MG",NA,NA,2022,32
+NA,"Athletico Paranaense","PR","Coritiba","PR",NA,NA,2022,32
+NA,"Avaí","SC","Fluminense","RJ",NA,NA,2022,32
+NA,"Goiás","GO","Corinthians","SP",NA,NA,2022,32
+NA,"Ceará","CE","Cuiabá Saf","MT",NA,NA,2022,32
+NA,"Juventude","RS","Atlético","GO",NA,NA,2022,32
+NA,"Botafogo","RJ","Internacional","RS",NA,NA,2022,32
+NA,"Palmeiras","SP","São Paulo","SP",NA,NA,2022,32
+NA,"Red Bull Bragantino","SP","Santos","SP",NA,NA,2022,32
+NA,"Red Bull Bragantino","SP","Athletico Paranaense","PR",NA,NA,2022,33
+NA,"Coritiba","PR","Internacional","RS",NA,NA,2022,33
+NA,"Cuiabá Saf","MT","Goiás","GO",NA,NA,2022,33
+NA,"Atlético","GO","Ceará","CE",NA,NA,2022,33
+NA,"Fortaleza","CE","Atlético Mineiro","MG",NA,NA,2022,33
+NA,"Juventude","RS","São Paulo","SP",NA,NA,2022,33
+NA,"Santos","SP","Corinthians","SP",NA,NA,2022,33
+NA,"Palmeiras","SP","Avaí","SC",NA,NA,2022,33
+NA,"Fluminense","RJ","Botafogo","RJ",NA,NA,2022,33
+NA,"América Fc Saf","MG","Flamengo","RJ",NA,NA,2022,33
+NA,"Athletico Paranaense","PR","Palmeiras","SP",NA,NA,2022,34
+NA,"Cuiabá Saf","MT","Avaí","SC",NA,NA,2022,34
+NA,"Goiás","GO","América Fc Saf","MG",NA,NA,2022,34
+NA,"Fortaleza","CE","Coritiba","PR",NA,NA,2022,34
+NA,"Botafogo","RJ","Red Bull Bragantino","SP",NA,NA,2022,34
+NA,"Internacional","RS","Ceará","CE",NA,NA,2022,34
+NA,"Corinthians","SP","Fluminense","RJ",NA,NA,2022,34
+NA,"São Paulo","SP","Atlético","GO",NA,NA,2022,34
+NA,"Flamengo","RJ","Santos","SP",NA,NA,2022,34
+NA,"Atlético Mineiro","MG","Juventude","RS",NA,NA,2022,34
+NA,"Ceará","CE","Fluminense","RJ",NA,NA,2022,35
+NA,"Athletico Paranaense","PR","Goiás","GO",NA,NA,2022,35
+NA,"Avaí","SC","Red Bull Bragantino","SP",NA,NA,2022,35
+NA,"Atlético","GO","Santos","SP",NA,NA,2022,35
+NA,"Juventude","RS","Coritiba","PR",NA,NA,2022,35
+NA,"Botafogo","RJ","Cuiabá Saf","MT",NA,NA,2022,35
+NA,"Palmeiras","SP","Fortaleza","CE",NA,NA,2022,35
+NA,"São Paulo","SP","Atlético Mineiro","MG",NA,NA,2022,35
+NA,"Flamengo","RJ","Corinthians","SP",NA,NA,2022,35
+NA,"América Fc Saf","MG","Internacional","RS",NA,NA,2022,35
+NA,"Santos","SP","Avaí","SC",NA,NA,2022,36
+NA,"Corinthians","SP","Ceará","CE",NA,NA,2022,36
+NA,"Red Bull Bragantino","SP","América Fc Saf","MG",NA,NA,2022,36
+NA,"Fluminense","RJ","São Paulo","SP",NA,NA,2022,36
+NA,"Atlético Mineiro","MG","Botafogo","RJ",NA,NA,2022,36
+NA,"Fortaleza","CE","Atlético","GO",NA,NA,2022,36
+NA,"Internacional","RS","Athletico Paranaense","PR",NA,NA,2022,36
+NA,"Goiás","GO","Juventude","RS",NA,NA,2022,36
+NA,"Cuiabá Saf","MT","Palmeiras","SP",NA,NA,2022,36
+NA,"Coritiba","PR","Flamengo","RJ",NA,NA,2022,36
+NA,"Coritiba","PR","Corinthians","SP",NA,NA,2022,37
+NA,"Avaí","SC","Ceará","CE",NA,NA,2022,37
+NA,"Atlético","GO","Athletico Paranaense","PR",NA,NA,2022,37
+NA,"Fortaleza","CE","Red Bull Bragantino","SP",NA,NA,2022,37
+NA,"Juventude","RS","Flamengo","RJ",NA,NA,2022,37
+NA,"Botafogo","RJ","Santos","SP",NA,NA,2022,37
+NA,"Palmeiras","SP","América Fc Saf","MG",NA,NA,2022,37
+NA,"São Paulo","SP","Internacional","RS",NA,NA,2022,37
+NA,"Fluminense","RJ","Goiás","GO",NA,NA,2022,37
+NA,"Atlético Mineiro","MG","Cuiabá Saf","MT",NA,NA,2022,37
+NA,"Athletico Paranaense","PR","Botafogo","RJ",NA,NA,2022,38
+NA,"Cuiabá Saf","MT","Coritiba","PR",NA,NA,2022,38
+NA,"Goiás","GO","São Paulo","SP",NA,NA,2022,38
+NA,"Ceará","CE","Juventude","RS",NA,NA,2022,38
+NA,"Internacional","RS","Palmeiras","SP",NA,NA,2022,38
+NA,"Santos","SP","Fortaleza","CE",NA,NA,2022,38
+NA,"Corinthians","SP","Atlético Mineiro","MG",NA,NA,2022,38
+NA,"Red Bull Bragantino","SP","Fluminense","RJ",NA,NA,2022,38
+NA,"Flamengo","RJ","Avaí","SC",NA,NA,2022,38
+NA,"América Fc Saf","MG","Atlético","GO",NA,NA,2022,38

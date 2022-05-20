@@ -1,8 +1,6 @@
-# For help debugging build failures open an issue on the RStudio community with the 'github-actions' tag.
-# https://community.rstudio.com/new-topic?category=Package%20development&tags=github-actions
-# This workflow deploys the app on push or pull request
-
 name: Update Brasileirao
+description: 'Action to update Brasileirao_Matches.csv'
+authors: 'Ricardo Mattos'
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
@@ -48,17 +46,17 @@ jobs:
           key: ${{ runner.os }}-shinydoc
           restore-keys: |
             ${{ runner.os }}-
-      - name: Install packages
-        shell: Rscript {0}
+            
+      - name: Install and activate renv
         run: |
-          install.packages(c("glue", "dplyr",
-          "rvest", "stringr", "lubridate", "tidyr"))
-          if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
-          renv::restore(repos = "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest")
+          install.packages("renv")
+          renv::activate()
+        shell: Rscript {0}
             
       - name: Scrape and update
         run: |
           Rscript Docs/Brasileirao_Matches_Update.R
+          
       - name: Commit
         run: |
           git config --local user.email "actions@github.com"

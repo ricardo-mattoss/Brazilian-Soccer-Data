@@ -1,6 +1,4 @@
 name: Update Brasileirao
-description: 'Action to update Brasileirao_Matches.csv'
-authors: 'Ricardo Mattos'
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch

@@ -39,20 +39,25 @@ jobs:
           sudo apt install libjq-dev
           sudo add-apt-repository ppa:cran/libgit2
           sudo apt-get install libgit2-dev
-      
-      - name: Cache R packages
-        id: cache
-        uses: actions/cache@v2
+
+      - name: Install and activate renv
+        run: |
+          install.packages("renv")
+          renv::activate()
+        shell: Rscript {0}
+
+      - name: Restore Renv package cache
+        uses: actions/cache@v3
         with:
-          path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-shinydoc
-          restore-keys: |
-            ${{ runner.os }}-
-            
+          path: ${{ env.RENV_PATHS_ROOT }}
+          key: ${{ steps.get-version.outputs.os-version }}-${{ steps.get-version.outputs.r-version }}-${{ inputs.cache-version }}-${{ hashFiles('renv.lock') }}
+          restore-keys: ${{ steps.get-version.outputs.os-version }}-${{ steps.get-version.outputs.r-version }}-${{inputs.cache-version }}-
+
+
       - name: Scrape and update
         run: |
           Rscript Docs/Libertadores_Matches_Update.R
-          
+
       - name: Commit
         run: |
           git config --local user.email "actions@github.com"

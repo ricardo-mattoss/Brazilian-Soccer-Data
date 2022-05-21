@@ -23,6 +23,13 @@ fix_names <- function(df) {
           stringr::str_detect(., "MG")
         ~ "America-MG",
 
+        stringr::str_detect(., "Atletico") &
+          stringr::str_detect(., "MG")
+        ~ "Atletico-MG",
+
+        stringr::str_detect(., "Cuiaba")
+        ~ "Cuiaba-MT",
+
         TRUE ~ .
       )
     )

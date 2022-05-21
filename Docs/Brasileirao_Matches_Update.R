@@ -4,7 +4,8 @@ source("R/fix_names.R")
 # Creating df with historical data
 
 # Brasileirao_Matches <-
-#   purrr::map_dfr(2012:2021, scraping_brasileirao)
+#   purrr::map_dfr(2012:2021, scraping_brasileirao) %>%
+# fix_names()
 
 # Brasileirao_Matches %>%
 #   write.csv("Data/Brasileirao_Matches.csv",
@@ -25,7 +26,8 @@ rows_df_na <- Brasileirao_Matches %>%
 
 # Getting data of actual season
 df_update <-
-  purrr::map_dfr(year(Sys.Date()), scraping_brasileirao)
+  purrr::map_dfr(year(Sys.Date()), scraping_brasileirao) %>%
+  fix_names()
 
 # Count of matches without data in actual season
 rows_actual_season_na <- df_update %>%
@@ -42,7 +44,6 @@ if (rows_df_na == rows_actual_season_na) {
     filter(season != year(Sys.Date())) %>%
     bind_rows(.,
               df_update) %>%
-    fix_names() %>%
     write.csv("Data/Brasileirao_Matches.csv",
               fileEncoding = "UTF-8",
               row.names = F)

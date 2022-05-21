@@ -43,8 +43,7 @@ if (rows_df_na == rows_actual_season_na) {
   Brasileirao_Matches %>%
     filter(season != year(Sys.Date())) %>%
     bind_rows(.,
-              df_update %>%
-                fix_names()) %>%
+              df_update) %>%
     write.csv("Data/Brasileirao_Matches.csv",
               fileEncoding = "UTF-8",
               row.names = F)

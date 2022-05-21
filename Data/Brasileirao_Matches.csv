@@ -3419,386 +3419,6 @@
 2021-02-25 21:30:00,"Atletico-PR","PR","Sport-PE","PE",2,0,2020,38
 2021-02-25 21:30:00,"Ceara-CE","CE","Botafogo-RJ","RJ",2,1,2020,38
 2021-02-25 21:30:00,"Atletico-GO","GO","Coritiba-PR","PR",3,1,2020,38
-2021-05-29 19:00:00,"Cuiaba-MT","MT","Juventude-RS","RS",2,2,2021,1
-2021-05-29 20:00:00,"Bahia-BA","BA","Santos-SP","SP",3,0,2021,1
-2021-05-29 21:00:00,"Sao Paulo-SP","SP","Fluminense-RJ","RJ",0,0,2021,1
-2021-05-30 11:00:00,"Atletico-MG","MG","Fortaleza-CE","CE",1,2,2021,1
-2021-05-30 16:00:00,"Flamengo-RJ","RJ","Palmeiras-SP","SP",1,0,2021,1
-2021-05-30 16:00:00,"Ceara-CE","CE","Gremio-RS","RS",3,2,2021,1
-2021-05-30 18:15:00,"Chapecoense-SC","SC","Red Bull Bragantino-SP","SP",0,3,2021,1
-2021-05-30 18:15:00,"Corinthians-SP","SP","Atletico-GO","GO",0,1,2021,1
-2021-05-30 18:15:00,"Atletico-PR","PR","America-MG","MG",1,0,2021,1
-2021-05-30 20:30:00,"Internacional-RS","RS","Sport-PE","PE",2,2,2021,1
-2021-06-05 19:00:00,"Atletico-GO","GO","Sao Paulo-SP","SP",2,0,2021,2
-2021-06-05 21:00:00,"Red Bull Bragantino-SP","SP","Bahia-BA","BA",3,3,2021,2
-2021-06-05 21:00:00,"Santos-SP","SP","Ceara-CE","CE",3,1,2021,2
-2021-06-06 11:00:00,"Fluminense-RJ","RJ","Cuiaba-MT","MT",1,0,2021,2
-2021-06-06 16:00:00,"America-MG","MG","Corinthians-SP","SP",0,1,2021,2
-2021-06-06 16:00:00,"Fortaleza-CE","CE","Internacional-RS","RS",5,1,2021,2
-2021-06-06 18:15:00,"Palmeiras-SP","SP","Chapecoense-SC","SC",3,1,2021,2
-2021-06-06 18:15:00,"Juventude-RS","RS","Atletico-PR","PR",0,3,2021,2
-2021-06-06 20:30:00,"Sport-PE","PE","Atletico-MG","MG",0,1,2021,2
-2021-11-23 21:00:00,"Gremio-RS","RS","Flamengo-RJ","RJ",NA,NA,2021,2
-2021-06-12 19:00:00,"Palmeiras-SP","SP","Corinthians-SP","SP",1,1,2021,3
-2021-06-12 19:00:00,"Santos-SP","SP","Juventude-RS","RS",0,0,2021,3
-2021-06-13 16:00:00,"Flamengo-RJ","RJ","America-MG","MG",2,0,2021,3
-2021-06-13 16:00:00,"Atletico-MG","MG","Sao Paulo-SP","SP",1,0,2021,3
-2021-06-13 16:00:00,"Gremio-RS","RS","Atletico-PR","PR",0,1,2021,3
-2021-06-13 20:30:00,"Red Bull Bragantino-SP","SP","Fluminense-RJ","RJ",2,2,2021,3
-2021-06-13 20:30:00,"Chapecoense-SC","SC","Ceara-CE","CE",0,0,2021,3
-2021-06-13 20:30:00,"Bahia-BA","BA","Internacional-RS","RS",0,1,2021,3
-2021-06-13 20:30:00,"Fortaleza-CE","CE","Sport-PE","PE",1,0,2021,3
-2021-07-21 19:00:00,"Cuiaba-MT","MT","Atletico-GO","GO",2,1,2021,3
-2021-06-16 19:00:00,"Sao Paulo-SP","SP","Chapecoense-SC","SC",1,1,2021,4
-2021-06-16 19:00:00,"Internacional-RS","RS","Atletico-MG","MG",0,1,2021,4
-2021-06-16 20:30:00,"Corinthians-SP","SP","Red Bull Bragantino-SP","SP",1,2,2021,4
-2021-06-16 21:30:00,"Juventude-RS","RS","Palmeiras-SP","SP",0,3,2021,4
-2021-06-17 16:00:00,"Ceara-CE","CE","Bahia-BA","BA",1,2,2021,4
-2021-06-17 16:00:00,"America-MG","MG","Cuiaba-MT","MT",0,0,2021,4
-2021-06-17 19:00:00,"Atletico-GO","GO","Fortaleza-CE","CE",0,0,2021,4
-2021-06-17 19:00:00,"Fluminense-RJ","RJ","Santos-SP","SP",1,0,2021,4
-2021-06-17 19:00:00,"Sport-PE","PE","Gremio-RS","RS",1,0,2021,4
-2021-11-02 16:00:00,"Atletico-PR","PR","Flamengo-RJ","RJ",2,2,2021,4
-2021-06-19 21:00:00,"Flamengo-RJ","RJ","Red Bull Bragantino-SP","SP",2,3,2021,5
-2021-06-20 11:00:00,"Palmeiras-SP","SP","America-MG","MG",2,1,2021,5
-2021-06-20 16:00:00,"Internacional-RS","RS","Ceara-CE","CE",1,1,2021,5
-2021-06-20 16:00:00,"Bahia-BA","BA","Corinthians-SP","SP",0,0,2021,5
-2021-06-20 18:15:00,"Atletico-PR","PR","Atletico-GO","GO",2,1,2021,5
-2021-06-20 18:15:00,"Santos-SP","SP","Sao Paulo-SP","SP",2,0,2021,5
-2021-06-20 18:15:00,"Fortaleza-CE","CE","Fluminense-RJ","RJ",1,1,2021,5
-2021-06-20 20:30:00,"Juventude-RS","RS","Sport-PE","PE",1,0,2021,5
-2021-06-21 20:00:00,"Atletico-MG","MG","Chapecoense-SC","SC",1,1,2021,5
-2021-08-18 19:00:00,"Cuiaba-MT","MT","Gremio-RS","RS",0,1,2021,5
-2021-06-23 19:00:00,"Flamengo-RJ","RJ","Fortaleza-CE","CE",2,1,2021,6
-2021-06-23 19:00:00,"Sao Paulo-SP","SP","Cuiaba-MT","MT",2,2,2021,6
-2021-06-23 19:00:00,"Red Bull Bragantino-SP","SP","Palmeiras-SP","SP",3,1,2021,6
-2021-06-23 19:00:00,"Atletico-GO","GO","Fluminense-RJ","RJ",1,0,2021,6
-2021-06-24 16:00:00,"America-MG","MG","Juventude-RS","RS",1,1,2021,6
-2021-06-24 19:00:00,"Corinthians-SP","SP","Sport-PE","PE",2,1,2021,6
-2021-06-24 19:00:00,"Ceara-CE","CE","Atletico-MG","MG",2,1,2021,6
-2021-06-24 19:00:00,"Chapecoense-SC","SC","Internacional-RS","RS",1,2,2021,6
-2021-06-24 21:30:00,"Gremio-RS","RS","Santos-SP","SP",2,2,2021,6
-2021-06-24 21:30:00,"Bahia-BA","BA","Atletico-PR","PR",2,1,2021,6
-2021-06-27 11:00:00,"Juventude-RS","RS","Flamengo-RJ","RJ",1,0,2021,7
-2021-06-27 16:00:00,"Fluminense-RJ","RJ","Corinthians-SP","SP",1,1,2021,7
-2021-06-27 20:00:00,"Gremio-RS","RS","Fortaleza-CE","CE",0,0,2021,7
-2021-06-27 20:00:00,"Palmeiras-SP","SP","Bahia-BA","BA",3,2,2021,7
-2021-06-27 20:00:00,"Atletico-PR","PR","Chapecoense-SC","SC",2,2,2021,7
-2021-06-27 20:30:00,"America-MG","MG","Internacional-RS","RS",1,1,2021,7
-2021-06-27 20:30:00,"Santos-SP","SP","Atletico-MG","MG",2,0,2021,7
-2021-06-27 20:30:00,"Ceara-CE","CE","Sao Paulo-SP","SP",1,1,2021,7
-2021-06-27 20:30:00,"Sport-PE","PE","Cuiaba-MT","MT",0,0,2021,7
-2021-06-28 20:00:00,"Atletico-GO","GO","Red Bull Bragantino-SP","SP",0,1,2021,7
-2021-06-30 16:00:00,"Fortaleza-CE","CE","Chapecoense-SC","SC",3,2,2021,8
-2021-06-30 16:00:00,"Fluminense-RJ","RJ","Atletico-PR","PR",1,4,2021,8
-2021-06-30 19:00:00,"Bahia-BA","BA","America-MG","MG",3,4,2021,8
-2021-06-30 19:00:00,"Internacional-RS","RS","Palmeiras-SP","SP",1,2,2021,8
-2021-06-30 20:30:00,"Santos-SP","SP","Sport-PE","PE",0,0,2021,8
-2021-06-30 21:30:00,"Corinthians-SP","SP","Sao Paulo-SP","SP",0,0,2021,8
-2021-06-30 21:30:00,"Juventude-RS","RS","Gremio-RS","RS",2,0,2021,8
-2021-07-01 16:00:00,"Red Bull Bragantino-SP","SP","Ceara-CE","CE",0,0,2021,8
-2021-07-01 19:00:00,"Atletico-MG","MG","Atletico-GO","GO",4,1,2021,8
-2021-07-01 20:00:00,"Cuiaba-MT","MT","Flamengo-RJ","RJ",0,2,2021,8
-2021-07-03 19:00:00,"America-MG","MG","Santos-SP","SP",2,0,2021,9
-2021-07-03 19:00:00,"Atletico-PR","PR","Fortaleza-CE","CE",2,1,2021,9
-2021-07-03 21:00:00,"Corinthians-SP","SP","Internacional-RS","RS",1,1,2021,9
-2021-07-04 11:00:00,"Chapecoense-SC","SC","Bahia-BA","BA",0,2,2021,9
-2021-07-04 16:00:00,"Sport-PE","PE","Palmeiras-SP","SP",0,1,2021,9
-2021-07-04 16:00:00,"Flamengo-RJ","RJ","Fluminense-RJ","RJ",0,1,2021,9
-2021-07-04 18:15:00,"Sao Paulo-SP","SP","Red Bull Bragantino-SP","SP",1,2,2021,9
-2021-07-04 18:15:00,"Ceara-CE","CE","Juventude-RS","RS",2,0,2021,9
-2021-07-04 18:15:00,"Cuiaba-MT","MT","Atletico-MG","MG",0,1,2021,9
-2021-07-04 20:30:00,"Gremio-RS","RS","Atletico-GO","GO",0,1,2021,9
-2021-07-06 19:30:00,"Santos-SP","SP","Atletico-PR","PR",2,1,2021,10
-2021-07-07 18:00:00,"Red Bull Bragantino-SP","SP","Cuiaba-MT","MT",1,1,2021,10
-2021-07-07 18:00:00,"Bahia-BA","BA","Juventude-RS","RS",1,0,2021,10
-2021-07-07 18:00:00,"Fortaleza-CE","CE","America-MG","MG",4,0,2021,10
-2021-07-07 19:00:00,"Palmeiras-SP","SP","Gremio-RS","RS",2,0,2021,10
-2021-07-07 19:00:00,"Atletico-MG","MG","Flamengo-RJ","RJ",2,1,2021,10
-2021-07-07 19:15:00,"Atletico-GO","GO","Sport-PE","PE",1,1,2021,10
-2021-07-07 21:30:00,"Fluminense-RJ","RJ","Ceara-CE","CE",0,0,2021,10
-2021-07-07 21:30:00,"Internacional-RS","RS","Sao Paulo-SP","SP",0,2,2021,10
-2021-07-08 21:00:00,"Chapecoense-SC","SC","Corinthians-SP","SP",0,1,2021,10
-2021-07-10 16:30:00,"Palmeiras-SP","SP","Santos-SP","SP",3,2,2021,11
-2021-07-10 16:30:00,"Gremio-RS","RS","Internacional-RS","RS",0,0,2021,11
-2021-07-10 17:30:00,"Atletico-PR","PR","Red Bull Bragantino-SP","SP",2,2,2021,11
-2021-07-10 19:00:00,"Sao Paulo-SP","SP","Bahia-BA","BA",1,0,2021,11
-2021-07-10 19:00:00,"America-MG","MG","Atletico-MG","MG",0,1,2021,11
-2021-07-10 19:00:00,"Sport-PE","PE","Fluminense-RJ","RJ",1,2,2021,11
-2021-07-11 11:00:00,"Juventude-RS","RS","Atletico-GO","GO",1,1,2021,11
-2021-07-11 18:15:00,"Flamengo-RJ","RJ","Chapecoense-SC","SC",2,1,2021,11
-2021-07-11 18:15:00,"Cuiaba-MT","MT","Ceara-CE","CE",2,2,2021,11
-2021-07-11 20:30:00,"Fortaleza-CE","CE","Corinthians-SP","SP",1,0,2021,11
-2021-07-17 17:00:00,"Ceara-CE","CE","Atletico-PR","PR",1,0,2021,12
-2021-07-17 17:00:00,"Sao Paulo-SP","SP","Fortaleza-CE","CE",0,1,2021,12
-2021-07-17 19:00:00,"Corinthians-SP","SP","Atletico-MG","MG",1,2,2021,12
-2021-07-17 21:00:00,"Fluminense-RJ","RJ","Gremio-RS","RS",0,1,2021,12
-2021-07-18 11:00:00,"Chapecoense-SC","SC","Cuiaba-MT","MT",2,3,2021,12
-2021-07-18 16:00:00,"Atletico-GO","GO","Palmeiras-SP","SP",0,3,2021,12
-2021-07-18 18:15:00,"Bahia-BA","BA","Flamengo-RJ","RJ",0,5,2021,12
-2021-07-18 20:30:00,"Internacional-RS","RS","Juventude-RS","RS",1,0,2021,12
-2021-07-18 20:30:00,"Red Bull Bragantino-SP","SP","Santos-SP","SP",2,2,2021,12
-2021-07-19 20:00:00,"America-MG","MG","Sport-PE","PE",0,1,2021,12
-2021-07-24 17:00:00,"Gremio-RS","RS","America-MG","MG",1,1,2021,13
-2021-07-24 19:00:00,"Palmeiras-SP","SP","Fluminense-RJ","RJ",1,0,2021,13
-2021-07-25 11:00:00,"Atletico-MG","MG","Bahia-BA","BA",3,0,2021,13
-2021-07-25 16:00:00,"Fortaleza-CE","CE","Red Bull Bragantino-SP","SP",1,0,2021,13
-2021-07-25 16:00:00,"Flamengo-RJ","RJ","Sao Paulo-SP","SP",5,1,2021,13
-2021-07-25 18:15:00,"Atletico-PR","PR","Internacional-RS","RS",2,1,2021,13
-2021-07-25 18:15:00,"Santos-SP","SP","Atletico-GO","GO",0,1,2021,13
-2021-07-25 20:30:00,"Sport-PE","PE","Ceara-CE","CE",0,0,2021,13
-2021-07-26 18:00:00,"Juventude-RS","RS","Chapecoense-SC","SC",1,0,2021,13
-2021-07-26 20:00:00,"Cuiaba-MT","MT","Corinthians-SP","SP",1,2,2021,13
-2021-07-31 19:00:00,"Sao Paulo-SP","SP","Palmeiras-SP","SP",0,0,2021,14
-2021-07-31 20:00:00,"Internacional-RS","RS","Cuiaba-MT","MT",0,0,2021,14
-2021-07-31 21:00:00,"Red Bull Bragantino-SP","SP","Gremio-RS","RS",1,0,2021,14
-2021-08-01 16:00:00,"Corinthians-SP","SP","Flamengo-RJ","RJ",1,3,2021,14
-2021-08-01 16:00:00,"Atletico-MG","MG","Atletico-PR","PR",2,0,2021,14
-2021-08-01 18:15:00,"Chapecoense-SC","SC","Santos-SP","SP",0,1,2021,14
-2021-08-01 18:15:00,"Bahia-BA","BA","Sport-PE","PE",0,1,2021,14
-2021-08-01 20:30:00,"Atletico-GO","GO","America-MG","MG",1,1,2021,14
-2021-08-01 20:30:00,"Ceara-CE","CE","Fortaleza-CE","CE",3,1,2021,14
-2021-09-02 19:00:00,"Fluminense-RJ","RJ","Juventude-RS","RS",1,1,2021,14
-2021-08-06 19:00:00,"Sport-PE","PE","Red Bull Bragantino-SP","SP",0,0,2021,15
-2021-08-07 18:00:00,"Atletico-PR","PR","Sao Paulo-SP","SP",1,2,2021,15
-2021-08-07 21:00:00,"Palmeiras-SP","SP","Fortaleza-CE","CE",2,3,2021,15
-2021-08-07 21:00:00,"Cuiaba-MT","MT","Bahia-BA","BA",1,1,2021,15
-2021-08-08 16:00:00,"America-MG","MG","Fluminense-RJ","RJ",1,0,2021,15
-2021-08-08 16:00:00,"Juventude-RS","RS","Atletico-MG","MG",1,2,2021,15
-2021-08-08 16:00:00,"Santos-SP","SP","Corinthians-SP","SP",0,0,2021,15
-2021-08-08 18:15:00,"Flamengo-RJ","RJ","Internacional-RS","RS",0,4,2021,15
-2021-08-08 18:15:00,"Ceara-CE","CE","Atletico-GO","GO",0,0,2021,15
-2021-08-09 20:00:00,"Gremio-RS","RS","Chapecoense-SC","SC",2,1,2021,15
-2021-08-14 17:00:00,"Red Bull Bragantino-SP","SP","Juventude-RS","RS",1,2,2021,16
-2021-08-14 19:00:00,"Atletico-MG","MG","Palmeiras-SP","SP",2,0,2021,16
-2021-08-14 21:00:00,"Sao Paulo-SP","SP","Gremio-RS","RS",2,1,2021,16
-2021-08-15 16:00:00,"Flamengo-RJ","RJ","Sport-PE","PE",2,0,2021,16
-2021-08-15 16:00:00,"Corinthians-SP","SP","Ceara-CE","CE",3,1,2021,16
-2021-08-15 18:15:00,"Fortaleza-CE","CE","Santos-SP","SP",1,1,2021,16
-2021-08-15 18:15:00,"Bahia-BA","BA","Atletico-GO","GO",1,2,2021,16
-2021-08-15 18:15:00,"Cuiaba-MT","MT","Atletico-PR","PR",1,0,2021,16
-2021-08-15 20:30:00,"Internacional-RS","RS","Fluminense-RJ","RJ",4,2,2021,16
-2021-08-16 20:00:00,"Chapecoense-SC","SC","America-MG","MG",1,1,2021,16
-2021-08-21 17:00:00,"Atletico-GO","GO","Chapecoense-SC","SC",1,1,2021,17
-2021-08-21 19:00:00,"Gremio-RS","RS","Bahia-BA","BA",2,0,2021,17
-2021-08-21 21:00:00,"Juventude-RS","RS","Fortaleza-CE","CE",1,1,2021,17
-2021-08-22 11:00:00,"Palmeiras-SP","SP","Cuiaba-MT","MT",0,2,2021,17
-2021-08-22 16:00:00,"Ceara-CE","CE","Flamengo-RJ","RJ",1,1,2021,17
-2021-08-22 16:00:00,"Atletico-PR","PR","Corinthians-SP","SP",0,1,2021,17
-2021-08-22 18:15:00,"Santos-SP","SP","Internacional-RS","RS",2,2,2021,17
-2021-08-22 20:30:00,"Sport-PE","PE","Sao Paulo-SP","SP",0,1,2021,17
-2021-08-23 20:00:00,"America-MG","MG","Red Bull Bragantino-SP","SP",0,2,2021,17
-2021-08-23 20:00:00,"Fluminense-RJ","RJ","Atletico-MG","MG",1,1,2021,17
-2021-08-28 17:00:00,"Sport-PE","PE","Chapecoense-SC","SC",0,0,2021,18
-2021-08-28 19:00:00,"Santos-SP","SP","Flamengo-RJ","RJ",0,4,2021,18
-2021-08-28 21:00:00,"Gremio-RS","RS","Corinthians-SP","SP",0,1,2021,18
-2021-08-28 21:00:00,"Palmeiras-SP","SP","Atletico-PR","PR",2,1,2021,18
-2021-08-29 11:00:00,"America-MG","MG","Ceara-CE","CE",2,0,2021,18
-2021-08-29 16:00:00,"Juventude-RS","RS","Sao Paulo-SP","SP",1,1,2021,18
-2021-08-29 18:15:00,"Atletico-GO","GO","Internacional-RS","RS",0,0,2021,18
-2021-08-29 20:30:00,"Red Bull Bragantino-SP","SP","Atletico-MG","MG",1,1,2021,18
-2021-08-30 19:00:00,"Fluminense-RJ","RJ","Bahia-BA","BA",2,0,2021,18
-2021-08-30 21:30:00,"Fortaleza-CE","CE","Cuiaba-MT","MT",0,0,2021,18
-2021-09-04 21:00:00,"Bahia-BA","BA","Fortaleza-CE","CE",4,2,2021,19
-2021-09-04 21:00:00,"Cuiaba-MT","MT","Santos-SP","SP",2,1,2021,19
-2021-09-05 18:15:00,"Atletico-PR","PR","Sport-PE","PE",0,0,2021,19
-2021-09-07 21:30:00,"Corinthians-SP","SP","Juventude-RS","RS",1,1,2021,19
-2021-09-07 21:30:00,"Chapecoense-SC","SC","Fluminense-RJ","RJ",1,2,2021,19
-2021-09-22 20:30:00,"Sao Paulo-SP","SP","America-MG","MG",0,0,2021,19
-2021-10-20 19:00:00,"Ceara-CE","CE","Palmeiras-SP","SP",1,2,2021,19
-2021-10-21 20:00:00,"Internacional-RS","RS","Red Bull Bragantino-SP","SP",1,1,2021,19
-2021-11-03 21:00:00,"Atletico-MG","MG","Gremio-RS","RS",2,1,2021,19
-2021-11-05 21:30:00,"Flamengo-RJ","RJ","Atletico-GO","GO",2,0,2021,19
-2021-09-11 16:00:00,"America-MG","MG","Atletico-PR","PR",2,0,2021,20
-2021-09-11 17:00:00,"Juventude-RS","RS","Cuiaba-MT","MT",1,2,2021,20
-2021-09-11 19:00:00,"Red Bull Bragantino-SP","SP","Chapecoense-SC","SC",1,2,2021,20
-2021-09-11 21:00:00,"Santos-SP","SP","Bahia-BA","BA",0,0,2021,20
-2021-09-12 11:00:00,"Gremio-RS","RS","Ceara-CE","CE",2,0,2021,20
-2021-09-12 16:00:00,"Fortaleza-CE","CE","Atletico-MG","MG",0,2,2021,20
-2021-09-12 16:00:00,"Palmeiras-SP","SP","Flamengo-RJ","RJ",1,3,2021,20
-2021-09-12 18:15:00,"Atletico-GO","GO","Corinthians-SP","SP",1,1,2021,20
-2021-09-12 20:30:00,"Fluminense-RJ","RJ","Sao Paulo-SP","SP",2,1,2021,20
-2021-09-13 20:00:00,"Sport-PE","PE","Internacional-RS","RS",0,1,2021,20
-2021-09-18 17:00:00,"Chapecoense-SC","SC","Palmeiras-SP","SP",0,2,2021,21
-2021-09-18 18:45:00,"Atletico-PR","PR","Juventude-RS","RS",2,1,2021,21
-2021-09-18 19:00:00,"Atletico-MG","MG","Sport-PE","PE",3,0,2021,21
-2021-09-18 21:00:00,"Bahia-BA","BA","Red Bull Bragantino-SP","SP",1,1,2021,21
-2021-09-18 21:00:00,"Ceara-CE","CE","Santos-SP","SP",0,0,2021,21
-2021-09-19 11:00:00,"Internacional-RS","RS","Fortaleza-CE","CE",1,0,2021,21
-2021-09-19 16:00:00,"Sao Paulo-SP","SP","Atletico-GO","GO",2,1,2021,21
-2021-09-19 18:15:00,"Corinthians-SP","SP","America-MG","MG",1,1,2021,21
-2021-09-19 20:30:00,"Flamengo-RJ","RJ","Gremio-RS","RS",0,1,2021,21
-2021-09-20 20:00:00,"Cuiaba-MT","MT","Fluminense-RJ","RJ",2,2,2021,21
-2021-09-25 17:00:00,"Ceara-CE","CE","Chapecoense-SC","SC",1,0,2021,22
-2021-09-25 19:00:00,"Corinthians-SP","SP","Palmeiras-SP","SP",2,1,2021,22
-2021-09-25 21:00:00,"Sao Paulo-SP","SP","Atletico-MG","MG",0,0,2021,22
-2021-09-26 11:00:00,"America-MG","MG","Flamengo-RJ","RJ",1,1,2021,22
-2021-09-26 16:00:00,"Juventude-RS","RS","Santos-SP","SP",3,0,2021,22
-2021-09-26 16:00:00,"Fluminense-RJ","RJ","Red Bull Bragantino-SP","SP",2,1,2021,22
-2021-09-26 16:00:00,"Internacional-RS","RS","Bahia-BA","BA",2,0,2021,22
-2021-09-26 18:15:00,"Atletico-PR","PR","Gremio-RS","RS",4,2,2021,22
-2021-09-26 18:15:00,"Sport-PE","PE","Fortaleza-CE","CE",0,1,2021,22
-2021-09-26 20:30:00,"Atletico-GO","GO","Cuiaba-MT","MT",0,0,2021,22
-2021-10-02 17:00:00,"Cuiaba-MT","MT","America-MG","MG",0,2,2021,23
-2021-10-02 17:00:00,"Fortaleza-CE","CE","Atletico-GO","GO",0,3,2021,23
-2021-10-02 19:00:00,"Red Bull Bragantino-SP","SP","Corinthians-SP","SP",2,2,2021,23
-2021-10-02 21:00:00,"Atletico-MG","MG","Internacional-RS","RS",1,0,2021,23
-2021-10-03 16:00:00,"Chapecoense-SC","SC","Sao Paulo-SP","SP",1,1,2021,23
-2021-10-03 16:00:00,"Flamengo-RJ","RJ","Atletico-PR","PR",3,0,2021,23
-2021-10-03 18:15:00,"Palmeiras-SP","SP","Juventude-RS","RS",1,1,2021,23
-2021-10-03 20:30:00,"Gremio-RS","RS","Sport-PE","PE",1,2,2021,23
-2021-10-27 19:00:00,"Bahia-BA","BA","Ceara-CE","CE",1,1,2021,23
-2021-10-27 19:00:00,"Santos-SP","SP","Fluminense-RJ","RJ",2,0,2021,23
-2021-10-05 21:30:00,"Corinthians-SP","SP","Bahia-BA","BA",3,1,2021,24
-2021-10-06 19:00:00,"Ceara-CE","CE","Internacional-RS","RS",0,0,2021,24
-2021-10-06 19:00:00,"Sport-PE","PE","Juventude-RS","RS",3,1,2021,24
-2021-10-06 19:00:00,"Atletico-GO","GO","Atletico-PR","PR",0,2,2021,24
-2021-10-06 19:00:00,"Chapecoense-SC","SC","Atletico-MG","MG",2,2,2021,24
-2021-10-06 20:30:00,"Red Bull Bragantino-SP","SP","Flamengo-RJ","RJ",1,1,2021,24
-2021-10-06 21:30:00,"America-MG","MG","Palmeiras-SP","SP",2,1,2021,24
-2021-10-06 21:30:00,"Fluminense-RJ","RJ","Fortaleza-CE","CE",0,2,2021,24
-2021-10-06 21:30:00,"Gremio-RS","RS","Cuiaba-MT","MT",2,2,2021,24
-2021-10-07 18:30:00,"Sao Paulo-SP","SP","Santos-SP","SP",1,1,2021,24
-2021-10-09 16:30:00,"Fluminense-RJ","RJ","Atletico-GO","GO",0,0,2021,25
-2021-10-09 16:30:00,"Sport-PE","PE","Corinthians-SP","SP",1,0,2021,25
-2021-10-09 16:30:00,"Atletico-MG","MG","Ceara-CE","CE",3,1,2021,25
-2021-10-09 19:00:00,"Atletico-PR","PR","Bahia-BA","BA",0,2,2021,25
-2021-10-09 19:00:00,"Fortaleza-CE","CE","Flamengo-RJ","RJ",0,3,2021,25
-2021-10-09 21:00:00,"Palmeiras-SP","SP","Red Bull Bragantino-SP","SP",2,4,2021,25
-2021-10-09 21:00:00,"Juventude-RS","RS","America-MG","MG",1,1,2021,25
-2021-10-10 11:00:00,"Internacional-RS","RS","Chapecoense-SC","SC",5,2,2021,25
-2021-10-10 16:00:00,"Santos-SP","SP","Gremio-RS","RS",1,0,2021,25
-2021-10-11 20:00:00,"Cuiaba-MT","MT","Sao Paulo-SP","SP",0,0,2021,25
-2021-10-12 19:00:00,"Red Bull Bragantino-SP","SP","Atletico-GO","GO",1,0,2021,26
-2021-10-12 21:30:00,"Bahia-BA","BA","Palmeiras-SP","SP",0,0,2021,26
-2021-10-13 19:00:00,"Chapecoense-SC","SC","Atletico-PR","PR",1,1,2021,26
-2021-10-13 19:00:00,"Flamengo-RJ","RJ","Juventude-RS","RS",3,1,2021,26
-2021-10-13 19:00:00,"Atletico-MG","MG","Santos-SP","SP",3,1,2021,26
-2021-10-13 20:30:00,"Fortaleza-CE","CE","Gremio-RS","RS",1,0,2021,26
-2021-10-13 21:00:00,"Corinthians-SP","SP","Fluminense-RJ","RJ",1,0,2021,26
-2021-10-13 21:30:00,"Internacional-RS","RS","America-MG","MG",3,1,2021,26
-2021-10-14 19:00:00,"Cuiaba-MT","MT","Sport-PE","PE",1,0,2021,26
-2021-10-14 19:00:00,"Sao Paulo-SP","SP","Ceara-CE","CE",1,1,2021,26
-2021-10-16 19:00:00,"Chapecoense-SC","SC","Fortaleza-CE","CE",1,2,2021,27
-2021-10-16 21:00:00,"America-MG","MG","Bahia-BA","BA",0,0,2021,27
-2021-10-17 16:00:00,"Palmeiras-SP","SP","Internacional-RS","RS",1,0,2021,27
-2021-10-17 16:00:00,"Atletico-PR","PR","Fluminense-RJ","RJ",0,1,2021,27
-2021-10-17 18:15:00,"Gremio-RS","RS","Juventude-RS","RS",3,2,2021,27
-2021-10-17 18:15:00,"Atletico-GO","GO","Atletico-MG","MG",2,1,2021,27
-2021-10-17 18:15:00,"Ceara-CE","CE","Red Bull Bragantino-SP","SP",2,2,2021,27
-2021-10-17 20:30:00,"Sport-PE","PE","Santos-SP","SP",0,0,2021,27
-2021-10-17 20:30:00,"Flamengo-RJ","RJ","Cuiaba-MT","MT",0,0,2021,27
-2021-10-18 20:00:00,"Sao Paulo-SP","SP","Corinthians-SP","SP",1,0,2021,27
-2021-10-23 17:00:00,"Santos-SP","SP","America-MG","MG",0,2,2021,28
-2021-10-23 17:00:00,"Juventude-RS","RS","Ceara-CE","CE",0,0,2021,28
-2021-10-23 19:00:00,"Fluminense-RJ","RJ","Flamengo-RJ","RJ",3,1,2021,28
-2021-10-23 19:15:00,"Fortaleza-CE","CE","Atletico-PR","PR",3,0,2021,28
-2021-10-24 16:00:00,"Atletico-MG","MG","Cuiaba-MT","MT",2,1,2021,28
-2021-10-24 16:00:00,"Internacional-RS","RS","Corinthians-SP","SP",2,2,2021,28
-2021-10-24 18:15:00,"Red Bull Bragantino-SP","SP","Sao Paulo-SP","SP",1,0,2021,28
-2021-10-24 20:30:00,"Bahia-BA","BA","Chapecoense-SC","SC",3,0,2021,28
-2021-10-25 20:00:00,"Atletico-GO","GO","Gremio-RS","RS",2,0,2021,28
-2021-10-25 21:30:00,"Palmeiras-SP","SP","Sport-PE","PE",2,1,2021,28
-2021-10-30 17:00:00,"Atletico-PR","PR","Santos-SP","SP",0,1,2021,29
-2021-10-30 19:00:00,"Flamengo-RJ","RJ","Atletico-MG","MG",1,0,2021,29
-2021-10-30 19:15:00,"Juventude-RS","RS","Bahia-BA","BA",0,0,2021,29
-2021-10-30 21:00:00,"America-MG","MG","Fortaleza-CE","CE",2,1,2021,29
-2021-10-31 16:00:00,"Ceara-CE","CE","Fluminense-RJ","RJ",1,0,2021,29
-2021-10-31 16:00:00,"Gremio-RS","RS","Palmeiras-SP","SP",1,3,2021,29
-2021-10-31 18:15:00,"Sao Paulo-SP","SP","Internacional-RS","RS",1,0,2021,29
-2021-10-31 20:30:00,"Sport-PE","PE","Atletico-GO","GO",2,0,2021,29
-2021-11-01 20:00:00,"Cuiaba-MT","MT","Red Bull Bragantino-SP","SP",1,0,2021,29
-2021-11-01 21:30:00,"Corinthians-SP","SP","Chapecoense-SC","SC",1,0,2021,29
-2021-11-06 17:00:00,"Corinthians-SP","SP","Fortaleza-CE","CE",1,0,2021,30
-2021-11-06 19:00:00,"Internacional-RS","RS","Gremio-RS","RS",1,0,2021,30
-2021-11-06 21:00:00,"Fluminense-RJ","RJ","Sport-PE","PE",1,0,2021,30
-2021-11-07 16:00:00,"Santos-SP","SP","Palmeiras-SP","SP",0,2,2021,30
-2021-11-07 16:00:00,"Atletico-MG","MG","America-MG","MG",1,0,2021,30
-2021-11-07 16:00:00,"Red Bull Bragantino-SP","SP","Atletico-PR","PR",0,2,2021,30
-2021-11-07 18:15:00,"Bahia-BA","BA","Sao Paulo-SP","SP",1,0,2021,30
-2021-11-07 20:30:00,"Ceara-CE","CE","Cuiaba-MT","MT",1,0,2021,30
-2021-11-08 20:00:00,"Chapecoense-SC","SC","Flamengo-RJ","RJ",2,2,2021,30
-2021-11-23 19:00:00,"Atletico-GO","GO","Juventude-RS","RS",NA,NA,2021,30
-2021-11-04 21:00:00,"Cuiaba-MT","MT","Chapecoense-SC","SC",0,0,2021,31
-2021-11-09 21:30:00,"Gremio-RS","RS","Fluminense-RJ","RJ",1,0,2021,31
-2021-11-10 18:30:00,"Atletico-PR","PR","Ceara-CE","CE",2,1,2021,31
-2021-11-10 19:00:00,"Santos-SP","SP","Red Bull Bragantino-SP","SP",2,0,2021,31
-2021-11-10 19:00:00,"Atletico-MG","MG","Corinthians-SP","SP",3,0,2021,31
-2021-11-10 20:30:00,"Palmeiras-SP","SP","Atletico-GO","GO",4,0,2021,31
-2021-11-10 21:30:00,"Fortaleza-CE","CE","Sao Paulo-SP","SP",1,1,2021,31
-2021-11-10 21:30:00,"Sport-PE","PE","America-MG","MG",2,3,2021,31
-2021-11-10 21:30:00,"Juventude-RS","RS","Internacional-RS","RS",2,1,2021,31
-2021-11-11 19:00:00,"Flamengo-RJ","RJ","Bahia-BA","BA",3,0,2021,31
-2021-11-13 17:00:00,"Atletico-GO","GO","Santos-SP","SP",0,0,2021,32
-2021-11-13 18:30:00,"America-MG","MG","Gremio-RS","RS",3,1,2021,32
-2021-11-13 19:00:00,"Internacional-RS","RS","Atletico-PR","PR",2,1,2021,32
-2021-11-13 19:00:00,"Red Bull Bragantino-SP","SP","Fortaleza-CE","CE",3,0,2021,32
-2021-11-13 21:00:00,"Corinthians-SP","SP","Cuiaba-MT","MT",3,2,2021,32
-2021-11-14 16:00:00,"Sao Paulo-SP","SP","Flamengo-RJ","RJ",0,4,2021,32
-2021-11-14 18:15:00,"Fluminense-RJ","RJ","Palmeiras-SP","SP",2,1,2021,32
-2021-11-14 19:00:00,"Ceara-CE","CE","Sport-PE","PE",2,1,2021,32
-2021-11-14 19:00:00,"Chapecoense-SC","SC","Juventude-RS","RS",0,2,2021,32
-2021-12-02 19:00:00,"Bahia-BA","BA","Atletico-MG","MG",NA,NA,2021,32
-2021-11-16 16:00:00,"Atletico-PR","PR","Atletico-MG","MG",0,1,2021,33
-2021-11-16 18:00:00,"Gremio-RS","RS","Red Bull Bragantino-SP","SP",3,0,2021,33
-2021-11-17 19:00:00,"Cuiaba-MT","MT","Internacional-RS","RS",1,0,2021,33
-2021-11-17 19:00:00,"Santos-SP","SP","Chapecoense-SC","SC",2,0,2021,33
-2021-11-17 19:00:00,"America-MG","MG","Atletico-GO","GO",0,0,2021,33
-2021-11-17 20:00:00,"Fortaleza-CE","CE","Ceara-CE","CE",0,4,2021,33
-2021-11-17 20:30:00,"Palmeiras-SP","SP","Sao Paulo-SP","SP",0,2,2021,33
-2021-11-17 20:30:00,"Juventude-RS","RS","Fluminense-RJ","RJ",1,0,2021,33
-2021-11-17 21:30:00,"Flamengo-RJ","RJ","Corinthians-SP","SP",1,0,2021,33
-2021-11-18 21:00:00,"Sport-PE","PE","Bahia-BA","BA",1,0,2021,33
-2021-10-28 19:00:00,"Red Bull Bragantino-SP","SP","Sport-PE","PE",3,0,2021,34
-2021-11-20 19:00:00,"Atletico-MG","MG","Juventude-RS","RS",2,0,2021,34
-2021-11-20 19:00:00,"Fortaleza-CE","CE","Palmeiras-SP","SP",1,0,2021,34
-2021-11-20 19:00:00,"Chapecoense-SC","SC","Gremio-RS","RS",1,3,2021,34
-2021-11-20 21:00:00,"Atletico-GO","GO","Ceara-CE","CE",1,1,2021,34
-2021-11-20 21:30:00,"Internacional-RS","RS","Flamengo-RJ","RJ",1,2,2021,34
-2021-11-21 16:00:00,"Corinthians-SP","SP","Santos-SP","SP",2,0,2021,34
-2021-11-21 17:00:00,"Fluminense-RJ","RJ","America-MG","MG",2,0,2021,34
-2021-11-21 19:00:00,"Bahia-BA","BA","Cuiaba-MT","MT",0,0,2021,34
-2021-11-24 21:30:00,"Sao Paulo-SP","SP","Atletico-PR","PR",NA,NA,2021,34
-2021-11-23 21:30:00,"Palmeiras-SP","SP","Atletico-MG","MG",NA,NA,2021,35
-2021-11-24 21:30:00,"Fluminense-RJ","RJ","Internacional-RS","RS",NA,NA,2021,35
-2021-11-25 19:00:00,"Santos-SP","SP","Fortaleza-CE","CE",NA,NA,2021,35
-2021-11-25 20:00:00,"Ceara-CE","CE","Corinthians-SP","SP",NA,NA,2021,35
-2021-11-29 19:00:00,"Atletico-GO","GO","Bahia-BA","BA",NA,NA,2021,35
-2021-11-30 19:00:00,"Juventude-RS","RS","Red Bull Bragantino-SP","SP",NA,NA,2021,35
-2021-12-01 21:00:00,"America-MG","MG","Chapecoense-SC","SC",NA,NA,2021,35
-2021-12-02 20:00:00,"Gremio-RS","RS","Sao Paulo-SP","SP",NA,NA,2021,35
-2021-12-03 19:00:00,"Atletico-PR","PR","Cuiaba-MT","MT",NA,NA,2021,35
-2021-12-03 20:00:00,"Sport-PE","PE","Flamengo-RJ","RJ",NA,NA,2021,35
-2021-11-26 19:00:00,"Bahia-BA","BA","Gremio-RS","RS",NA,NA,2021,36
-2021-11-26 21:30:00,"Chapecoense-SC","SC","Atletico-GO","GO",NA,NA,2021,36
-2021-11-27 19:30:00,"Red Bull Bragantino-SP","SP","America-MG","MG",NA,NA,2021,36
-2021-11-27 21:30:00,"Sao Paulo-SP","SP","Sport-PE","PE",NA,NA,2021,36
-2021-11-28 16:00:00,"Corinthians-SP","SP","Atletico-PR","PR",NA,NA,2021,36
-2021-11-28 16:00:00,"Atletico-MG","MG","Fluminense-RJ","RJ",NA,NA,2021,36
-2021-11-28 19:00:00,"Internacional-RS","RS","Santos-SP","SP",NA,NA,2021,36
-2021-11-30 20:00:00,"Flamengo-RJ","RJ","Ceara-CE","CE",NA,NA,2021,36
-2021-11-30 22:00:00,"Cuiaba-MT","MT","Palmeiras-SP","SP",NA,NA,2021,36
-2021-12-03 19:00:00,"Fortaleza-CE","CE","Juventude-RS","RS",NA,NA,2021,36
-2021-12-05 16:00:00,"Corinthians-SP","SP","Gremio-RS","RS",NA,NA,2021,37
-2021-12-05 16:00:00,"Atletico-MG","MG","Red Bull Bragantino-SP","SP",NA,NA,2021,37
-2021-12-05 16:00:00,"Bahia-BA","BA","Fluminense-RJ","RJ",NA,NA,2021,37
-2021-12-05 19:00:00,"Internacional-RS","RS","Atletico-GO","GO",NA,NA,2021,37
-2021-12-05 19:00:00,"Ceara-CE","CE","America-MG","MG",NA,NA,2021,37
-2021-12-06 19:00:00,"Atletico-PR","PR","Palmeiras-SP","SP",NA,NA,2021,37
-2021-12-06 19:00:00,"Sao Paulo-SP","SP","Juventude-RS","RS",NA,NA,2021,37
-2021-12-06 20:00:00,"Flamengo-RJ","RJ","Santos-SP","SP",NA,NA,2021,37
-2021-12-06 21:00:00,"Chapecoense-SC","SC","Sport-PE","PE",NA,NA,2021,37
-2021-12-06 22:00:00,"Cuiaba-MT","MT","Fortaleza-CE","CE",NA,NA,2021,37
-2021-12-09 21:30:00,"Fluminense-RJ","RJ","Chapecoense-SC","SC",NA,NA,2021,38
-2021-12-09 21:30:00,"Palmeiras-SP","SP","Ceara-CE","CE",NA,NA,2021,38
-2021-12-09 21:30:00,"Santos-SP","SP","Cuiaba-MT","MT",NA,NA,2021,38
-2021-12-09 21:30:00,"America-MG","MG","Sao Paulo-SP","SP",NA,NA,2021,38
-2021-12-09 21:30:00,"Gremio-RS","RS","Atletico-MG","MG",NA,NA,2021,38
-2021-12-09 21:30:00,"Fortaleza-CE","CE","Bahia-BA","BA",NA,NA,2021,38
-2021-12-09 21:30:00,"Sport-PE","PE","Atletico-PR","PR",NA,NA,2021,38
-2021-12-09 21:30:00,"Red Bull Bragantino-SP","SP","Internacional-RS","RS",NA,NA,2021,38
-2021-12-09 21:30:00,"Juventude-RS","RS","Corinthians-SP","SP",NA,NA,2021,38
-2021-12-09 21:30:00,"Atletico-GO","GO","Flamengo-RJ","RJ",NA,NA,2021,38
 2022-04-09 16:30:00,"Fluminense-RJ","RJ","Santos-SP","SP",0,0,2022,1
 2022-04-09 19:00:00,"Atletico-GO","GO","Flamengo-RJ","RJ",1,1,2022,1
 2022-04-09 21:00:00,"Palmeiras-SP","SP","Ceara-CE","CE",2,3,2022,1
@@ -4179,3 +3799,383 @@ NA,"Corinthians-SP","SP","Atletico-MG","MG",NA,NA,2022,38
 NA,"Red Bull Bragantino-SP","SP","Fluminense-RJ","RJ",NA,NA,2022,38
 NA,"Flamengo-RJ","RJ","Avai-SC","SC",NA,NA,2022,38
 NA,"America-MG","MG","Atletico-GO","GO",NA,NA,2022,38
+2021-05-29 19:00:00,"Cuiaba-MT","MT","Juventude-RS","RS",2,2,2021,1
+2021-05-29 20:00:00,"Bahia-BA","BA","Santos-SP","SP",3,0,2021,1
+2021-05-29 21:00:00,"Sao Paulo-SP","SP","Fluminense-RJ","RJ",0,0,2021,1
+2021-05-30 11:00:00,"Atletico-MG","MG","Fortaleza-CE","CE",1,2,2021,1
+2021-05-30 16:00:00,"Flamengo-RJ","RJ","Palmeiras-SP","SP",1,0,2021,1
+2021-05-30 16:00:00,"Ceara-CE","CE","Gremio-RS","RS",3,2,2021,1
+2021-05-30 18:15:00,"Chapecoense-SC","SC","Red Bull Bragantino-SP","SP",0,3,2021,1
+2021-05-30 18:15:00,"Corinthians-SP","SP","Atletico-GO","GO",0,1,2021,1
+2021-05-30 18:15:00,"Atletico-PR","PR","America-MG","MG",1,0,2021,1
+2021-05-30 20:30:00,"Internacional-RS","RS","Sport-PE","PE",2,2,2021,1
+2021-06-05 19:00:00,"Atletico-GO","GO","Sao Paulo-SP","SP",2,0,2021,2
+2021-06-05 21:00:00,"Red Bull Bragantino-SP","SP","Bahia-BA","BA",3,3,2021,2
+2021-06-05 21:00:00,"Santos-SP","SP","Ceara-CE","CE",3,1,2021,2
+2021-06-06 11:00:00,"Fluminense-RJ","RJ","Cuiaba-MT","MT",1,0,2021,2
+2021-06-06 16:00:00,"America-MG","MG","Corinthians-SP","SP",0,1,2021,2
+2021-06-06 16:00:00,"Fortaleza-CE","CE","Internacional-RS","RS",5,1,2021,2
+2021-06-06 18:15:00,"Palmeiras-SP","SP","Chapecoense-SC","SC",3,1,2021,2
+2021-06-06 18:15:00,"Juventude-RS","RS","Atletico-PR","PR",0,3,2021,2
+2021-06-06 20:30:00,"Sport-PE","PE","Atletico-MG","MG",0,1,2021,2
+2021-11-23 21:00:00,"Gremio-RS","RS","Flamengo-RJ","RJ",2,2,2021,2
+2021-06-12 19:00:00,"Palmeiras-SP","SP","Corinthians-SP","SP",1,1,2021,3
+2021-06-12 19:00:00,"Santos-SP","SP","Juventude-RS","RS",0,0,2021,3
+2021-06-13 16:00:00,"Flamengo-RJ","RJ","America-MG","MG",2,0,2021,3
+2021-06-13 16:00:00,"Atletico-MG","MG","Sao Paulo-SP","SP",1,0,2021,3
+2021-06-13 16:00:00,"Gremio-RS","RS","Atletico-PR","PR",0,1,2021,3
+2021-06-13 20:30:00,"Red Bull Bragantino-SP","SP","Fluminense-RJ","RJ",2,2,2021,3
+2021-06-13 20:30:00,"Chapecoense-SC","SC","Ceara-CE","CE",0,0,2021,3
+2021-06-13 20:30:00,"Bahia-BA","BA","Internacional-RS","RS",0,1,2021,3
+2021-06-13 20:30:00,"Fortaleza-CE","CE","Sport-PE","PE",1,0,2021,3
+2021-07-21 19:00:00,"Cuiaba-MT","MT","Atletico-GO","GO",2,1,2021,3
+2021-06-16 19:00:00,"Sao Paulo-SP","SP","Chapecoense-SC","SC",1,1,2021,4
+2021-06-16 19:00:00,"Internacional-RS","RS","Atletico-MG","MG",0,1,2021,4
+2021-06-16 20:30:00,"Corinthians-SP","SP","Red Bull Bragantino-SP","SP",1,2,2021,4
+2021-06-16 21:30:00,"Juventude-RS","RS","Palmeiras-SP","SP",0,3,2021,4
+2021-06-17 16:00:00,"Ceara-CE","CE","Bahia-BA","BA",1,2,2021,4
+2021-06-17 16:00:00,"America-MG","MG","Cuiaba-MT","MT",0,0,2021,4
+2021-06-17 19:00:00,"Atletico-GO","GO","Fortaleza-CE","CE",0,0,2021,4
+2021-06-17 19:00:00,"Fluminense-RJ","RJ","Santos-SP","SP",1,0,2021,4
+2021-06-17 19:00:00,"Sport-PE","PE","Gremio-RS","RS",1,0,2021,4
+2021-11-02 16:00:00,"Atletico-PR","PR","Flamengo-RJ","RJ",2,2,2021,4
+2021-06-19 21:00:00,"Flamengo-RJ","RJ","Red Bull Bragantino-SP","SP",2,3,2021,5
+2021-06-20 11:00:00,"Palmeiras-SP","SP","America-MG","MG",2,1,2021,5
+2021-06-20 16:00:00,"Internacional-RS","RS","Ceara-CE","CE",1,1,2021,5
+2021-06-20 16:00:00,"Bahia-BA","BA","Corinthians-SP","SP",0,0,2021,5
+2021-06-20 18:15:00,"Atletico-PR","PR","Atletico-GO","GO",2,1,2021,5
+2021-06-20 18:15:00,"Santos-SP","SP","Sao Paulo-SP","SP",2,0,2021,5
+2021-06-20 18:15:00,"Fortaleza-CE","CE","Fluminense-RJ","RJ",1,1,2021,5
+2021-06-20 20:30:00,"Juventude-RS","RS","Sport-PE","PE",1,0,2021,5
+2021-06-21 20:00:00,"Atletico-MG","MG","Chapecoense-SC","SC",1,1,2021,5
+2021-08-18 19:00:00,"Cuiaba-MT","MT","Gremio-RS","RS",0,1,2021,5
+2021-06-23 19:00:00,"Flamengo-RJ","RJ","Fortaleza-CE","CE",2,1,2021,6
+2021-06-23 19:00:00,"Sao Paulo-SP","SP","Cuiaba-MT","MT",2,2,2021,6
+2021-06-23 19:00:00,"Red Bull Bragantino-SP","SP","Palmeiras-SP","SP",3,1,2021,6
+2021-06-23 19:00:00,"Atletico-GO","GO","Fluminense-RJ","RJ",1,0,2021,6
+2021-06-24 16:00:00,"America-MG","MG","Juventude-RS","RS",1,1,2021,6
+2021-06-24 19:00:00,"Corinthians-SP","SP","Sport-PE","PE",2,1,2021,6
+2021-06-24 19:00:00,"Ceara-CE","CE","Atletico-MG","MG",2,1,2021,6
+2021-06-24 19:00:00,"Chapecoense-SC","SC","Internacional-RS","RS",1,2,2021,6
+2021-06-24 21:30:00,"Gremio-RS","RS","Santos-SP","SP",2,2,2021,6
+2021-06-24 21:30:00,"Bahia-BA","BA","Atletico-PR","PR",2,1,2021,6
+2021-06-27 11:00:00,"Juventude-RS","RS","Flamengo-RJ","RJ",1,0,2021,7
+2021-06-27 16:00:00,"Fluminense-RJ","RJ","Corinthians-SP","SP",1,1,2021,7
+2021-06-27 20:00:00,"Gremio-RS","RS","Fortaleza-CE","CE",0,0,2021,7
+2021-06-27 20:00:00,"Palmeiras-SP","SP","Bahia-BA","BA",3,2,2021,7
+2021-06-27 20:00:00,"Atletico-PR","PR","Chapecoense-SC","SC",2,2,2021,7
+2021-06-27 20:30:00,"America-MG","MG","Internacional-RS","RS",1,1,2021,7
+2021-06-27 20:30:00,"Santos-SP","SP","Atletico-MG","MG",2,0,2021,7
+2021-06-27 20:30:00,"Ceara-CE","CE","Sao Paulo-SP","SP",1,1,2021,7
+2021-06-27 20:30:00,"Sport-PE","PE","Cuiaba-MT","MT",0,0,2021,7
+2021-06-28 20:00:00,"Atletico-GO","GO","Red Bull Bragantino-SP","SP",0,1,2021,7
+2021-06-30 16:00:00,"Fortaleza-CE","CE","Chapecoense-SC","SC",3,2,2021,8
+2021-06-30 16:00:00,"Fluminense-RJ","RJ","Atletico-PR","PR",1,4,2021,8
+2021-06-30 19:00:00,"Bahia-BA","BA","America-MG","MG",3,4,2021,8
+2021-06-30 19:00:00,"Internacional-RS","RS","Palmeiras-SP","SP",1,2,2021,8
+2021-06-30 20:30:00,"Santos-SP","SP","Sport-PE","PE",0,0,2021,8
+2021-06-30 21:30:00,"Corinthians-SP","SP","Sao Paulo-SP","SP",0,0,2021,8
+2021-06-30 21:30:00,"Juventude-RS","RS","Gremio-RS","RS",2,0,2021,8
+2021-07-01 16:00:00,"Red Bull Bragantino-SP","SP","Ceara-CE","CE",0,0,2021,8
+2021-07-01 19:00:00,"Atletico-MG","MG","Atletico-GO","GO",4,1,2021,8
+2021-07-01 20:00:00,"Cuiaba-MT","MT","Flamengo-RJ","RJ",0,2,2021,8
+2021-07-03 19:00:00,"America-MG","MG","Santos-SP","SP",2,0,2021,9
+2021-07-03 19:00:00,"Atletico-PR","PR","Fortaleza-CE","CE",2,1,2021,9
+2021-07-03 21:00:00,"Corinthians-SP","SP","Internacional-RS","RS",1,1,2021,9
+2021-07-04 11:00:00,"Chapecoense-SC","SC","Bahia-BA","BA",0,2,2021,9
+2021-07-04 16:00:00,"Sport-PE","PE","Palmeiras-SP","SP",0,1,2021,9
+2021-07-04 16:00:00,"Flamengo-RJ","RJ","Fluminense-RJ","RJ",0,1,2021,9
+2021-07-04 18:15:00,"Sao Paulo-SP","SP","Red Bull Bragantino-SP","SP",1,2,2021,9
+2021-07-04 18:15:00,"Ceara-CE","CE","Juventude-RS","RS",2,0,2021,9
+2021-07-04 18:15:00,"Cuiaba-MT","MT","Atletico-MG","MG",0,1,2021,9
+2021-07-04 20:30:00,"Gremio-RS","RS","Atletico-GO","GO",0,1,2021,9
+2021-07-06 19:30:00,"Santos-SP","SP","Atletico-PR","PR",2,1,2021,10
+2021-07-07 18:00:00,"Red Bull Bragantino-SP","SP","Cuiaba-MT","MT",1,1,2021,10
+2021-07-07 18:00:00,"Bahia-BA","BA","Juventude-RS","RS",1,0,2021,10
+2021-07-07 18:00:00,"Fortaleza-CE","CE","America-MG","MG",4,0,2021,10
+2021-07-07 19:00:00,"Palmeiras-SP","SP","Gremio-RS","RS",2,0,2021,10
+2021-07-07 19:00:00,"Atletico-MG","MG","Flamengo-RJ","RJ",2,1,2021,10
+2021-07-07 19:15:00,"Atletico-GO","GO","Sport-PE","PE",1,1,2021,10
+2021-07-07 21:30:00,"Fluminense-RJ","RJ","Ceara-CE","CE",0,0,2021,10
+2021-07-07 21:30:00,"Internacional-RS","RS","Sao Paulo-SP","SP",0,2,2021,10
+2021-07-08 21:00:00,"Chapecoense-SC","SC","Corinthians-SP","SP",0,1,2021,10
+2021-07-10 16:30:00,"Palmeiras-SP","SP","Santos-SP","SP",3,2,2021,11
+2021-07-10 16:30:00,"Gremio-RS","RS","Internacional-RS","RS",0,0,2021,11
+2021-07-10 17:30:00,"Atletico-PR","PR","Red Bull Bragantino-SP","SP",2,2,2021,11
+2021-07-10 19:00:00,"Sao Paulo-SP","SP","Bahia-BA","BA",1,0,2021,11
+2021-07-10 19:00:00,"America-MG","MG","Atletico-MG","MG",0,1,2021,11
+2021-07-10 19:00:00,"Sport-PE","PE","Fluminense-RJ","RJ",1,2,2021,11
+2021-07-11 11:00:00,"Juventude-RS","RS","Atletico-GO","GO",1,1,2021,11
+2021-07-11 18:15:00,"Flamengo-RJ","RJ","Chapecoense-SC","SC",2,1,2021,11
+2021-07-11 18:15:00,"Cuiaba-MT","MT","Ceara-CE","CE",2,2,2021,11
+2021-07-11 20:30:00,"Fortaleza-CE","CE","Corinthians-SP","SP",1,0,2021,11
+2021-07-17 17:00:00,"Ceara-CE","CE","Atletico-PR","PR",1,0,2021,12
+2021-07-17 17:00:00,"Sao Paulo-SP","SP","Fortaleza-CE","CE",0,1,2021,12
+2021-07-17 19:00:00,"Corinthians-SP","SP","Atletico-MG","MG",1,2,2021,12
+2021-07-17 21:00:00,"Fluminense-RJ","RJ","Gremio-RS","RS",0,1,2021,12
+2021-07-18 11:00:00,"Chapecoense-SC","SC","Cuiaba-MT","MT",2,3,2021,12
+2021-07-18 16:00:00,"Atletico-GO","GO","Palmeiras-SP","SP",0,3,2021,12
+2021-07-18 18:15:00,"Bahia-BA","BA","Flamengo-RJ","RJ",0,5,2021,12
+2021-07-18 20:30:00,"Internacional-RS","RS","Juventude-RS","RS",1,0,2021,12
+2021-07-18 20:30:00,"Red Bull Bragantino-SP","SP","Santos-SP","SP",2,2,2021,12
+2021-07-19 20:00:00,"America-MG","MG","Sport-PE","PE",0,1,2021,12
+2021-07-24 17:00:00,"Gremio-RS","RS","America-MG","MG",1,1,2021,13
+2021-07-24 19:00:00,"Palmeiras-SP","SP","Fluminense-RJ","RJ",1,0,2021,13
+2021-07-25 11:00:00,"Atletico-MG","MG","Bahia-BA","BA",3,0,2021,13
+2021-07-25 16:00:00,"Fortaleza-CE","CE","Red Bull Bragantino-SP","SP",1,0,2021,13
+2021-07-25 16:00:00,"Flamengo-RJ","RJ","Sao Paulo-SP","SP",5,1,2021,13
+2021-07-25 18:15:00,"Atletico-PR","PR","Internacional-RS","RS",2,1,2021,13
+2021-07-25 18:15:00,"Santos-SP","SP","Atletico-GO","GO",0,1,2021,13
+2021-07-25 20:30:00,"Sport-PE","PE","Ceara-CE","CE",0,0,2021,13
+2021-07-26 18:00:00,"Juventude-RS","RS","Chapecoense-SC","SC",1,0,2021,13
+2021-07-26 20:00:00,"Cuiaba-MT","MT","Corinthians-SP","SP",1,2,2021,13
+2021-07-31 19:00:00,"Sao Paulo-SP","SP","Palmeiras-SP","SP",0,0,2021,14
+2021-07-31 20:00:00,"Internacional-RS","RS","Cuiaba-MT","MT",0,0,2021,14
+2021-07-31 21:00:00,"Red Bull Bragantino-SP","SP","Gremio-RS","RS",1,0,2021,14
+2021-08-01 16:00:00,"Corinthians-SP","SP","Flamengo-RJ","RJ",1,3,2021,14
+2021-08-01 16:00:00,"Atletico-MG","MG","Atletico-PR","PR",2,0,2021,14
+2021-08-01 18:15:00,"Chapecoense-SC","SC","Santos-SP","SP",0,1,2021,14
+2021-08-01 18:15:00,"Bahia-BA","BA","Sport-PE","PE",0,1,2021,14
+2021-08-01 20:30:00,"Atletico-GO","GO","America-MG","MG",1,1,2021,14
+2021-08-01 20:30:00,"Ceara-CE","CE","Fortaleza-CE","CE",3,1,2021,14
+2021-09-02 19:00:00,"Fluminense-RJ","RJ","Juventude-RS","RS",1,1,2021,14
+2021-08-06 19:00:00,"Sport-PE","PE","Red Bull Bragantino-SP","SP",0,0,2021,15
+2021-08-07 18:00:00,"Atletico-PR","PR","Sao Paulo-SP","SP",1,2,2021,15
+2021-08-07 21:00:00,"Palmeiras-SP","SP","Fortaleza-CE","CE",2,3,2021,15
+2021-08-07 21:00:00,"Cuiaba-MT","MT","Bahia-BA","BA",1,1,2021,15
+2021-08-08 16:00:00,"America-MG","MG","Fluminense-RJ","RJ",1,0,2021,15
+2021-08-08 16:00:00,"Juventude-RS","RS","Atletico-MG","MG",1,2,2021,15
+2021-08-08 16:00:00,"Santos-SP","SP","Corinthians-SP","SP",0,0,2021,15
+2021-08-08 18:15:00,"Flamengo-RJ","RJ","Internacional-RS","RS",0,4,2021,15
+2021-08-08 18:15:00,"Ceara-CE","CE","Atletico-GO","GO",0,0,2021,15
+2021-08-09 20:00:00,"Gremio-RS","RS","Chapecoense-SC","SC",2,1,2021,15
+2021-08-14 17:00:00,"Red Bull Bragantino-SP","SP","Juventude-RS","RS",1,2,2021,16
+2021-08-14 19:00:00,"Atletico-MG","MG","Palmeiras-SP","SP",2,0,2021,16
+2021-08-14 21:00:00,"Sao Paulo-SP","SP","Gremio-RS","RS",2,1,2021,16
+2021-08-15 16:00:00,"Flamengo-RJ","RJ","Sport-PE","PE",2,0,2021,16
+2021-08-15 16:00:00,"Corinthians-SP","SP","Ceara-CE","CE",3,1,2021,16
+2021-08-15 18:15:00,"Fortaleza-CE","CE","Santos-SP","SP",1,1,2021,16
+2021-08-15 18:15:00,"Bahia-BA","BA","Atletico-GO","GO",1,2,2021,16
+2021-08-15 18:15:00,"Cuiaba-MT","MT","Atletico-PR","PR",1,0,2021,16
+2021-08-15 20:30:00,"Internacional-RS","RS","Fluminense-RJ","RJ",4,2,2021,16
+2021-08-16 20:00:00,"Chapecoense-SC","SC","America-MG","MG",1,1,2021,16
+2021-08-21 17:00:00,"Atletico-GO","GO","Chapecoense-SC","SC",1,1,2021,17
+2021-08-21 19:00:00,"Gremio-RS","RS","Bahia-BA","BA",2,0,2021,17
+2021-08-21 21:00:00,"Juventude-RS","RS","Fortaleza-CE","CE",1,1,2021,17
+2021-08-22 11:00:00,"Palmeiras-SP","SP","Cuiaba-MT","MT",0,2,2021,17
+2021-08-22 16:00:00,"Ceara-CE","CE","Flamengo-RJ","RJ",1,1,2021,17
+2021-08-22 16:00:00,"Atletico-PR","PR","Corinthians-SP","SP",0,1,2021,17
+2021-08-22 18:15:00,"Santos-SP","SP","Internacional-RS","RS",2,2,2021,17
+2021-08-22 20:30:00,"Sport-PE","PE","Sao Paulo-SP","SP",0,1,2021,17
+2021-08-23 20:00:00,"America-MG","MG","Red Bull Bragantino-SP","SP",0,2,2021,17
+2021-08-23 20:00:00,"Fluminense-RJ","RJ","Atletico-MG","MG",1,1,2021,17
+2021-08-28 17:00:00,"Sport-PE","PE","Chapecoense-SC","SC",0,0,2021,18
+2021-08-28 19:00:00,"Santos-SP","SP","Flamengo-RJ","RJ",0,4,2021,18
+2021-08-28 21:00:00,"Gremio-RS","RS","Corinthians-SP","SP",0,1,2021,18
+2021-08-28 21:00:00,"Palmeiras-SP","SP","Atletico-PR","PR",2,1,2021,18
+2021-08-29 11:00:00,"America-MG","MG","Ceara-CE","CE",2,0,2021,18
+2021-08-29 16:00:00,"Juventude-RS","RS","Sao Paulo-SP","SP",1,1,2021,18
+2021-08-29 18:15:00,"Atletico-GO","GO","Internacional-RS","RS",0,0,2021,18
+2021-08-29 20:30:00,"Red Bull Bragantino-SP","SP","Atletico-MG","MG",1,1,2021,18
+2021-08-30 19:00:00,"Fluminense-RJ","RJ","Bahia-BA","BA",2,0,2021,18
+2021-08-30 21:30:00,"Fortaleza-CE","CE","Cuiaba-MT","MT",0,0,2021,18
+2021-09-04 21:00:00,"Bahia-BA","BA","Fortaleza-CE","CE",4,2,2021,19
+2021-09-04 21:00:00,"Cuiaba-MT","MT","Santos-SP","SP",2,1,2021,19
+2021-09-05 18:15:00,"Atletico-PR","PR","Sport-PE","PE",0,0,2021,19
+2021-09-07 21:30:00,"Corinthians-SP","SP","Juventude-RS","RS",1,1,2021,19
+2021-09-07 21:30:00,"Chapecoense-SC","SC","Fluminense-RJ","RJ",1,2,2021,19
+2021-09-22 20:30:00,"Sao Paulo-SP","SP","America-MG","MG",0,0,2021,19
+2021-10-20 19:00:00,"Ceara-CE","CE","Palmeiras-SP","SP",1,2,2021,19
+2021-10-21 20:00:00,"Internacional-RS","RS","Red Bull Bragantino-SP","SP",1,1,2021,19
+2021-11-03 21:00:00,"Atletico-MG","MG","Gremio-RS","RS",2,1,2021,19
+2021-11-05 21:30:00,"Flamengo-RJ","RJ","Atletico-GO","GO",2,0,2021,19
+2021-09-11 16:00:00,"America-MG","MG","Atletico-PR","PR",2,0,2021,20
+2021-09-11 17:00:00,"Juventude-RS","RS","Cuiaba-MT","MT",1,2,2021,20
+2021-09-11 19:00:00,"Red Bull Bragantino-SP","SP","Chapecoense-SC","SC",1,2,2021,20
+2021-09-11 21:00:00,"Santos-SP","SP","Bahia-BA","BA",0,0,2021,20
+2021-09-12 11:00:00,"Gremio-RS","RS","Ceara-CE","CE",2,0,2021,20
+2021-09-12 16:00:00,"Fortaleza-CE","CE","Atletico-MG","MG",0,2,2021,20
+2021-09-12 16:00:00,"Palmeiras-SP","SP","Flamengo-RJ","RJ",1,3,2021,20
+2021-09-12 18:15:00,"Atletico-GO","GO","Corinthians-SP","SP",1,1,2021,20
+2021-09-12 20:30:00,"Fluminense-RJ","RJ","Sao Paulo-SP","SP",2,1,2021,20
+2021-09-13 20:00:00,"Sport-PE","PE","Internacional-RS","RS",0,1,2021,20
+2021-09-18 17:00:00,"Chapecoense-SC","SC","Palmeiras-SP","SP",0,2,2021,21
+2021-09-18 18:45:00,"Atletico-PR","PR","Juventude-RS","RS",2,1,2021,21
+2021-09-18 19:00:00,"Atletico-MG","MG","Sport-PE","PE",3,0,2021,21
+2021-09-18 21:00:00,"Bahia-BA","BA","Red Bull Bragantino-SP","SP",1,1,2021,21
+2021-09-18 21:00:00,"Ceara-CE","CE","Santos-SP","SP",0,0,2021,21
+2021-09-19 11:00:00,"Internacional-RS","RS","Fortaleza-CE","CE",1,0,2021,21
+2021-09-19 16:00:00,"Sao Paulo-SP","SP","Atletico-GO","GO",2,1,2021,21
+2021-09-19 18:15:00,"Corinthians-SP","SP","America-MG","MG",1,1,2021,21
+2021-09-19 20:30:00,"Flamengo-RJ","RJ","Gremio-RS","RS",0,1,2021,21
+2021-09-20 20:00:00,"Cuiaba-MT","MT","Fluminense-RJ","RJ",2,2,2021,21
+2021-09-25 17:00:00,"Ceara-CE","CE","Chapecoense-SC","SC",1,0,2021,22
+2021-09-25 19:00:00,"Corinthians-SP","SP","Palmeiras-SP","SP",2,1,2021,22
+2021-09-25 21:00:00,"Sao Paulo-SP","SP","Atletico-MG","MG",0,0,2021,22
+2021-09-26 11:00:00,"America-MG","MG","Flamengo-RJ","RJ",1,1,2021,22
+2021-09-26 16:00:00,"Juventude-RS","RS","Santos-SP","SP",3,0,2021,22
+2021-09-26 16:00:00,"Fluminense-RJ","RJ","Red Bull Bragantino-SP","SP",2,1,2021,22
+2021-09-26 16:00:00,"Internacional-RS","RS","Bahia-BA","BA",2,0,2021,22
+2021-09-26 18:15:00,"Atletico-PR","PR","Gremio-RS","RS",4,2,2021,22
+2021-09-26 18:15:00,"Sport-PE","PE","Fortaleza-CE","CE",0,1,2021,22
+2021-09-26 20:30:00,"Atletico-GO","GO","Cuiaba-MT","MT",0,0,2021,22
+2021-10-02 17:00:00,"Cuiaba-MT","MT","America-MG","MG",0,2,2021,23
+2021-10-02 17:00:00,"Fortaleza-CE","CE","Atletico-GO","GO",0,3,2021,23
+2021-10-02 19:00:00,"Red Bull Bragantino-SP","SP","Corinthians-SP","SP",2,2,2021,23
+2021-10-02 21:00:00,"Atletico-MG","MG","Internacional-RS","RS",1,0,2021,23
+2021-10-03 16:00:00,"Chapecoense-SC","SC","Sao Paulo-SP","SP",1,1,2021,23
+2021-10-03 16:00:00,"Flamengo-RJ","RJ","Atletico-PR","PR",3,0,2021,23
+2021-10-03 18:15:00,"Palmeiras-SP","SP","Juventude-RS","RS",1,1,2021,23
+2021-10-03 20:30:00,"Gremio-RS","RS","Sport-PE","PE",1,2,2021,23
+2021-10-27 19:00:00,"Bahia-BA","BA","Ceara-CE","CE",1,1,2021,23
+2021-10-27 19:00:00,"Santos-SP","SP","Fluminense-RJ","RJ",2,0,2021,23
+2021-10-05 21:30:00,"Corinthians-SP","SP","Bahia-BA","BA",3,1,2021,24
+2021-10-06 19:00:00,"Ceara-CE","CE","Internacional-RS","RS",0,0,2021,24
+2021-10-06 19:00:00,"Sport-PE","PE","Juventude-RS","RS",3,1,2021,24
+2021-10-06 19:00:00,"Atletico-GO","GO","Atletico-PR","PR",0,2,2021,24
+2021-10-06 19:00:00,"Chapecoense-SC","SC","Atletico-MG","MG",2,2,2021,24
+2021-10-06 20:30:00,"Red Bull Bragantino-SP","SP","Flamengo-RJ","RJ",1,1,2021,24
+2021-10-06 21:30:00,"America-MG","MG","Palmeiras-SP","SP",2,1,2021,24
+2021-10-06 21:30:00,"Fluminense-RJ","RJ","Fortaleza-CE","CE",0,2,2021,24
+2021-10-06 21:30:00,"Gremio-RS","RS","Cuiaba-MT","MT",2,2,2021,24
+2021-10-07 18:30:00,"Sao Paulo-SP","SP","Santos-SP","SP",1,1,2021,24
+2021-10-09 16:30:00,"Fluminense-RJ","RJ","Atletico-GO","GO",0,0,2021,25
+2021-10-09 16:30:00,"Sport-PE","PE","Corinthians-SP","SP",1,0,2021,25
+2021-10-09 16:30:00,"Atletico-MG","MG","Ceara-CE","CE",3,1,2021,25
+2021-10-09 19:00:00,"Atletico-PR","PR","Bahia-BA","BA",0,2,2021,25
+2021-10-09 19:00:00,"Fortaleza-CE","CE","Flamengo-RJ","RJ",0,3,2021,25
+2021-10-09 21:00:00,"Palmeiras-SP","SP","Red Bull Bragantino-SP","SP",2,4,2021,25
+2021-10-09 21:00:00,"Juventude-RS","RS","America-MG","MG",1,1,2021,25
+2021-10-10 11:00:00,"Internacional-RS","RS","Chapecoense-SC","SC",5,2,2021,25
+2021-10-10 16:00:00,"Santos-SP","SP","Gremio-RS","RS",1,0,2021,25
+2021-10-11 20:00:00,"Cuiaba-MT","MT","Sao Paulo-SP","SP",0,0,2021,25
+2021-10-12 19:00:00,"Red Bull Bragantino-SP","SP","Atletico-GO","GO",1,0,2021,26
+2021-10-12 21:30:00,"Bahia-BA","BA","Palmeiras-SP","SP",0,0,2021,26
+2021-10-13 19:00:00,"Chapecoense-SC","SC","Atletico-PR","PR",1,1,2021,26
+2021-10-13 19:00:00,"Flamengo-RJ","RJ","Juventude-RS","RS",3,1,2021,26
+2021-10-13 19:00:00,"Atletico-MG","MG","Santos-SP","SP",3,1,2021,26
+2021-10-13 20:30:00,"Fortaleza-CE","CE","Gremio-RS","RS",1,0,2021,26
+2021-10-13 21:00:00,"Corinthians-SP","SP","Fluminense-RJ","RJ",1,0,2021,26
+2021-10-13 21:30:00,"Internacional-RS","RS","America-MG","MG",3,1,2021,26
+2021-10-14 19:00:00,"Cuiaba-MT","MT","Sport-PE","PE",1,0,2021,26
+2021-10-14 19:00:00,"Sao Paulo-SP","SP","Ceara-CE","CE",1,1,2021,26
+2021-10-16 19:00:00,"Chapecoense-SC","SC","Fortaleza-CE","CE",1,2,2021,27
+2021-10-16 21:00:00,"America-MG","MG","Bahia-BA","BA",0,0,2021,27
+2021-10-17 16:00:00,"Palmeiras-SP","SP","Internacional-RS","RS",1,0,2021,27
+2021-10-17 16:00:00,"Atletico-PR","PR","Fluminense-RJ","RJ",0,1,2021,27
+2021-10-17 18:15:00,"Gremio-RS","RS","Juventude-RS","RS",3,2,2021,27
+2021-10-17 18:15:00,"Atletico-GO","GO","Atletico-MG","MG",2,1,2021,27
+2021-10-17 18:15:00,"Ceara-CE","CE","Red Bull Bragantino-SP","SP",2,2,2021,27
+2021-10-17 20:30:00,"Sport-PE","PE","Santos-SP","SP",0,0,2021,27
+2021-10-17 20:30:00,"Flamengo-RJ","RJ","Cuiaba-MT","MT",0,0,2021,27
+2021-10-18 20:00:00,"Sao Paulo-SP","SP","Corinthians-SP","SP",1,0,2021,27
+2021-10-23 17:00:00,"Santos-SP","SP","America-MG","MG",0,2,2021,28
+2021-10-23 17:00:00,"Juventude-RS","RS","Ceara-CE","CE",0,0,2021,28
+2021-10-23 19:00:00,"Fluminense-RJ","RJ","Flamengo-RJ","RJ",3,1,2021,28
+2021-10-23 19:15:00,"Fortaleza-CE","CE","Atletico-PR","PR",3,0,2021,28
+2021-10-24 16:00:00,"Atletico-MG","MG","Cuiaba-MT","MT",2,1,2021,28
+2021-10-24 16:00:00,"Internacional-RS","RS","Corinthians-SP","SP",2,2,2021,28
+2021-10-24 18:15:00,"Red Bull Bragantino-SP","SP","Sao Paulo-SP","SP",1,0,2021,28
+2021-10-24 20:30:00,"Bahia-BA","BA","Chapecoense-SC","SC",3,0,2021,28
+2021-10-25 20:00:00,"Atletico-GO","GO","Gremio-RS","RS",2,0,2021,28
+2021-10-25 21:30:00,"Palmeiras-SP","SP","Sport-PE","PE",2,1,2021,28
+2021-10-30 17:00:00,"Atletico-PR","PR","Santos-SP","SP",0,1,2021,29
+2021-10-30 19:00:00,"Flamengo-RJ","RJ","Atletico-MG","MG",1,0,2021,29
+2021-10-30 19:15:00,"Juventude-RS","RS","Bahia-BA","BA",0,0,2021,29
+2021-10-30 21:00:00,"America-MG","MG","Fortaleza-CE","CE",2,1,2021,29
+2021-10-31 16:00:00,"Ceara-CE","CE","Fluminense-RJ","RJ",1,0,2021,29
+2021-10-31 16:00:00,"Gremio-RS","RS","Palmeiras-SP","SP",1,3,2021,29
+2021-10-31 18:15:00,"Sao Paulo-SP","SP","Internacional-RS","RS",1,0,2021,29
+2021-10-31 20:30:00,"Sport-PE","PE","Atletico-GO","GO",2,0,2021,29
+2021-11-01 20:00:00,"Cuiaba-MT","MT","Red Bull Bragantino-SP","SP",1,0,2021,29
+2021-11-01 21:30:00,"Corinthians-SP","SP","Chapecoense-SC","SC",1,0,2021,29
+2021-11-06 17:00:00,"Corinthians-SP","SP","Fortaleza-CE","CE",1,0,2021,30
+2021-11-06 19:00:00,"Internacional-RS","RS","Gremio-RS","RS",1,0,2021,30
+2021-11-06 21:00:00,"Fluminense-RJ","RJ","Sport-PE","PE",1,0,2021,30
+2021-11-07 16:00:00,"Santos-SP","SP","Palmeiras-SP","SP",0,2,2021,30
+2021-11-07 16:00:00,"Atletico-MG","MG","America-MG","MG",1,0,2021,30
+2021-11-07 16:00:00,"Red Bull Bragantino-SP","SP","Atletico-PR","PR",0,2,2021,30
+2021-11-07 18:15:00,"Bahia-BA","BA","Sao Paulo-SP","SP",1,0,2021,30
+2021-11-07 20:30:00,"Ceara-CE","CE","Cuiaba-MT","MT",1,0,2021,30
+2021-11-08 20:00:00,"Chapecoense-SC","SC","Flamengo-RJ","RJ",2,2,2021,30
+2021-11-23 19:00:00,"Atletico-GO","GO","Juventude-RS","RS",1,1,2021,30
+2021-11-04 21:00:00,"Cuiaba-MT","MT","Chapecoense-SC","SC",0,0,2021,31
+2021-11-09 21:30:00,"Gremio-RS","RS","Fluminense-RJ","RJ",1,0,2021,31
+2021-11-10 18:30:00,"Atletico-PR","PR","Ceara-CE","CE",2,1,2021,31
+2021-11-10 19:00:00,"Santos-SP","SP","Red Bull Bragantino-SP","SP",2,0,2021,31
+2021-11-10 19:00:00,"Atletico-MG","MG","Corinthians-SP","SP",3,0,2021,31
+2021-11-10 20:30:00,"Palmeiras-SP","SP","Atletico-GO","GO",4,0,2021,31
+2021-11-10 21:30:00,"Fortaleza-CE","CE","Sao Paulo-SP","SP",1,1,2021,31
+2021-11-10 21:30:00,"Sport-PE","PE","America-MG","MG",2,3,2021,31
+2021-11-10 21:30:00,"Juventude-RS","RS","Internacional-RS","RS",2,1,2021,31
+2021-11-11 19:00:00,"Flamengo-RJ","RJ","Bahia-BA","BA",3,0,2021,31
+2021-11-13 17:00:00,"Atletico-GO","GO","Santos-SP","SP",0,0,2021,32
+2021-11-13 18:30:00,"America-MG","MG","Gremio-RS","RS",3,1,2021,32
+2021-11-13 19:00:00,"Internacional-RS","RS","Atletico-PR","PR",2,1,2021,32
+2021-11-13 19:00:00,"Red Bull Bragantino-SP","SP","Fortaleza-CE","CE",3,0,2021,32
+2021-11-13 21:00:00,"Corinthians-SP","SP","Cuiaba-MT","MT",3,2,2021,32
+2021-11-14 16:00:00,"Sao Paulo-SP","SP","Flamengo-RJ","RJ",0,4,2021,32
+2021-11-14 18:15:00,"Fluminense-RJ","RJ","Palmeiras-SP","SP",2,1,2021,32
+2021-11-14 19:00:00,"Ceara-CE","CE","Sport-PE","PE",2,1,2021,32
+2021-11-14 19:00:00,"Chapecoense-SC","SC","Juventude-RS","RS",0,2,2021,32
+2021-12-02 18:00:00,"Bahia-BA","BA","Atletico-MG","MG",2,3,2021,32
+2021-11-16 16:00:00,"Atletico-PR","PR","Atletico-MG","MG",0,1,2021,33
+2021-11-16 18:00:00,"Gremio-RS","RS","Red Bull Bragantino-SP","SP",3,0,2021,33
+2021-11-17 19:00:00,"Cuiaba-MT","MT","Internacional-RS","RS",1,0,2021,33
+2021-11-17 19:00:00,"Santos-SP","SP","Chapecoense-SC","SC",2,0,2021,33
+2021-11-17 19:00:00,"America-MG","MG","Atletico-GO","GO",0,0,2021,33
+2021-11-17 20:00:00,"Fortaleza-CE","CE","Ceara-CE","CE",0,4,2021,33
+2021-11-17 20:30:00,"Palmeiras-SP","SP","Sao Paulo-SP","SP",0,2,2021,33
+2021-11-17 20:30:00,"Juventude-RS","RS","Fluminense-RJ","RJ",1,0,2021,33
+2021-11-17 21:30:00,"Flamengo-RJ","RJ","Corinthians-SP","SP",1,0,2021,33
+2021-11-18 21:00:00,"Sport-PE","PE","Bahia-BA","BA",1,0,2021,33
+2021-10-28 19:00:00,"Red Bull Bragantino-SP","SP","Sport-PE","PE",3,0,2021,34
+2021-11-20 19:00:00,"Atletico-MG","MG","Juventude-RS","RS",2,0,2021,34
+2021-11-20 19:00:00,"Fortaleza-CE","CE","Palmeiras-SP","SP",1,0,2021,34
+2021-11-20 19:00:00,"Chapecoense-SC","SC","Gremio-RS","RS",1,3,2021,34
+2021-11-20 21:00:00,"Atletico-GO","GO","Ceara-CE","CE",1,1,2021,34
+2021-11-20 21:30:00,"Internacional-RS","RS","Flamengo-RJ","RJ",1,2,2021,34
+2021-11-21 16:00:00,"Corinthians-SP","SP","Santos-SP","SP",2,0,2021,34
+2021-11-21 17:00:00,"Fluminense-RJ","RJ","America-MG","MG",2,0,2021,34
+2021-11-21 19:00:00,"Bahia-BA","BA","Cuiaba-MT","MT",0,0,2021,34
+2021-11-24 21:30:00,"Sao Paulo-SP","SP","Atletico-PR","PR",0,0,2021,34
+2021-11-23 21:30:00,"Palmeiras-SP","SP","Atletico-MG","MG",2,2,2021,35
+2021-11-24 21:30:00,"Fluminense-RJ","RJ","Internacional-RS","RS",1,0,2021,35
+2021-11-25 19:00:00,"Santos-SP","SP","Fortaleza-CE","CE",2,0,2021,35
+2021-11-25 20:00:00,"Ceara-CE","CE","Corinthians-SP","SP",2,1,2021,35
+2021-11-29 19:00:00,"Atletico-GO","GO","Bahia-BA","BA",2,1,2021,35
+2021-11-30 19:00:00,"Juventude-RS","RS","Red Bull Bragantino-SP","SP",1,0,2021,35
+2021-11-30 21:00:00,"America-MG","MG","Chapecoense-SC","SC",3,0,2021,35
+2021-12-02 20:00:00,"Gremio-RS","RS","Sao Paulo-SP","SP",3,0,2021,35
+2021-12-03 19:00:00,"Atletico-PR","PR","Cuiaba-MT","MT",1,0,2021,35
+2021-12-03 20:00:00,"Sport-PE","PE","Flamengo-RJ","RJ",1,1,2021,35
+2021-11-26 19:00:00,"Bahia-BA","BA","Gremio-RS","RS",3,1,2021,36
+2021-11-27 19:30:00,"Red Bull Bragantino-SP","SP","America-MG","MG",1,1,2021,36
+2021-11-27 21:30:00,"Sao Paulo-SP","SP","Sport-PE","PE",2,0,2021,36
+2021-11-28 16:00:00,"Corinthians-SP","SP","Atletico-PR","PR",1,0,2021,36
+2021-11-28 16:00:00,"Atletico-MG","MG","Fluminense-RJ","RJ",2,1,2021,36
+2021-11-28 19:00:00,"Internacional-RS","RS","Santos-SP","SP",1,1,2021,36
+2021-11-30 20:00:00,"Flamengo-RJ","RJ","Ceara-CE","CE",2,1,2021,36
+2021-11-30 22:00:00,"Cuiaba-MT","MT","Palmeiras-SP","SP",1,3,2021,36
+2021-12-03 20:00:00,"Chapecoense-SC","SC","Atletico-GO","GO",0,1,2021,36
+2021-12-03 21:00:00,"Fortaleza-CE","CE","Juventude-RS","RS",1,0,2021,36
+2021-12-05 16:00:00,"Corinthians-SP","SP","Gremio-RS","RS",1,1,2021,37
+2021-12-05 16:00:00,"Atletico-MG","MG","Red Bull Bragantino-SP","SP",4,3,2021,37
+2021-12-05 16:00:00,"Bahia-BA","BA","Fluminense-RJ","RJ",2,0,2021,37
+2021-12-05 19:00:00,"Ceara-CE","CE","America-MG","MG",0,0,2021,37
+2021-12-06 19:00:00,"Atletico-PR","PR","Palmeiras-SP","SP",0,0,2021,37
+2021-12-06 19:00:00,"Sao Paulo-SP","SP","Juventude-RS","RS",3,1,2021,37
+2021-12-06 20:00:00,"Cuiaba-MT","MT","Fortaleza-CE","CE",1,0,2021,37
+2021-12-06 20:00:00,"Flamengo-RJ","RJ","Santos-SP","SP",0,1,2021,37
+2021-12-06 20:00:00,"Internacional-RS","RS","Atletico-GO","GO",1,2,2021,37
+2021-12-06 21:00:00,"Chapecoense-SC","SC","Sport-PE","PE",0,1,2021,37
+2021-12-09 21:30:00,"Fluminense-RJ","RJ","Chapecoense-SC","SC",3,0,2021,38
+2021-12-09 21:30:00,"Palmeiras-SP","SP","Ceara-CE","CE",1,0,2021,38
+2021-12-09 21:30:00,"Santos-SP","SP","Cuiaba-MT","MT",1,1,2021,38
+2021-12-09 21:30:00,"America-MG","MG","Sao Paulo-SP","SP",2,0,2021,38
+2021-12-09 21:30:00,"Gremio-RS","RS","Atletico-MG","MG",4,3,2021,38
+2021-12-09 21:30:00,"Fortaleza-CE","CE","Bahia-BA","BA",2,1,2021,38
+2021-12-09 21:30:00,"Sport-PE","PE","Atletico-PR","PR",1,1,2021,38
+2021-12-09 21:30:00,"Red Bull Bragantino-SP","SP","Internacional-RS","RS",1,0,2021,38
+2021-12-09 21:30:00,"Juventude-RS","RS","Corinthians-SP","SP",1,0,2021,38
+2021-12-09 21:30:00,"Atletico-GO","GO","Flamengo-RJ","RJ",2,0,2021,38

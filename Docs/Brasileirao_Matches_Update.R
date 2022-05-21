@@ -1,4 +1,5 @@
 source("Docs/Scraping_Brasileirao_function.R")
+source("R/fix_names.R")
 
 # Creating df with historical data
 
@@ -35,14 +36,15 @@ rows_actual_season_na <- df_update %>%
 # Checking if there is new data
 if (rows_df_na == rows_actual_season_na) {
   print("The data frame is already up to date")
-  
+
 } else {
   Brasileirao_Matches %>%
     filter(season != year(Sys.Date())) %>%
     bind_rows(.,
               df_update) %>%
+    fix_names() %>%
     write.csv("Data/Brasileirao_Matches.csv",
               fileEncoding = "UTF-8",
               row.names = F)
-  
+
 }

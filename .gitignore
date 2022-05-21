@@ -1,7 +1,5 @@
 .Rproj.user
 .Rhistory
 .RData
-<<<<<<< HEAD
-=======
 .Ruserdata
->>>>>>> de875d10733acc365617cc23cd729329a95a62d2
+R/validacao_nomes_times.R

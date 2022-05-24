@@ -3864,11 +3864,11 @@
 2022-05-21 16:30:00,"Atletico-GO","GO","Coritiba-PR","PR",2,0,2022,7
 2022-05-21 18:30:00,"Santos-SP","SP","Ceara-CE","CE",0,0,2022,7
 2022-05-21 19:00:00,"Juventude-RS","RS","Palmeiras-SP","SP",0,3,2022,7
-2022-05-21 21:00:00,"Cuiaba-MT","MT","Internacional-RS","RS",NA,NA,2022,7
-2022-05-21 21:00:00,"America-MG","MG","Botafogo-RJ","RJ",NA,NA,2022,7
-2022-05-22 16:00:00,"Fortaleza-CE","CE","Fluminense-RJ","RJ",NA,NA,2022,7
-2022-05-22 16:00:00,"Corinthians-SP","SP","Sao Paulo-SP","SP",NA,NA,2022,7
-2022-05-22 19:00:00,"Atletico-PR","PR","Avai-SC","SC",NA,NA,2022,7
+2022-05-21 21:00:00,"Cuiaba-MT","MT","Internacional-RS","RS",1,1,2022,7
+2022-05-21 21:00:00,"America-MG","MG","Botafogo-RJ","RJ",1,1,2022,7
+2022-05-22 16:00:00,"Fortaleza-CE","CE","Fluminense-RJ","RJ",0,1,2022,7
+2022-05-22 16:00:00,"Corinthians-SP","SP","Sao Paulo-SP","SP",1,1,2022,7
+2022-05-22 19:00:00,"Atletico-PR","PR","Avai-SC","SC",2,1,2022,7
 2022-05-28 16:30:00,"Goias-GO","GO","Red Bull Bragantino-SP","SP",NA,NA,2022,8
 2022-05-28 19:00:00,"Sao Paulo-SP","SP","Ceara-CE","CE",NA,NA,2022,8
 2022-05-28 20:30:00,"Fortaleza-CE","CE","Juventude-RS","RS",NA,NA,2022,8

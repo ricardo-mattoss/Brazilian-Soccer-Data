@@ -3942,12 +3942,12 @@
 2022-07-02 16:30:00,"Fluminense-RJ","RJ","Corinthians-SP","SP",4,0,2022,15
 2022-07-02 16:30:00,"Juventude-RS","RS","Atletico-MG","MG",1,2,2022,15
 2022-07-02 19:00:00,"Santos-SP","SP","Flamengo-RJ","RJ",1,2,2022,15
-2022-07-02 19:00:00,"Ceara-CE","CE","Internacional-RS","RS",0,0,2022,15
-2022-07-02 21:00:00,"Palmeiras-SP","SP","Atletico-PR","PR",NA,NA,2022,15
-2022-07-03 11:00:00,"Avai-SC","SC","Cuiaba-MT","MT",NA,NA,2022,15
-2022-07-03 16:00:00,"Atletico-GO","GO","Sao Paulo-SP","SP",NA,NA,2022,15
-2022-07-03 18:00:00,"Coritiba-PR","PR","Fortaleza-CE","CE",NA,NA,2022,15
-2022-07-03 18:00:00,"America-MG","MG","Goias-GO","GO",NA,NA,2022,15
+2022-07-02 19:00:00,"Ceara-CE","CE","Internacional-RS","RS",1,1,2022,15
+2022-07-02 21:00:00,"Palmeiras-SP","SP","Atletico-PR","PR",0,2,2022,15
+2022-07-03 11:00:00,"Avai-SC","SC","Cuiaba-MT","MT",1,2,2022,15
+2022-07-03 16:00:00,"Atletico-GO","GO","Sao Paulo-SP","SP",1,2,2022,15
+2022-07-03 18:00:00,"Coritiba-PR","PR","Fortaleza-CE","CE",2,1,2022,15
+2022-07-03 18:00:00,"America-MG","MG","Goias-GO","GO",1,0,2022,15
 2022-07-04 20:00:00,"Red Bull Bragantino-SP","SP","Botafogo-RJ","RJ",NA,NA,2022,15
 2022-07-09 16:30:00,"Red Bull Bragantino-SP","SP","Avai-SC","SC",NA,NA,2022,16
 2022-07-09 19:00:00,"Fluminense-RJ","RJ","Ceara-CE","CE",NA,NA,2022,16

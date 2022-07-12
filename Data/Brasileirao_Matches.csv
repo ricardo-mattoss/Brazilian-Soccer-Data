@@ -3950,14 +3950,14 @@
 2022-07-03 18:00:00,"America-MG","MG","Goias-GO","GO",1,0,2022,15
 2022-07-04 20:00:00,"Red Bull Bragantino-SP","SP","Botafogo-RJ","RJ",0,1,2022,15
 2022-07-09 16:30:00,"Red Bull Bragantino-SP","SP","Avai-SC","SC",4,0,2022,16
-2022-07-09 19:00:00,"Fluminense-RJ","RJ","Ceara-CE","CE",NA,NA,2022,16
-2022-07-09 20:30:00,"Goias-GO","GO","Atletico-PR","PR",NA,NA,2022,16
-2022-07-10 11:00:00,"Coritiba-PR","PR","Juventude-RS","RS",NA,NA,2022,16
-2022-07-10 16:00:00,"Corinthians-SP","SP","Flamengo-RJ","RJ",NA,NA,2022,16
-2022-07-10 18:00:00,"Fortaleza-CE","CE","Palmeiras-SP","SP",NA,NA,2022,16
-2022-07-10 18:00:00,"Santos-SP","SP","Atletico-GO","GO",NA,NA,2022,16
-2022-07-10 18:00:00,"Atletico-MG","MG","Sao Paulo-SP","SP",NA,NA,2022,16
-2022-07-10 19:00:00,"Cuiaba-MT","MT","Botafogo-RJ","RJ",NA,NA,2022,16
+2022-07-09 19:00:00,"Fluminense-RJ","RJ","Ceara-CE","CE",2,1,2022,16
+2022-07-09 20:30:00,"Goias-GO","GO","Atletico-PR","PR",2,1,2022,16
+2022-07-10 11:00:00,"Coritiba-PR","PR","Juventude-RS","RS",2,2,2022,16
+2022-07-10 16:00:00,"Corinthians-SP","SP","Flamengo-RJ","RJ",1,0,2022,16
+2022-07-10 18:00:00,"Fortaleza-CE","CE","Palmeiras-SP","SP",0,0,2022,16
+2022-07-10 18:00:00,"Santos-SP","SP","Atletico-GO","GO",1,0,2022,16
+2022-07-10 18:00:00,"Atletico-MG","MG","Sao Paulo-SP","SP",0,0,2022,16
+2022-07-10 19:00:00,"Cuiaba-MT","MT","Botafogo-RJ","RJ",2,0,2022,16
 2022-07-11 20:00:00,"Internacional-RS","RS","America-MG","MG",NA,NA,2022,16
 2022-07-16 16:30:00,"Atletico-PR","PR","Internacional-RS","RS",NA,NA,2022,17
 2022-07-16 19:00:00,"Flamengo-RJ","RJ","Coritiba-PR","PR",NA,NA,2022,17

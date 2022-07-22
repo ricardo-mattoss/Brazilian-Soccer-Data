@@ -3970,13 +3970,13 @@
 2022-07-17 19:00:00,"America-MG","MG","Red Bull Bragantino-SP","SP",0,3,2022,17
 2022-07-18 20:00:00,"Palmeiras-SP","SP","Cuiaba-MT","MT",1,0,2022,17
 2022-07-19 21:30:00,"Ceara-CE","CE","Avai-SC","SC",1,0,2022,18
-2022-07-20 19:00:00,"Goias-GO","GO","Fluminense-RJ","RJ",3,2,2022,18
+2022-07-20 19:00:00,"Goias-GO","GO","Fluminense-RJ","RJ",2,3,2022,18
 2022-07-20 19:00:00,"Red Bull Bragantino-SP","SP","Fortaleza-CE","CE",2,1,2022,18
 2022-07-20 19:30:00,"Atletico-PR","PR","Atletico-GO","GO",4,1,2022,18
-2022-07-20 20:30:00,"Flamengo-RJ","RJ","Juventude-RS","RS",NA,NA,2022,18
-2022-07-20 20:30:00,"Internacional-RS","RS","Sao Paulo-SP","SP",NA,NA,2022,18
-2022-07-20 21:30:00,"Corinthians-SP","SP","Coritiba-PR","PR",NA,NA,2022,18
-2022-07-20 21:30:00,"Santos-SP","SP","Botafogo-RJ","RJ",NA,NA,2022,18
+2022-07-20 20:30:00,"Flamengo-RJ","RJ","Juventude-RS","RS",4,0,2022,18
+2022-07-20 20:30:00,"Internacional-RS","RS","Sao Paulo-SP","SP",3,3,2022,18
+2022-07-20 21:30:00,"Corinthians-SP","SP","Coritiba-PR","PR",3,1,2022,18
+2022-07-20 21:30:00,"Santos-SP","SP","Botafogo-RJ","RJ",2,0,2022,18
 2022-07-21 19:00:00,"Cuiaba-MT","MT","Atletico-MG","MG",NA,NA,2022,18
 2022-07-21 20:00:00,"America-MG","MG","Palmeiras-SP","SP",NA,NA,2022,18
 2022-07-23 19:00:00,"Sao Paulo-SP","SP","Goias-GO","GO",NA,NA,2022,19
@@ -3993,9 +3993,9 @@
 2022-07-30 16:30:00,"Ceara-CE","CE","Palmeiras-SP","SP",NA,NA,2022,20
 2022-07-30 19:00:00,"Corinthians-SP","SP","Botafogo-RJ","RJ",NA,NA,2022,20
 2022-07-30 20:30:00,"Flamengo-RJ","RJ","Atletico-GO","GO",NA,NA,2022,20
-2022-07-31 11:00:00,"America-MG","MG","Avai-SC","SC",NA,NA,2022,20
 2022-07-31 16:00:00,"Internacional-RS","RS","Atletico-MG","MG",NA,NA,2022,20
 2022-07-31 16:00:00,"Atletico-PR","PR","Sao Paulo-SP","SP",NA,NA,2022,20
+2022-07-31 18:00:00,"America-MG","MG","Avai-SC","SC",NA,NA,2022,20
 2022-07-31 18:00:00,"Cuiaba-MT","MT","Fortaleza-CE","CE",NA,NA,2022,20
 2022-07-31 19:00:00,"Red Bull Bragantino-SP","SP","Juventude-RS","RS",NA,NA,2022,20
 2022-08-01 20:00:00,"Santos-SP","SP","Fluminense-RJ","RJ",NA,NA,2022,20
@@ -4012,25 +4012,25 @@
 2022-08-13 16:30:00,"Goias-GO","GO","Avai-SC","SC",NA,NA,2022,22
 2022-08-13 19:00:00,"Corinthians-SP","SP","Palmeiras-SP","SP",NA,NA,2022,22
 2022-08-13 20:30:00,"Cuiaba-MT","MT","Juventude-RS","RS",NA,NA,2022,22
+2022-08-13 21:00:00,"Botafogo-RJ","RJ","Atletico-GO","GO",NA,NA,2022,22
 2022-08-14 11:00:00,"Coritiba-PR","PR","Atletico-MG","MG",NA,NA,2022,22
 2022-08-14 16:00:00,"Flamengo-RJ","RJ","Atletico-PR","PR",NA,NA,2022,22
-2022-08-14 16:00:00,"Sao Paulo-SP","SP","Red Bull Bragantino-SP","SP",NA,NA,2022,22
 2022-08-14 16:00:00,"Ceara-CE","CE","Fortaleza-CE","CE",NA,NA,2022,22
+2022-08-14 16:00:00,"Sao Paulo-SP","SP","Red Bull Bragantino-SP","SP",NA,NA,2022,22
 2022-08-14 18:00:00,"America-MG","MG","Santos-SP","SP",NA,NA,2022,22
 2022-08-14 19:00:00,"Internacional-RS","RS","Fluminense-RJ","RJ",NA,NA,2022,22
-2022-08-15 20:00:00,"Botafogo-RJ","RJ","Atletico-GO","GO",NA,NA,2022,22
-2022-08-20 16:30:00,"Santos-SP","SP","Sao Paulo-SP","SP",NA,NA,2022,23
 2022-08-20 19:00:00,"Fortaleza-CE","CE","Corinthians-SP","SP",NA,NA,2022,23
-2022-08-20 19:00:00,"Atletico-PR","PR","America-MG","MG",NA,NA,2022,23
-2022-08-20 20:30:00,"Fluminense-RJ","RJ","Coritiba-PR","PR",NA,NA,2022,23
 2022-08-20 20:30:00,"Atletico-GO","GO","Cuiaba-MT","MT",NA,NA,2022,23
+2022-08-20 20:30:00,"Fluminense-RJ","RJ","Coritiba-PR","PR",NA,NA,2022,23
 2022-08-21 11:00:00,"Juventude-RS","RS","Botafogo-RJ","RJ",NA,NA,2022,23
 2022-08-21 16:00:00,"Palmeiras-SP","SP","Flamengo-RJ","RJ",NA,NA,2022,23
+2022-08-21 18:00:00,"Atletico-PR","PR","America-MG","MG",NA,NA,2022,23
 2022-08-21 18:00:00,"Red Bull Bragantino-SP","SP","Ceara-CE","CE",NA,NA,2022,23
+2022-08-21 18:00:00,"Santos-SP","SP","Sao Paulo-SP","SP",NA,NA,2022,23
 2022-08-21 19:00:00,"Atletico-MG","MG","Goias-GO","GO",NA,NA,2022,23
 2022-08-22 20:00:00,"Avai-SC","SC","Internacional-RS","RS",NA,NA,2022,23
-2022-08-27 16:30:00,"Goias-GO","GO","Atletico-GO","GO",NA,NA,2022,24
 2022-08-27 16:30:00,"Coritiba-PR","PR","Avai-SC","SC",NA,NA,2022,24
+2022-08-27 16:30:00,"Goias-GO","GO","Atletico-GO","GO",NA,NA,2022,24
 2022-08-27 19:00:00,"Botafogo-RJ","RJ","Flamengo-RJ","RJ",NA,NA,2022,24
 2022-08-27 20:30:00,"Corinthians-SP","SP","Red Bull Bragantino-SP","SP",NA,NA,2022,24
 2022-08-28 11:00:00,"Fluminense-RJ","RJ","Palmeiras-SP","SP",NA,NA,2022,24

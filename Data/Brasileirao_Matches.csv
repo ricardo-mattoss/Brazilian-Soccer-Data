@@ -3999,8 +3999,8 @@
 2022-07-31 18:00:00,"Cuiaba-MT","MT","Fortaleza-CE","CE",0,1,2022,20
 2022-07-31 19:00:00,"Red Bull Bragantino-SP","SP","Juventude-RS","RS",1,0,2022,20
 2022-08-01 20:00:00,"Santos-SP","SP","Fluminense-RJ","RJ",2,2,2022,20
-2022-08-06 16:30:00,"Botafogo-RJ","RJ","Ceara-CE","CE",NA,NA,2022,21
-2022-08-06 16:30:00,"Juventude-RS","RS","America-MG","MG",NA,NA,2022,21
+2022-08-06 16:30:00,"Botafogo-RJ","RJ","Ceara-CE","CE",1,1,2022,21
+2022-08-06 16:30:00,"Juventude-RS","RS","America-MG","MG",0,1,2022,21
 2022-08-06 19:00:00,"Atletico-GO","GO","Red Bull Bragantino-SP","SP",NA,NA,2022,21
 2022-08-06 19:00:00,"Avai-SC","SC","Corinthians-SP","SP",NA,NA,2022,21
 2022-08-06 20:30:00,"Sao Paulo-SP","SP","Flamengo-RJ","RJ",NA,NA,2022,21
@@ -4019,15 +4019,15 @@
 2022-08-14 16:00:00,"Flamengo-RJ","RJ","Atletico-PR","PR",NA,NA,2022,22
 2022-08-14 18:00:00,"America-MG","MG","Santos-SP","SP",NA,NA,2022,22
 2022-08-14 19:00:00,"Internacional-RS","RS","Fluminense-RJ","RJ",NA,NA,2022,22
-2022-08-20 19:00:00,"Fortaleza-CE","CE","Corinthians-SP","SP",NA,NA,2022,23
-2022-08-20 20:30:00,"Fluminense-RJ","RJ","Coritiba-PR","PR",NA,NA,2022,23
+2022-08-20 16:30:00,"Atletico-MG","MG","Goias-GO","GO",NA,NA,2022,23
+2022-08-20 19:00:00,"Fluminense-RJ","RJ","Coritiba-PR","PR",NA,NA,2022,23
 2022-08-21 11:00:00,"Juventude-RS","RS","Botafogo-RJ","RJ",NA,NA,2022,23
 2022-08-21 16:00:00,"Palmeiras-SP","SP","Flamengo-RJ","RJ",NA,NA,2022,23
 2022-08-21 18:00:00,"Atletico-PR","PR","America-MG","MG",NA,NA,2022,23
 2022-08-21 18:00:00,"Red Bull Bragantino-SP","SP","Ceara-CE","CE",NA,NA,2022,23
 2022-08-21 18:00:00,"Santos-SP","SP","Sao Paulo-SP","SP",NA,NA,2022,23
 2022-08-21 18:00:00,"Atletico-GO","GO","Cuiaba-MT","MT",NA,NA,2022,23
-2022-08-21 19:00:00,"Atletico-MG","MG","Goias-GO","GO",NA,NA,2022,23
+2022-08-21 18:00:00,"Fortaleza-CE","CE","Corinthians-SP","SP",NA,NA,2022,23
 2022-08-22 20:00:00,"Avai-SC","SC","Internacional-RS","RS",NA,NA,2022,23
 2022-08-27 16:30:00,"Coritiba-PR","PR","Avai-SC","SC",NA,NA,2022,24
 2022-08-27 16:30:00,"Goias-GO","GO","Atletico-GO","GO",NA,NA,2022,24

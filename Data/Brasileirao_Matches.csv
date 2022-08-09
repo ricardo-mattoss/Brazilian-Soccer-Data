@@ -4001,13 +4001,13 @@
 2022-08-01 20:00:00,"Santos-SP","SP","Fluminense-RJ","RJ",2,2,2022,20
 2022-08-06 16:30:00,"Botafogo-RJ","RJ","Ceara-CE","CE",1,1,2022,21
 2022-08-06 16:30:00,"Juventude-RS","RS","America-MG","MG",0,1,2022,21
-2022-08-06 19:00:00,"Atletico-GO","GO","Red Bull Bragantino-SP","SP",NA,NA,2022,21
-2022-08-06 19:00:00,"Avai-SC","SC","Corinthians-SP","SP",NA,NA,2022,21
-2022-08-06 20:30:00,"Sao Paulo-SP","SP","Flamengo-RJ","RJ",NA,NA,2022,21
-2022-08-07 16:00:00,"Fluminense-RJ","RJ","Cuiaba-MT","MT",NA,NA,2022,21
-2022-08-07 16:00:00,"Palmeiras-SP","SP","Goias-GO","GO",NA,NA,2022,21
-2022-08-07 18:00:00,"Fortaleza-CE","CE","Internacional-RS","RS",NA,NA,2022,21
-2022-08-07 19:00:00,"Atletico-MG","MG","Atletico-PR","PR",NA,NA,2022,21
+2022-08-06 19:00:00,"Atletico-GO","GO","Red Bull Bragantino-SP","SP",2,1,2022,21
+2022-08-06 19:00:00,"Avai-SC","SC","Corinthians-SP","SP",1,1,2022,21
+2022-08-06 20:30:00,"Sao Paulo-SP","SP","Flamengo-RJ","RJ",0,2,2022,21
+2022-08-07 16:00:00,"Fluminense-RJ","RJ","Cuiaba-MT","MT",1,0,2022,21
+2022-08-07 16:00:00,"Palmeiras-SP","SP","Goias-GO","GO",3,0,2022,21
+2022-08-07 18:00:00,"Fortaleza-CE","CE","Internacional-RS","RS",3,0,2022,21
+2022-08-07 19:00:00,"Atletico-MG","MG","Atletico-PR","PR",2,3,2022,21
 2022-08-08 20:00:00,"Coritiba-PR","PR","Santos-SP","SP",NA,NA,2022,21
 2022-08-13 16:30:00,"Goias-GO","GO","Avai-SC","SC",NA,NA,2022,22
 2022-08-13 19:00:00,"Corinthians-SP","SP","Palmeiras-SP","SP",NA,NA,2022,22
